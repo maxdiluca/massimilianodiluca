@@ -35,20 +35,22 @@ social:
   - link: https://www.linkedin.com/in/maxdiluca/
     icon_pack: fab
     icon: LinkedIn
+  - link: https://publons.com/researcher/1170808/massimiliano-di-luca/
+    icon_pack: ai
+    icon: Publons
+  - link: https://orcid.org/0000-0003-3085-7251
+    icon_pack: ai
+    icon: OcrID
 organizations:
   - name: University of Birmingham
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Cognitive Science
+      institution: Brown University
+      year: 2006
+    - course: Laurea in Psicologia
+      institution: Universitá degli Studi di Trieste
 email: ""
 superuser: true
 authors:
