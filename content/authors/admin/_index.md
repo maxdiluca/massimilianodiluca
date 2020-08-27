@@ -1,7 +1,7 @@
 ---
 title: Massimiliano Di Luca
 role: Senior Lecturer
-avatar_filename: cf67d812-5a2c-4e1a-bd9b-8879622dc6be_1_105_c.jpeg
+avatar_filename: avatar.jpg
 bio: Dr Di Luca is Senior Lecturer at the University of Birmingham in the CNCR
   research centre. Using psychophysical methods and computational models, he
   investigates how the human brain processes multisensory information for
