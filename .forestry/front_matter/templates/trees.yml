@@ -11,6 +11,7 @@ fields:
 - type: boolean
   name: active
   label: active
+  default: true
 - type: number
   name: weight
   label: weight
