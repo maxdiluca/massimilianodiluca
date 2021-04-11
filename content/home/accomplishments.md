@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   title = "Lazy Susan: shipping stimuli for sensory research at a distance"
   url = ""
   certificate_url = ""
-  date_start = "2021-03-01”
-  date_end = "2022-02-31”
+  date_start = "2021-03-01"
+  date_end = "2022-02-31"
   description = "Small grant. £3.5k. PI with Alan Wing"
   
   
