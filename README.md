@@ -1,8 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04360be3-92e3-4425-aa4f-a59e779d4831/deploy-status)](https://app.netlify.com/sites/massimilianodiluca/deploys)
 
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
-# Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
 
 [**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
