@@ -22,11 +22,12 @@ date_format = "Jan 2006"
   organization = "EPSRC"
   organization_url = ""
   title = "ARME - Augmented Reality Music Ensamble"
-  url = "arme-project.netlify.app"
+  url = "https://arme-project.netlify.app"
   certificate_url = "https://www.coursera.org"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
   description = "EPSRC grant. £1.3M. PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
+
 
   [[item]]
   organization = "NHS"
@@ -37,8 +38,6 @@ date_format = "Jan 2006"
   date_start = "2021-04-01"
   date_end = "2022-03-31"
   description = "Equipment donation. £50k. PI with Alan Wing"
-
-
   
     [[item]]
   organization = "Experimental Society Society"
@@ -64,14 +63,6 @@ date_format = "Jan 2006"
   description = "UK/Ireland networking grant. £10k. co-I with Harriet Allen, Fiona Newell"
   
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+
 
 +++
