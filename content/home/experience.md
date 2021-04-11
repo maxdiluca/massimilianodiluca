@@ -36,4 +36,18 @@ subtitle = ""
   description = "Leading precepion research and interdisciplinary teams."
 
 
+
+[[experience]]
+  title = "Visiting Scientist"
+  company = "PRO Unlimited for an assigment at Oculus"
+  company_url = ""
+  location = "Redmond, WA"
+  date_start = "2015-07-01"
+  date_end = "2016-12-18"
+  description = """
+  Responsibilities included:
+
+* Building pipeline for user research
+* Performing perception research
+"""
 +++
