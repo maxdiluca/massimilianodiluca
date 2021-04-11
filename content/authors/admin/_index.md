@@ -32,7 +32,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/maxdiluca/
   - icon: orcid
-    icon_pack: ai
+    icon_pack: fas
      link: https://orcid.org/0000-0003-3085-7251
      
 organizations:
