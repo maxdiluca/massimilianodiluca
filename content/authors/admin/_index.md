@@ -22,8 +22,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
-  - icon: YouTube
-    icon_pack: ai
+  - icon: youtube
+    icon_pack: fab
     link: https://www.youtube.com/channel/UCZQbJbLjhbjD8X6TTmoipEA?view_as=subscriber
  
    
