@@ -28,37 +28,17 @@ date_format = "Jan 2006"
   date_end = "2024-08-31"
   description = "EPSRC grant. £1.3M. PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
 
-[[item]]
+
+  
+  [[item]]
   organization = "NHS"
   organization_url = ""
   title = "Movement tracking and evaluation"
   url = ""
   certificate_url = ""
-  date_start = "2021"
-  date_end = ""
+  date_start = "March 2021"
+  date_end = "April 2022"
   description = "Equipment donation. £50k. PI with Alan Wing"
-  
-  
-  [[item]]
-  organization = "ESRC-IRC"
-  organization_url = ""
-  title = "Seeing how you feel"
-  url = ""
-  certificate_url = ""
-  date_start = "2021"
-  date_end = "2022"
-  description = "UK/Ireland networking grant. £10k. co-I with Harriet Allen, Fiona Newell"
-  
-  
-    [[item]]
-  organization = "Experimental Society Society"
-  organization_url = "https://eps.ac.uk"
-  title = "Lazy Susan: shipping stimuli for sensory research at a distance"
-  url = ""
-  certificate_url = ""
-  date_start = "2021"
-  date_end = "2022"
-  description = "Small grant. £3.5k. PI with Alan Wing"
   
   
 [[item]]
