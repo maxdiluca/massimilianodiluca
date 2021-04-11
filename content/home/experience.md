@@ -26,7 +26,6 @@ subtitle = ""
   * Chair of the health and safety committee
   """
 
-+++
 [[experience]]
   title = "Research Scientist"
   company = "Facebook Reality Labs"
@@ -37,7 +36,7 @@ subtitle = ""
   description = """Leading precepion research and interdisciplinary teams.
   """
 
-+++
+
 
 [[experience]]
   title = "Visiting Scientist"
@@ -54,7 +53,7 @@ subtitle = ""
 * Performing perception research
 """
 
-+++
+
 [[experience]]
   title = "Lecturer"
   company = "University of Birmingham"
@@ -70,7 +69,7 @@ subtitle = ""
   * Leading Computational Neuroscience and Cognitive Robotics MSc course
 """
 
-+++
+
 [[experience]]
   title = " Scientist"
   company = "Max Planck Institute for Biological Cybernetics "
@@ -79,4 +78,4 @@ subtitle = ""
   date_start = "2006-08-01"
   date_end = "2011-07-31"
   description = """Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"""
-+++
+
