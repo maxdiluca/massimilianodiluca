@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
-  description = "EPSRC grant. £1.3M. PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
+  description = "EPSRC grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
 
 
   [[item]]
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-04-01"
   date_end = "2022-03-31"
-  description = "Equipment donation. £50k. PI with Alan Wing"
+  description = "Equipment donation, £50k, PI with Alan Wing"
   
     [[item]]
   organization = "Experimental Society Society"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-01"
   date_end = "2022-02-14"
-  description = "Small grant. £3.5k. PI with Alan Wing"
+  description = "Small grant, £3.5k, PI with Alan Wing"
   
   
   
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-01"
   date_end = "2022-02-10"
-  description = "UK/Ireland networking grant. £10k. co-I with Harriet Allen, Fiona Newell"
+  description = "UK/Ireland networking grant, £10k, co-I with Harriet Allen, Fiona Newell"
   
   
   [[item]]
@@ -71,9 +71,7 @@ date_format = "Jan 2006"
   certificate_url = "https://gtr.ukri.org/projects?ref=BB%2FR003971%2F1"
   date_start = "2018-01-01"
   date_end = "2021-08-31"
-  description = "BBSRC grant. £1.0M. co-PI with Alan Wing, Harriet Allen, Roberta Roberts. In collaboration with P&G"
-
-
+  description = "BBSRC grant, £1.0M, co-PI with Alan Wing, Harriet Allen, Roberta Roberts. In collaboration with P&G"
 
 
 
@@ -85,7 +83,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-03-01"
   date_end = "2017-10-31"
-  description = "£10k, co-PI with Alan Wing"
+  description = "SRA, £10k, co-PI with Alan Wing"
 
 
 
@@ -97,7 +95,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-03-01"
   date_end = "2016-02-28"
-  description = "£25k, co-PI with Alan Wing"
+  description = "SRA, £25k, co-PI with Alan Wing"
   
   
   [[item]]
@@ -108,7 +106,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-09-01"
   date_end = "2016-08-30"
-  description = "Career integration award €100k, PI"
+  description = "Career integration award, €100k, PI"
   
   
   [[item]]
@@ -119,7 +117,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2015-08-31"
-  description = "£20k, co-PI with Alan Wing"
+  description = "SRA, £20k, co-PI with Alan Wing"
   
   
     [[item]]
@@ -130,7 +128,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-06-01"
   date_end = "2015-11-31"
-  description = "£5k, PI"
+  description = "SRA, £5k, PI"
   
     [[item]]
   organization = "Procter & Gamble"
@@ -140,7 +138,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-03-01"
   date_end = "2014-07-31"
-  description = "£5k, PI"
+  description = "SRA, £5k, PI"
   
   
   
@@ -152,7 +150,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-09-01"
   date_end = "2013-08-31"
-  description = "£15k, PI"
+  description = "Research grant, £15k, PI"
 +++
 
 
