@@ -18,7 +18,7 @@ date_format = "Jan 2006"
    Leave `date_end` empty if it's your current employer.
    Begin/end multi-line descriptions with 3 quotes `"""`.
    
-   
++++   
    
 [[experience]]
   title = "Senior lecturer"
@@ -35,6 +35,7 @@ date_format = "Jan 2006"
   * Business engagement chamption
   * Chair of the health and safety committee
   """
++++
 
 [[experience]]
   title = "Research Scientist"
@@ -61,7 +62,7 @@ date_format = "Jan 2006"
 * Build pipeline for user research
 * Perform perception research
 """
-
++++
 
 [[experience]]
   title = "Lecturer"
@@ -77,6 +78,7 @@ date_format = "Jan 2006"
   * Teaching the MSc module Mind, Brain and Models and CNCR foundations
   * Leading Computational Neuroscience and Cognitive Robotics MSc course
 """
++++
 
 [[experience]]
   title = " Scientist"
