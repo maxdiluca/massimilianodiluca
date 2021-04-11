@@ -23,20 +23,9 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
   - icon: YouTube
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.youtube.com/channel/UCZQbJbLjhbjD8X6TTmoipEA?view_as=subscriber
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/maxdiluca
-  - icon: LinkedIn 
-    icon_pack: fab
-    link: https://www.linkedin.com/in/maxdiluca/
-  - icon: Publons
-    icon_pack: ai
-    link: https://publons.com/researcher/1170808/massimiliano-di-luca/
-  - icon: OrcID
-    icon_pack: ai
-     link: https://orcid.org/0000-0003-3085-7251
+ 
    
 organizations:
   - name: University of Birmingham
