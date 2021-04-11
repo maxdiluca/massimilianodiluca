@@ -33,8 +33,7 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2017-07-01"
   date_end = "2019-09-01"
-  description = """Leading precepion research and interdisciplinary teams.
-  """
+  description = "Leading precepion research and interdisciplinary teams."
 
 
 
@@ -47,7 +46,6 @@ subtitle = ""
   date_end = "2016-12-18"
   description = """
   Responsibilities included:
-
 
 * Building pipeline for user research
 * Performing perception research
@@ -77,5 +75,5 @@ subtitle = ""
   location = "Tübingen"
   date_start = "2006-08-01"
   date_end = "2011-07-31"
-  description = """Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"""
+  description = "Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"
 
