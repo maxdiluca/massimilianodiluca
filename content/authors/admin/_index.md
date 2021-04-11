@@ -28,12 +28,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/maxdiluca
-  - icon: linkedin 
-    icon_pack: fab
-    link: https://www.linkedin.com/in/maxdiluca/
-  - icon: orcid
-    icon_pack: fab
-     link: https://orcid.org/0000-0003-3085-7251
+
    
 organizations:
   - name: University of Birmingham
