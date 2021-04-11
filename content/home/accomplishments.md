@@ -26,12 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
-  description = """
-  EPSRC grant 
-  £1.3M 
-  PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot
-  In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet
-  """
+  description = "EPSRC grant. £1.3M. PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
 
 [[item]]
   organization = "NHS"
@@ -41,11 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021"
   date_end = ""
-  description = """
-  Equipment donation
-  £50k
-  PI with Alan Wing
-  """
+  description = "Equipment donation. £50k. PI with Alan Wing"
   
   
   [[item]]
@@ -56,11 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021"
   date_end = "2022"
-  description = """
-  UK/Ireland networking grant
-  £10k
-  co-I with Harriet Allen, Fiona Newell
-  """
+  description = "UK/Ireland networking grant. £10k. co-I with Harriet Allen, Fiona Newell"
   
   
     [[item]]
@@ -71,11 +58,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021"
   date_end = "2022"
-  description = """
-  Small grant
-  £3.5k
-  PI with Alan Wing
-  """
+  description = "Small grant. £3.5k. PI with Alan Wing"
   
   
 [[item]]
