@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Grants"
 subtitle = ""
 
 # Date format
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-03-01"
-  date_end = "2017-10-31"
+  date_end = "2017-10-30"
   description = "SRA, £10k, co-PI with Alan Wing"
 
 
@@ -105,7 +105,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2012-09-01"
-  date_end = "2016-08-30"
+  date_end = "2016-08-31"
   description = "Career integration award, €100k, PI"
   
   
@@ -127,7 +127,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2015-06-01"
-  date_end = "2015-11-31"
+  date_end = "2015-11-30"
   description = "SRA, £5k, PI"
   
     [[item]]
