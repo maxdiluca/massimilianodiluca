@@ -50,4 +50,19 @@ subtitle = ""
 * Building pipeline for user research
 * Performing perception research
 """
+
+[[experience]]
+  title = "Lecturer"
+  company = "University of Birmingham"
+  company_url = ""
+  location = "Birmingham, UK"
+  date_start = "2011-08-01"
+  date_end = "2018-07-02"
+  description = """
+  Responsibilities included:
+  
+  * Researching
+  * Teaching the MSc module Mind, Brain and Models and CNCR foundations
+  * Leading Computational Neuroscience and Cognitive Robotics MSc course
+"""
 +++
