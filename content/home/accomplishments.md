@@ -19,14 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
+  organization = "EPSRC"
+  organization_url = ""
+  title = "ARME - Augmented Reality Music Ensamble"
+  url = "arme-project.netlify.app"
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  date_start = "2021-09-01"
+  date_end = "2024-08-31"
+  description = """
+  EPSRC grant 
+  £1.3M 
+  PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot
+  In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet
+  """
 
 [[item]]
   organization = "edX"
