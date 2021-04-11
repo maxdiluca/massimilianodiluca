@@ -27,7 +27,6 @@ subtitle = ""
   * Business engagement chamption
   * Chair of the health and safety committee
   """
-+++
 
 [[experience]]
   title = "Research Scientist"
@@ -36,8 +35,9 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2017-07-01"
   date_end = "2019-09-01"
-  description = """Lead precepion research and interdisciplinary teams."""
-+++
+  description = """Leading precepion research and interdisciplinary teams.
+  """
+
 
 
 [[experience]]
@@ -47,14 +47,14 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2015-07-01"
   date_end = "2016-12-18"
-  description = """"""
+  description = """
   Responsibilities included:
 
 
-* Build pipeline for user research
-* Perform perception research
+* Building pipeline for user research
+* Performing perception research
 """
-+++
+
 
 [[experience]]
   title = "Lecturer"
@@ -66,11 +66,11 @@ subtitle = ""
   description = """
   Responsibilities included:
   
-  * Research 
+  * Researching
   * Teaching the MSc module Mind, Brain and Models and CNCR foundations
   * Leading Computational Neuroscience and Cognitive Robotics MSc course
 """
-+++
+
 
 [[experience]]
   title = " Scientist"
@@ -79,5 +79,5 @@ subtitle = ""
   location = "Tübingen"
   date_start = "2006-08-01"
   date_end = "2011-07-31"
-  description = """Performed research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"""
+  description = """Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"""
 +++
