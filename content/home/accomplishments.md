@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
-  description = "EPSRC grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
+  description = "Grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"
 
 
   [[item]]
@@ -54,10 +54,10 @@ date_format = "Jan 2006"
   
   [[item]]
   organization = "ESRC-IRC"
-  organization_url = ""
+  organization_url = "https://esrc.ukri.org"
   title = "Seeing how you feel"
-  url = "https://gtr.ukri.org/projects?ref=ES%2FV007904%2F1"
-  certificate_url = ""
+  url = ""
+  certificate_url = "https://gtr.ukri.org/projects?ref=ES%2FV007904%2F1"
   date_start = "2021-03-01"
   date_end = "2022-02-10"
   description = "UK/Ireland networking grant, £10k, co-I with Harriet Allen, Fiona Newell"
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   certificate_url = "https://gtr.ukri.org/projects?ref=BB%2FR003971%2F1"
   date_start = "2018-01-01"
   date_end = "2021-08-31"
-  description = "BBSRC grant, £1.0M, co-PI with Alan Wing, Harriet Allen, Roberta Roberts. In collaboration with P&G"
+  description = "Grant, £1.0M, co-PI with Alan Wing, Harriet Allen, Roberta Roberts. In collaboration with P&G"
 
 
 
@@ -98,17 +98,7 @@ date_format = "Jan 2006"
   description = "SRA, £25k, co-PI with Alan Wing"
   
   
-  [[item]]
-  organization = "Marie Curie"
-  organization_url = ""
-  title = "Temporal information in crossmodal stimuli (TICS)"
-  url = ""
-  certificate_url = ""
-  date_start = "2012-09-01"
-  date_end = "2016-08-31"
-  description = "Career integration award, €100k, PI"
-  
-  
+
   [[item]]
   organization = "Procter & Gamble"
   organization_url = ""
@@ -141,6 +131,17 @@ date_format = "Jan 2006"
   description = "SRA, £5k, PI"
   
   
+    [[item]]
+  organization = "Marie Curie"
+  organization_url = ""
+  title = "Temporal information in crossmodal stimuli (TICS)"
+  url = ""
+  certificate_url = "https://cordis.europa.eu/project/id/304235"
+  date_start = "2012-06-01"
+  date_end = "2016-05-31"
+  description = "Career integration award, €100k, PI"
+  
+  
   
     [[item]]
   organization = "Royal society"
@@ -148,8 +149,8 @@ date_format = "Jan 2006"
   title = "Haptic perception of softness"
   url = ""
   certificate_url = ""
-  date_start = "2012-09-01"
-  date_end = "2013-08-31"
+  date_start = "2012-05-01"
+  date_end = "2013-04-30"
   description = "Research grant, £15k, PI"
 +++
 

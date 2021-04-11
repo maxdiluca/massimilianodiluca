@@ -17,14 +17,13 @@ subtitle = ""
   location = "Birmingham, UK"
   date_start = "2018-07-03"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = ""
+#  Responsibilities include:
   
-  * Research https://research.birmingham.ac.uk/portal/en/persons/max-di-luca(21acbdfe-fa38-402c-9141-9f9e63d27824).html
-  * Teaching the MSc module Mind, Brain and Models
-  * Business engagement chamption
-  * Chair of the health and safety committee
-  """
+  #* Research https://research.birmingham.ac.uk/portal/en/persons/max-di-luca(21acbdfe-fa38-402c-9141-9f9e63d27824).html
+  #* Teaching the MSc module Mind, Brain and Models
+  #* Business engagement chamption
+  #* Chair of the health and safety committee
 
 [[experience]]
   title = "Research Scientist"
@@ -33,7 +32,8 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2017-07-01"
   date_end = "2019-09-01"
-  description = "Leading precepion research and interdisciplinary teams."
+  description = ""
+  #"Leading precepion research and interdisciplinary teams."
 
 
 
@@ -44,12 +44,12 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2015-07-01"
   date_end = "2016-12-18"
-  description = """
-  Responsibilities included:
+  description = ""
+#  Responsibilities included:
 
-* Building pipeline for user research
-* Performing perception research
-"""
+#* Building pipeline for user research
+#* Performing perception research
+#"""
 
 [[experience]]
   title = "Lecturer"
@@ -58,13 +58,13 @@ subtitle = ""
   location = "Birmingham, UK"
   date_start = "2011-08-01"
   date_end = "2018-07-02"
-  description = """
-  Responsibilities included:
+  description = ""
+#  Responsibilities included:
   
-  * Researching
-  * Teaching the MSc module Mind, Brain and Models and CNCR foundations
-  * Leading Computational Neuroscience and Cognitive Robotics MSc course
-"""
+#  * Researching
+  #* Teaching the MSc module Mind, Brain and Models and CNCR foundations
+  #* Leading Computational Neuroscience and Cognitive Robotics MSc course
+#"""
 
 
 [[experience]]
@@ -74,6 +74,7 @@ subtitle = ""
   location = "Tübingen"
   date_start = "2006-08-01"
   date_end = "2011-07-31"
-  description = "Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling in Marc Ernst group and in Heinrich Bülthoff group"
+  description = ""
+  #Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling in Marc Ernst group and in Heinrich Bülthoff group"
   
 +++

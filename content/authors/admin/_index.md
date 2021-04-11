@@ -8,10 +8,9 @@ bio: Dr Di Luca is Senior Lecturer at the University of Birmingham in the Centre
   
 interests:
   - Human perception
-  - Multisensory perception
-  - Virtual Reality
   - Haptics
-  - Temporal perception
+  - Virtual Reality
+  - Computational modeling
 social:
   - icon: envelope
     icon_pack: fas
