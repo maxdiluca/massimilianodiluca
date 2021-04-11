@@ -24,7 +24,7 @@ social:
     link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UCZQbJbLjhbjD8X6TTmoipEA?view_as=subscriber
+    link: https://youtube.com/playlist?list=PLRBLD3PiUPlzAmKsL7gicIvci2lRXoZah
   - icon: github
     icon_pack: fab
     link: https://github.com/maxdiluca
