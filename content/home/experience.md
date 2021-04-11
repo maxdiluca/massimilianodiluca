@@ -65,4 +65,15 @@ subtitle = ""
   * Teaching the MSc module Mind, Brain and Models and CNCR foundations
   * Leading Computational Neuroscience and Cognitive Robotics MSc course
 """
+
+
+[[experience]]
+  title = " Scientist"
+  company = "Max Planck Institute for Biological Cybernetics "
+  company_url = ""
+  location = "Tübingen"
+  date_start = "2006-08-01"
+  date_end = "2011-07-31"
+  description = "Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"
+  
 +++
