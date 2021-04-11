@@ -38,6 +38,31 @@ date_format = "Jan 2006"
   date_end = "2022-03-31"
   description = "Equipment donation. £50k. PI with Alan Wing"
 
+
+  
+    [[item]]
+  organization = "Experimental Society Society"
+  organization_url = "https://eps.ac.uk"
+  title = "Lazy Susan: shipping stimuli for sensory research at a distance"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-01”
+  date_end = "2022-02-31”
+  description = "Small grant. £3.5k. PI with Alan Wing"
+  
+  
+  
+  
+  [[item]]
+  organization = "ESRC-IRC"
+  organization_url = ""
+  title = "Seeing how you feel"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-01"
+  date_end = "2022-02-31"
+  description = "UK/Ireland networking grant. £10k. co-I with Harriet Allen, Fiona Newell"
+  
   
 [[item]]
   organization = "DataCamp"
