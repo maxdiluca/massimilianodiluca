@@ -31,9 +31,6 @@ social:
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/maxdiluca/
-  - icon: publons
-    icon_pack: ai
-    link: https://publons.com/researcher/1170808/massimiliano-di-luca/
   - icon: orcid
     icon_pack: fab
      link: https://orcid.org/0000-0003-3085-7251
