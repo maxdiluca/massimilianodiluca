@@ -1,5 +1,5 @@
 ---
-title: Multisensory perception
+title: Multisensory perception2
 subtitle: How do we perceive objects and events by sensed through multiple
   sources of sensory information?
 date: 2020-08-27T21:12:05.368Z
