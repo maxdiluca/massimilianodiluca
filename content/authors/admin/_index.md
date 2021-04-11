@@ -22,13 +22,13 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
+   - link: https://www.youtube.com/channel/UCZQbJbLjhbjD8X6TTmoipEA?view_as=subscriber
+    icon_pack: fab
+    icon: YouTube
   - icon: github
     icon_pack: fab
     link: https://github.com/maxdiluca
-  - link: https://www.youtube.com/channel/UCZQbJbLjhbjD8X6TTmoipEA?view_as=subscriber
-    icon_pack: fab
-    icon: YouTube
-  - link: https://www.linkedin.com/in/maxdiluca/
+ - link: https://www.linkedin.com/in/maxdiluca/
     icon_pack: fab
     icon: LinkedIn
   - link: https://publons.com/researcher/1170808/massimiliano-di-luca/
