@@ -20,7 +20,7 @@ subtitle = ""
   description = """
   Responsibilities include:
   
-  * Research https://research.birmingham.ac.uk/portal/en/persons/max-di-luca(21acbdfe-fa38-402c-9141-9f9e63d27824).html?_ga=2.231499160.684524609.1618138994-1237357139.1617453997
+  * Research https://research.birmingham.ac.uk/portal/en/persons/max-di-luca(21acbdfe-fa38-402c-9141-9f9e63d27824).html
   * Teaching the MSc module Mind, Brain and Models
   * Business engagement chamption
   * Chair of the health and safety committee
@@ -70,10 +70,10 @@ subtitle = ""
 [[experience]]
   title = " Scientist"
   company = "Max Planck Institute for Biological Cybernetics "
-  company_url = ""
+  company_url = "https://pure.mpg.de/cone/persons/resource/persons83885"
   location = "Tübingen"
   date_start = "2006-08-01"
   date_end = "2011-07-31"
-  description = "Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling"
+  description = "Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling in Marc Ernst group and in Heinrich Bülthoff group"
   
 +++
