@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[SEE ALL PUBLICATIONS >]({{< ref "/publication/_index.md" >}})

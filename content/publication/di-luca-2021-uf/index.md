@@ -5,7 +5,7 @@ title: 'Locomotion Vault: the Extra Mile in Analyzing VR Locomotion Techniques'
 subtitle: ''
 summary: ''
 authors:
-- M., Seifi, M., Egan, S., Gonzales Franco, M. Di Luca
+- M. Di Luca, M., Seifi, M., Egan, S., Gonzales Franco
 tags: []
 categories: []
 date: '2021-01-01'
@@ -33,3 +33,7 @@ publication_types:
 abstract: 'Numerous techniques have been proposed for locomotion in virtual reality (VR). Several taxonomies consider a large number of attributes (e.g., hardware, accessibility) to characterize these techniques. However, finding the appropriate locomotion technique (LT) and identifying gaps for future designs in the high-dimensional space of attributes can be quite challenging. To aid analysis and innovation, we devised Locomotion Vault (https://locomotionvault.github.io/), a database and visualization of over 100 LTs from academia and industry. We propose similarity between LTs as a metric to aid navigation and visualization. We show that similarity based on attribute values correlates with expert similarity assessments (a method that does not scale). Our analysis also highlights an inherent trade-off between simulation sickness and accessibility across LTs. As such, Locomotion Vault shows to be a tool that unifies information on LTs and enables their standardization and large-scale comparison to help understand the space of possibilities in VR locomotion.'
 publication: '*ACM CHI*'
 ---
+
+See the talk here:
+
+{{< youtube id="KVF_V6P1698" >}}
