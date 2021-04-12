@@ -1,15 +1,15 @@
 ---
-title: Multisensory perception
+title: Multisensory perceptiond
 subtitle: How do we perceive objects and events by sensed through multiple
   sources of sensory information?
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "skdjfan"
 draft: false
 featured: true
 authors: []
-external_link: aside
+external_link: 
 links:
-  - url: asdf
+  - url: 
     icon_pack: fas
     icon: circle
     name: sadfasf

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,8 +75,17 @@ subtitle = ""
  css_class = ""
 +++
 
+
+{{< youtube id="SZ5_4HnPUso" >}}
+
 The goal of Dr Di Luca’s work is to understand and model how the brain processes sensory stimuli allowing humans to perceive the word and produce successful behavior. In particular, he investigates the temporal properties of the mechanisms involved. For this, Dr Di Luca uses psychophysical methods, signal processing, Bayesian modeling, imaging, and a wide range of technological tools.
 
 The information we acquire from the environment is continuously varying: we reach out, explore, and interact with objects that can move unpredictably. So we have multiple sensory signals available contemporarily, these signals are dynamic, and the information that they carry is a function of our actions. Despite such variations and complexity, our brain is capable of picking up, combining, and using information to create a percept and guide our behavior. It is not entirely clear what are the computations that allow us to effectively process such information and what are the properties of the neural mechanisms involved.
 
 To shed light on these open issues, Dr Di Luca employs experimental stimuli that have some of the properties encountered during normal interaction with the environment, stimuli that vary over time, that change in response to our actions, or that contain redundant information about the world.
+
+
+
+
+
+
