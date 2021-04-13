@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Peter W. Battaglia
-- Massimiliano di Luca
+- Massimiliano Di Luca
 - Marc O. Ernst
 - Paul R. Schrater
 - Tonja Machulla
