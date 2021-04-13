@@ -1,29 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Locomotion Vault : the Extra Mile in Analyzing VR Locomotion Techniques'
+title: 'Locomotion Vault: the Extra Mile in Analyzing VR Locomotion Techniques'
 subtitle: ''
 summary: ''
 authors:
-- Massimiliano Di Luca
-- Hasti Seifi
-- Simon Egan
-- Mar Gonzalez-franco
-tags:
-- '"acm reference format"'
-- '"database"'
-- '"ing"'
-- '"locomotion method"'
-- '"locomotion technique"'
-- '"movement"'
-- '"navigation"'
-- '"travel-"'
-- '"visualization"'
-- '"vr"'
+- M. Di Luca, M., Seifi, M., Egan, S., Gonzales Franco
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-04-13T01:06:14+02:00
-featured: false
+lastmod: 2021-04-11T12:08:03+02:00
+featured: true
 draft: false
 
 # Featured image
@@ -40,13 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:14.515912Z'
+publishDate: '2021-04-11T10:08:03.145658Z'
 publication_types:
 - '1'
-abstract: attribute values correlates with expert similarity assessments (a method
-  that does not scale). Our analysis also highlights an inher- ent trade-off between
-  simulation sickness and accessibility across LTs. As such, Locomotion Vault shows
-  to be a tool that unifies information on LTs and enables their standardization and
-  large- scale comparison to help understand the space of possibilities in VR locomotion.
+abstract: 'Numerous techniques have been proposed for locomotion in virtual reality (VR). Several taxonomies consider a large number of attributes (e.g., hardware, accessibility) to characterize these techniques. However, finding the appropriate locomotion technique (LT) and identifying gaps for future designs in the high-dimensional space of attributes can be quite challenging. To aid analysis and innovation, we devised Locomotion Vault (https://locomotionvault.github.io/), a database and visualization of over 100 LTs from academia and industry. We propose similarity between LTs as a metric to aid navigation and visualization. We show that similarity based on attribute values correlates with expert similarity assessments (a method that does not scale). Our analysis also highlights an inherent trade-off between simulation sickness and accessibility across LTs. As such, Locomotion Vault shows to be a tool that unifies information on LTs and enables their standardization and large-scale comparison to help understand the space of possibilities in VR locomotion.'
 publication: '*ACM CHI*'
 ---
+
+See the talk here:
+
+{{< youtube id="KVF_V6P1698" >}}
