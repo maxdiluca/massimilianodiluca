@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Methods, devices, and systems for modifying perceived haptic stimulations on
+title: Methods, devices, and systems for creating localized haptic stimulations on
   a user
 subtitle: ''
 summary: ''
@@ -15,11 +15,10 @@ authors:
 - Yon Visell
 - Yitian Shao
 - Bharat Dandu
-- ' others'
 tags: []
 categories: []
-date: '2020-08-01'
-lastmod: 2021-04-11T12:08:02+02:00
+date: '2020-01-01'
+lastmod: 2021-04-13T01:06:36+02:00
 featured: false
 draft: false
 
@@ -37,9 +36,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-11T10:08:01.203988Z'
+publishDate: '2021-04-12T23:06:35.660572Z'
 publication_types:
 - '8'
 abstract: ''
 publication: ''
+url_pdf: https://worldwide.espacenet.com/patent/search/family/067139112/publication/EP3738019A1?q=pn%3DEP3738019A1%3F
 ---

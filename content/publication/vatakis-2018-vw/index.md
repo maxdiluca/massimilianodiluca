@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Argiro Vatakis
-- Fuat Balcı
+- Fuat Balcı̄
 - Massimiliano Di Luca
 - Ángel Correa
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-04-11T12:07:25+02:00
+lastmod: 2021-04-13T01:06:37+02:00
 featured: false
 draft: false
 
@@ -30,9 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-11T10:07:24.153756Z'
+publishDate: '2021-04-12T23:06:37.265337Z'
 publication_types:
 - '5'
-abstract: ''
-publication: '*https://www.jstor.org/stable/10.1163/j.ctvbqs54b*'
+abstract: 'Timing and Time Perception: Procedures, Measures, and Applications is a
+  one-of-a-kind, collective effort to present -theoretically and practically- the
+  most utilized and known methods on timing and time perception.'
+publication: ''
+url_pdf: https://www.jstor.org/stable/10.1163/j.ctvbqs54b
 ---

@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-04-11T12:07:09+02:00
+lastmod: 2021-04-13T01:06:09+02:00
 featured: false
 draft: false
 
@@ -32,10 +32,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-11T10:07:08.743435Z'
+publishDate: '2021-04-12T23:06:08.608987Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*International Conference on Human Haptic Sensing and Touch Enabled
-  Computer Applications*'
+abstract: 'Two joystick-based teleoperation is a common method for controlling a remote
+  machine or a robot. Their use could be counter-intuitive and could require a heavy
+  mental workload. The goal of this paper is to investigate whether vibrotactile prompts
+  could be used to trigger dual-joystick responses quickly and intuitively, so to
+  possibly employ them for training. In particular, we investigate the effects of:
+  (1) stimuli delivered either on the palm or on the back of the hand, (2) with attractive
+  and repulsive mappings, (3) with single and sequential stimuli. We find that 38
+  participants responded quicker and more accurately when stimuli were delivered on
+  the back of the hand, preferred to move towards the vibration. Sequential stimuli
+  led to intermediate responses in terms of speed and accuracy.'
+publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
+  in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
+url_pdf: http://link.springer.com/10.1007/978-3-319-93399-3_49
+doi: 10.1007/978-3-319-93399-3_49
 ---

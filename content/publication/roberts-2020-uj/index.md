@@ -5,15 +5,15 @@ title: Contact forces in roughness discrimination
 subtitle: ''
 summary: ''
 authors:
-- Roberta D Roberts
-- Aldrin R Loomes
-- Harriet A Allen
+- Roberta D. Roberts
+- Aldrin R. Loomes
+- Harriet A. Allen
 - Massimiliano Di Luca
-- Alan M Wing
+- Alan M. Wing
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-11T12:07:52+02:00
+date: '2020-12-01'
+lastmod: 2021-04-13T01:06:05+02:00
 featured: false
 draft: false
 
@@ -31,9 +31,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-11T10:07:51.947332Z'
+publishDate: '2021-04-12T23:06:05.012649Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Roughness perception through fingertip contact with a textured surface can
+  involve spatial and temporal cues from skin indentation and vibration respectively.
+  Both types of cue may be affected by contact forces when feeling a surface and we
+  ask whether, on a given trial, discrimination performance relates to contact forces.
+  We examine roughness discrimination performance in a standard psychophysical method
+  (2-interval forced choice, in which the participant identifies which of two spatial
+  textures formed by parallel grooves feels rougher) while continuously measuring
+  the normal and tangential forces applied by the index finger. Fourteen participants
+  discriminated spatial gratings in fine (spatial period of 320--580 micron) and coarse
+  (1520--1920 micron) ranges using static pressing or sliding contact of the index
+  finger. Normal contact force (mean and variability) during pressing or sliding had
+  relatively little impact on accuracy of roughness judgments except when pressing
+  on surfaces in the coarse range. Discrimination was better for sliding than pressing
+  in the fine but not the coarse range. In contrast, tangential force fluctuations
+  during sliding were strongly related to roughness judgment accuracy.
 publication: '*Scientific Reports*'
+url_pdf: http://www.nature.com/articles/s41598-020-61943-x
+doi: 10.1038/s41598-020-61943-x
 ---

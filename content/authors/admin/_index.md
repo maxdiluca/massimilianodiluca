@@ -56,7 +56,7 @@ user_groups:
   - Visitors
 ---
 Dr Di Luca is Senior Lecturer at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
-  research centre. He earned the Laurea in Psychology from the Università  di Trieste and the PhD in Cognitive Science from Brown University. During his carer, he has been Scientist at the Max Planck Institute for Biological Cybernetics in Tübingen, Visiting Scientist at Oculus Research and Research Scientist at Facebook Reality Labs.
+  Robotics. He earned the Laurea in Psychology from the Università  di Trieste and the PhD in Cognitive Science from Brown University. During his carer, he has been Scientist at the Max Planck Institute for Biological Cybernetics in Tübingen, Visiting Scientist at Oculus Research and Research Scientist at Facebook Reality Labs.
 
   Dr Di Luca performs both fundamental and applied research to investigate how humans process multisensory stimuli, with an accent on understanding the temporal, dynamic, and interactive nature of perception. He uses psychophysical experiments and neuroimaging methods to capture how the brain employs multiple sources of sensory information and combines them with assumptions, predictions, and information obtained through active exploration.
 

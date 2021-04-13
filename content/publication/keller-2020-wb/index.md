@@ -17,8 +17,8 @@ authors:
 - Bharat Dandu
 tags: []
 categories: []
-date: '2020-06-01'
-lastmod: 2021-04-11T12:07:43+02:00
+date: '2020-01-01'
+lastmod: 2021-04-13T01:06:36+02:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-11T10:07:42.945427Z'
+publishDate: '2021-04-12T23:06:36.208063Z'
 publication_types:
 - '8'
 abstract: ''
