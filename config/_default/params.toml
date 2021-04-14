@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true, presentations=true, research=true}
 
 ############################
 ## Contact details
@@ -107,14 +107,14 @@ directions = "Enter Hills Building and take the stairs to Office 216 on Floor 2"
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/dilucamax"
+appointment_url = "https://calendly.com/massimilianodiluca"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/maxdiluca"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/messages/compose?recipient_id=21845474&text=Hello"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/oxmRed85QyLB"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
