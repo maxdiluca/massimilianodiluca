@@ -8,6 +8,7 @@ authors:
 - Massimiliano Di Luca
 tags:
 - '"virtual reality"'
+- '"technique"'
 - '"delay"'
 - '"measurement method"'
 - '"latency"'

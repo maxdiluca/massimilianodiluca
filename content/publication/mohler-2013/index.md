@@ -13,6 +13,7 @@ tags:
 - '"multisensory perception"'
 - '"spatial"'
 - '"navigation"'
+- '"locomotion"'
 - '"virtual reality"'
 categories: []
 date: '2013-01-01'
