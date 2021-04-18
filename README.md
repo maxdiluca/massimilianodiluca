@@ -1,6 +1,6 @@
 to build, type: https://api.netlify.com/build_hooks/6077ddbd3ccd3a8358360c8a
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/04360be3-92e3-4425-aa4f-a59e779d4831/deploy-status)](https://app.netlify.com/sites/massimilianodiluca/deploys)
+build status: [![Netlify Status](https://api.netlify.com/api/v1/badges/04360be3-92e3-4425-aa4f-a59e779d4831/deploy-status)](https://app.netlify.com/sites/massimilianodiluca/deploys)
 
 http://massimilianodiluca.netlify.app
 
@@ -14,7 +14,7 @@ academic import --bibtex /Users/dilucamax/Library/Mobile\ Documents/com\~apple\~
 
 vi ~/.zshrc  
 
-hugo server 
+hugo server --disableFastRender
 
 Push
 
