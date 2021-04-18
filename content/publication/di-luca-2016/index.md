@@ -6,7 +6,7 @@ title: 'Optimal Perceived Timing: Integrating Sensory Information with Dynamical
 subtitle: ''
 summary: ''
 authors:
-- Massimiliano DI Luca
+- Massimiliano Di Luca
 - Darren Rhodes
 tags:
 - '"audiovisual simultaneity"'
