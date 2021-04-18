@@ -11,6 +11,8 @@ authors:
 - Andrew E. Welchman
 tags:
 - '"fmri"'
+- '"3d shape"'
+- '"neuroimaging"'
 - '"material perception"'
 - '"posterior fusiform sulcus"'
 - '"surface gloss"'

@@ -9,6 +9,8 @@ authors:
 - Fulvio Domini
 - Massimiliano Di Luca
 tags:
+- '"3d shape"'
+- '"orientation"'
 - '"optic flow"'
 - '"structure from motion"'
 - '"temporal integration"'

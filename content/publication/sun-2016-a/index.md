@@ -13,6 +13,8 @@ authors:
 - Roland W. Fleming
 - Andrew E. Welchman
 tags:
+- '"3d shape"'
+- '"neuroimaging"'
 - '"binocular cue"'
 - '"mvpa"'
 - '"material perception"'

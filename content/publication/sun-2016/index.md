@@ -11,6 +11,8 @@ authors:
 - Dorita H.F. Chang
 - Massimiliano Di Luca
 tags:
+- '"3d shape"'
+- '"neuroimaging"'
 - '"glossiness"'
 - '"mvpa"'
 - '"roughness"'

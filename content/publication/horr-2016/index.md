@@ -10,6 +10,8 @@ authors:
 - Maria Wimber
 - Massimiliano Di Luca
 tags:
+- '"EEG"'
+- '"neuroimaging"'
 - '"entrainment"'
 - '"filled-duration illusion"'
 - '"isochrony"'
