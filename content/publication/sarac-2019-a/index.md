@@ -1,17 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Haptic Sketches on the Arm for Manipulation in Virtual Reality
+title: Haptic Sketches on the Arm for manipulation in virtual reality
 subtitle: ''
 summary: ''
 authors:
 - Mine Sarac
 - Allison M. Okamura
 - Massimiliano Di Luca
-tags: []
+tags:
+- '"haptic perception"'
+- '"haptics"'
+- '"wearable"'
+- '"weight perception"'
+- '"stiffness"'
+- '"device"'
 categories: []
 date: '2019-11-01'
-lastmod: 2021-04-13T01:06:11+02:00
+lastmod: 2021-04-16T20:49:27+02:00
 featured: false
 draft: false
 
@@ -29,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:11.412235Z'
+publishDate: '2021-04-16T18:49:26.420291Z'
 publication_types:
-- '2'
+- '3'
 abstract: We propose a haptic system that applies forces or skin deformation to the
   user's arm, rather than at the fingertips, for believable interaction with virtual
   objects as an alternative to complex thimble devices. Such a haptic system would

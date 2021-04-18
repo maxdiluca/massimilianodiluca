@@ -9,13 +9,13 @@ authors:
 - Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-- '"Crossmodal intervals"'
-- '"Linear regression model"'
-- '"Perceived duration"'
-- '"Sensory latency"'
+- '"crossmodal intervals"'
+- '"linear regression model"'
+- '"perceived duration"'
+- '"sensory latency"'
 categories: []
-date: '2014-03-01'
-lastmod: 2021-04-13T01:06:07+02:00
+date: '2014-01-01'
+lastmod: 2021-04-16T20:49:47+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:06.559195Z'
+publishDate: '2021-04-16T18:49:46.665573Z'
 publication_types:
 - '2'
 abstract: How humans perform duration judgments with multisensory stimuli is an ongoing
@@ -52,8 +52,7 @@ abstract: How humans perform duration judgments with multisensory stimuli is an 
   Instead, we did not find evidence for multiplicative distortions. The results of
   the model and the behavioural data support the concept of a single time-keeping
   mechanism that allows for judgments of durations marked by multisensory stimuli.
-  © 2013 Elsevier B.V.
 publication: '*Acta Psychologica*'
-url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/23953664
 doi: 10.1016/j.actpsy.2013.07.009
 ---
+{{< paper_badges "10.1016/j.actpsy.2013.07.009" >}}

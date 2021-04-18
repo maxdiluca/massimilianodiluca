@@ -9,13 +9,14 @@ authors:
 - Massimiliano Di Luca
 - Matthias Harders
 tags:
-- '"Deformable models"'
-- '"Discrimination study"'
-- '"Force discrimination"'
-- '"Haptic rendering"'
+- '"deformable models"'
+- '"discrimination"'
+- '"force discrimination"'
+- '"haptic rendering"'
+- '"psychophysics; haptics"'
 categories: []
 date: '2010-01-01'
-lastmod: 2021-04-13T01:06:33+02:00
+lastmod: 2021-04-16T20:49:13+02:00
 featured: false
 draft: false
 
@@ -33,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:33.370323Z'
+publishDate: '2021-04-16T18:49:12.765379Z'
 publication_types:
 - '2'
 abstract: In this article, the data-driven haptic rendering approach presented in
@@ -52,3 +53,5 @@ abstract: In this article, the data-driven haptic rendering approach presented i
 publication: '*ACM Transactions on Applied Perception*'
 doi: 10.1145/1857893.1857900
 ---
+
+{{< paper_badges "10.1145/1857893.1857900" >}}

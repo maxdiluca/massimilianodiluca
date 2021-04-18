@@ -8,10 +8,16 @@ authors:
 - Mine Sarac
 - Allison M. Okamura
 - Massimiliano Di Luca
-tags: []
+tags:
+- '"haptic perception"'
+- '"haptics"'
+- '"wearable"'
+- '"weight perception"'
+- '"stiffness"'
+- '"device"'
 categories: []
 date: '2019-11-01'
-lastmod: 2021-04-13T01:06:07+02:00
+lastmod: 2021-04-16T20:49:34+02:00
 featured: false
 draft: false
 
@@ -29,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:07.058721Z'
+publishDate: '2021-04-16T18:49:33.214982Z'
 publication_types:
-- '2'
+- '3'
 abstract: As an alternative to thimble devices for the fingertips, we investigate
   haptic systems that apply stimulus to the user's forearm. Our aim is to provide
   effective interaction with virtual objects, despite the lack of co-location of virtual

@@ -8,10 +8,15 @@ authors:
 - Anzu Kawazoe
 - Massimiliano Di Luca
 - Yon Visell
-tags: []
+tags:
+- '"augmented reality"'
+- '"vibrotactile stimuli"'
+- '"haptic"'
+- '"tactile sensitivity"'
+- '" wearable"'
 categories: []
 date: '2019-07-01'
-lastmod: 2021-04-13T01:06:27+02:00
+lastmod: 2021-04-16T20:49:30+02:00
 featured: false
 draft: false
 
@@ -29,14 +34,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:27.058156Z'
+publishDate: '2021-04-16T18:49:30.420725Z'
 publication_types:
 - '1'
 abstract: We present Tactile Echoes, a wearable system for augmenting tactile interactions
   with any object. This system senses vibrations in the fingertip that are produced
   by interactions of the finger with a touched object. It processes the vibration
   signals in real-time via a parametric signal network and returns them to the finger
-  as \"Tactile Echoes\" of the touch interaction. Just as acoustic echoes continuously
+  as "Tactile Echoes" of the touch interaction. Just as acoustic echoes continuously
   respond to sound, Tactile Echoes are continuously generated in response to the sensed
   tactile contacts. A short finger tap produces discrete Echoes, while a slide can
   yield continuous feedback. We also render the signals as sound, yielding multisensory
@@ -48,7 +53,9 @@ abstract: We present Tactile Echoes, a wearable system for augmenting tactile in
   representations of the perceptual similarities between different Echoes. This system
   holds promise for enabling evocative haptic effects during a wide range of free-hand
   tactile interactions.
-publication: '*2019 IEEE World Haptics Conference (WHC)*'
+publication: '*2019 IEEE World Haptics Conference, WHC 2019*'
 url_pdf: https://ieeexplore.ieee.org/document/8816099/
 doi: 10.1109/WHC.2019.8816099
 ---
+
+{{< paper_badges "10.1109/WHC.2019.8816099" >}}

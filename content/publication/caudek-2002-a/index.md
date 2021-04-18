@@ -9,23 +9,19 @@ authors:
 - Fulvio Domini
 - Massimiliano Di Luca
 tags:
-- '"Adult"'
-- '"Contrast Sensitivity"'
-- '"Depth Perception"'
-- '"Discrimination Learning"'
-- '"Female"'
-- '"Humans"'
-- '"Lighting"'
-- '"Male"'
-- '"Motion Perception"'
-- '"Optical Illusions"'
-- '"Orientation"'
-- '"Pattern Recognition"'
-- '"Psychophysics"'
-- '"Visual"'
+- '"3d shape"'
+- '"shape from shading"'
+- '"structure from motion"'
+- '"shadow"'
+- '"depth perception"'
+- '"discrimination"'
+- '"lighting"'
+- '"motion perception"'
+- '"vision"'
+- '"psychophysics"'
 categories: []
 date: '2002-01-01'
-lastmod: 2021-04-13T01:06:12+02:00
+lastmod: 2021-04-16T20:49:38+02:00
 featured: false
 draft: false
 
@@ -43,23 +39,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:11.957097Z'
+publishDate: '2021-04-16T18:49:37.464348Z'
 publication_types:
 - '2'
-abstract: Observers' perceptions of the three-dimensional structure of smoothly curved
-  surfaces defined by patterns of image shading were investigated under varying conditions
-  of illumination. In five experiments, observers judged the global orientation and
-  the motion of the simulated surfaces from both static and dynamic patterns of image
-  shading. We found that perceptual performance was more accurate with static than
-  with dynamic displays. Dynamic displays evoked systematic biases in perceptual performance
-  when the surface and the illumination source were simulated as rotating in opposite
-  directions. In these conditions, the surface was incorrectly perceived as rotating
-  in the same direction as the illumination source. Conversely, the orientation of
-  the simulated surfaces was perceived correctly when the frames making up the apparent-motion
-  sequences of the dynamic displays were presented as static images. In Experiment
-  6, moreover, the results obtained with the computer-generated displays were replicated
-  with solid objects.
+abstract: Observers' perceptions of the three-dimensional structure of smoothly curved surfaces defined by patterns of image shading were investigated under varying conditions of illumination. In five experiments, observers judged the global orientation and the motion of the simulated surfaces from both static and dynamic patterns of image shading. We found that perceptual performance was more accurate with static than with dynamic displays. Dynamic displays evoked systematic biases in perceptual performance when the surface and the illumination source were simulated as rotating in opposite directions. In these conditions, the surface was incorrectly perceived as rotating in the same direction as the illumination source. Conversely, the orientation of the simulated surfaces was perceived correctly when the frames making up the apparent-motion sequences of the dynamic displays were presented as static images. In Experiment 6, moreover, the results obtained with the computer-generated displays were replicated with solid objects.
 publication: '*Perception and Psychophysics*'
 url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/12049278
 doi: 10.3758/BF03194710
 ---
+
+{{< video src="ani.mp4" >}}
+
+{{< video src="clip0029.mp4" >}}
+
+{{< paper_badges "10.3758/BF03194710" >}}

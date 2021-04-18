@@ -9,7 +9,7 @@ title = "Experience"
 subtitle = ""
 
 
-   
+
 [[experience]]
   title = "Senior lecturer"
   company = "University of Birmingham"
@@ -17,13 +17,15 @@ subtitle = ""
   location = "Birmingham, UK"
   date_start = "2018-07-03"
   date_end = ""
-  description = ""
-#  Responsibilities include:
-  
-  #* Research https://research.birmingham.ac.uk/portal/en/persons/max-di-luca(21acbdfe-fa38-402c-9141-9f9e63d27824).html
-  #* Teaching the MSc module Mind, Brain and Models
-  #* Business engagement chamption
-  #* Chair of the health and safety committee
+  description = """
+  Responsibilities include:
+
+  * Research
+  * Mentoring PhD, MSc, and BSc students in psychology and CS
+  * Teaching Practicum MSc modules and the MSc module Mind, Brain and Models
+  * Business engagement Champion
+  * Chair of the health and safety committee
+  """
 
 [[experience]]
   title = "Research Scientist"
@@ -33,7 +35,7 @@ subtitle = ""
   date_start = "2017-07-01"
   date_end = "2019-09-01"
   description = ""
-  #"Leading precepion research and interdisciplinary teams."
+  #"Leading perception research and interdisciplinary teams."
 
 
 
@@ -46,10 +48,8 @@ subtitle = ""
   date_end = "2016-12-18"
   description = ""
 #  Responsibilities included:
-
 #* Building pipeline for user research
 #* Performing perception research
-#"""
 
 [[experience]]
   title = "Lecturer"
@@ -58,13 +58,15 @@ subtitle = ""
   location = "Birmingham, UK"
   date_start = "2011-08-01"
   date_end = "2018-07-02"
-  description = ""
-#  Responsibilities included:
-  
-#  * Researching
-  #* Teaching the MSc module Mind, Brain and Models and CNCR foundations
-  #* Leading Computational Neuroscience and Cognitive Robotics MSc course
-#"""
+  description = """
+ Responsibilities included:
+
+  * Researching
+  * Mentoring PhD, MSc, and BSc students in psychology
+  * Teaching the MSc modules: Mind, Brain and Models and CNCR foundations
+  * Leading Computational Neuroscience and Cognitive Robotics MSc course
+  * Business engagement, ethics reviews, website management
+"""
 
 
 [[experience]]
@@ -74,7 +76,12 @@ subtitle = ""
   location = "Tübingen"
   date_start = "2006-08-01"
   date_end = "2011-07-31"
-  description = ""
-  #Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling in Marc Ernst group and in Heinrich Bülthoff group"
-  
+  description = """
+ Responsibilities included:
+
+* Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling in Marc Ernst group and in Heinrich Bülthoff group
+* Mentoring PhD, MSc, and BSc students in psychology
+* Coordinating the work on European grants
+"""
+
 +++

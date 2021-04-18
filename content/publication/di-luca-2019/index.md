@@ -7,11 +7,18 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 - Arash Mahnan
-tags: []
+tags:
+- '"delay"'
+- '"temporal order judgment"'
+- '"time perception"'
+- '"virtual reality"'
+- '"vibrotactile stimuli"'
+- '"visual-haptic integration"'
+- '"psychophysics"'
 categories: []
 date: '2019-07-01'
-lastmod: 2021-04-13T01:06:22+02:00
-featured: false
+lastmod: 2021-04-16T20:49:37+02:00
+featured: true
 draft: false
 
 # Featured image
@@ -28,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:22.106602Z'
+publishDate: '2021-04-16T18:49:35.969191Z'
 publication_types:
 - '1'
 abstract: The goal of this work is to establish the range of visual-haptic asynchronies
@@ -51,3 +58,7 @@ publication: '*2019 IEEE World Haptics Conference (WHC)*'
 url_pdf: https://ieeexplore.ieee.org/document/8816173/
 doi: 10.1109/WHC.2019.8816173
 ---
+{{<video src="WHC 2019 - 1147.mp4">}}
+
+
+{{< paper_badges "10.1109/WHC.2019.8816173" >}}

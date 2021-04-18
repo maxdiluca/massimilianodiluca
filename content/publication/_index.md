@@ -15,7 +15,6 @@ header:
 ---
 
 
-https://scholar.google.com/citations?hl=en&user=93hi3QcAAAAJ
+[See my google scholar](https://scholar.google.com/citations?hl=en&user=93hi3QcAAAAJ)
 
-https://www.scopus.com/authid/detail.uri?authorId=7004587933
-
+[See my scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7004587933)

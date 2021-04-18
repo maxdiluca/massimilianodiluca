@@ -8,15 +8,15 @@ authors:
 - Min S. Li
 - Massimiliano Di Luca
 tags:
-- '"Expectation"'
-- '"Isochrony"'
-- '"Musical scale"'
-- '"Perceived timing"'
-- '"Temporal sensitivity"'
-- '"Tone frequency"'
+- '"expectation"'
+- '"isochrony"'
+- '"musical scale"'
+- '"perceived timing"'
+- '"temporal sensitivity"'
+- '"tone frequency"'
 categories: []
 date: '2018-02-01'
-lastmod: 2021-04-13T01:06:18+02:00
+lastmod: 2021-04-16T20:49:40+02:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T23:06:18.557235Z'
+publishDate: '2021-04-16T18:49:39.664025Z'
 publication_types:
 - '2'
 abstract: Predicting the time of stimulus onset is a key component in perception.
@@ -58,3 +58,5 @@ publication: '*Frontiers in Psychology*'
 url_pdf: http://journal.frontiersin.org/article/10.3389/fpsyg.2018.00105/full
 doi: 10.3389/fpsyg.2018.00105
 ---
+
+{{< paper_badges "10.3389/fpsyg.2018.00105" >}}
