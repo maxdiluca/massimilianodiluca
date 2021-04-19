@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-04-01"
   date_end = "2022-03-31"
-  description = "Equipment donation, £50k, PI with Alan Wing"
-  
+  description = "Equipment donation, PI with Alan Wing"
+
     [[item]]
   organization = "Experimental Society Society"
   organization_url = "https://eps.ac.uk"
@@ -47,11 +47,11 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-01"
   date_end = "2022-02-14"
-  description = "Small grant, £3.5k, PI with Alan Wing"
-  
-  
-  
-  
+  description = "Small grant, PI with Alan Wing"
+
+
+
+
   [[item]]
   organization = "ESRC-IRC"
   organization_url = "https://esrc.ukri.org"
@@ -61,8 +61,8 @@ date_format = "Jan 2006"
   date_start = "2021-03-01"
   date_end = "2022-02-10"
   description = "UK/Ireland networking grant, £10k, co-I with Harriet Allen, Fiona Newell"
-  
-  
+
+
   [[item]]
   organization = "BBSRC"
   organization_url = ""
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-03-01"
   date_end = "2017-10-30"
-  description = "SRA, £10k, co-PI with Alan Wing"
+  description = "SRA, co-PI with Alan Wing"
 
 
 
@@ -95,9 +95,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-03-01"
   date_end = "2016-02-28"
-  description = "SRA, £25k, co-PI with Alan Wing"
-  
-  
+  description = "SRA, co-PI with Alan Wing"
+
+
 
   [[item]]
   organization = "Procter & Gamble"
@@ -107,9 +107,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2015-08-31"
-  description = "SRA, £20k, co-PI with Alan Wing"
-  
-  
+  description = "SRA, co-PI with Alan Wing"
+
+
     [[item]]
   organization = "Oculus VR"
   organization_url = ""
@@ -118,8 +118,8 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-06-01"
   date_end = "2015-11-30"
-  description = "SRA, £5k, PI"
-  
+  description = "SRA, PI"
+
     [[item]]
   organization = "Procter & Gamble"
   organization_url = ""
@@ -128,9 +128,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-03-01"
   date_end = "2014-07-31"
-  description = "SRA, £5k, PI"
-  
-  
+  description = "SRA, PI"
+
+
     [[item]]
   organization = "Marie Curie"
   organization_url = ""
@@ -140,9 +140,9 @@ date_format = "Jan 2006"
   date_start = "2012-06-01"
   date_end = "2016-05-31"
   description = "Career integration award, €100k, PI"
-  
-  
-  
+
+
+
     [[item]]
   organization = "Royal society"
   organization_url = ""
@@ -153,5 +153,3 @@ date_format = "Jan 2006"
   date_end = "2013-04-30"
   description = "Research grant, £15k, PI"
 +++
-
-
