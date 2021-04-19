@@ -18,6 +18,8 @@ tags:
 - '"virtual reality"'
 - '"vision"'
 - '"bayesian model"'
+
+- '"force feedback"'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:40+02:00

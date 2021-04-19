@@ -15,6 +15,8 @@ tags:
 - '"haptic"'
 - '"multimodal"'
 - '"user evaluation"'
+
+- '"force feedback"'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:21+02:00

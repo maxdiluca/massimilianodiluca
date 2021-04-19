@@ -18,6 +18,7 @@ tags:
 - '"visual-haptic integration"'
 - '"bayesian model"'
 - '"psychophysics"'
+- '"force feedback"'
 categories: []
 date: '2011-06-01'
 lastmod: 2021-04-16T20:49:20+02:00

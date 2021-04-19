@@ -15,6 +15,7 @@ tags:
 - '"weight perception"'
 - '"stiffness"'
 - '"device"'
+- '"force feedback"'
 categories: []
 date: '2019-11-01'
 lastmod: 2021-04-16T20:49:34+02:00

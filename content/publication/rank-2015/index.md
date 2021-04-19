@@ -13,6 +13,7 @@ tags:
 - '"haptics"'
 - '"jnd"'
 - '"response time"'
+- '"force feedback"'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:49:00+02:00

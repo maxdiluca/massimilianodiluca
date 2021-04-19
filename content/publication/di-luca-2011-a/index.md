@@ -17,6 +17,7 @@ tags:
 - '"haptics"'
 - '"virtual reality"'
 - '"bayesian model"'
+- '"force feedback"'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:49:14+02:00
