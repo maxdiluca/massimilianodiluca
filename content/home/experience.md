@@ -20,11 +20,11 @@ subtitle = ""
   description = """
   Responsibilities include:
 
-  * Research
-  * Mentoring PhD, MSc, and BSc students in psychology and CS
-  * Teaching Practicum MSc modules and the MSc module Mind, Brain and Models
-  * Business engagement Champion
-  * Chair of the health and safety committee
+  * Researching
+  * Mentoring Postdocs, PhD, MSc, and BSc students in psychology and CS
+  * Teaching the Research practicum MSc module and the Mind, Brain and Models MSc module
+  * Business Engagement Champion for Life and Environmental Science college
+  * Chair of the school health and safety committee
   """
 
 [[experience]]
@@ -41,7 +41,7 @@ subtitle = ""
 
 [[experience]]
   title = "Visiting Scientist"
-  company = "PRO Unlimited for an assigment at Oculus"
+  company = "PRO Unlimited for an assignment at Oculus"
   company_url = ""
   location = "Redmond, WA"
   date_start = "2015-07-01"

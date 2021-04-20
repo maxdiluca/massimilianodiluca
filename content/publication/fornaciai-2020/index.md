@@ -41,5 +41,6 @@ url_pdf: http://doi.apa.org/getdoi.cfm?doi=10.1037/xhp0000754
 doi: 10.1037/xhp0000754
 ---
 
+{{<youtube id="J7dcS68V4GE">}}
 
 {{< paper_badges "10.1037/xhp0000754" >}}
