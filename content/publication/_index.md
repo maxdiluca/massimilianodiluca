@@ -6,7 +6,7 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 3
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -15,6 +15,6 @@ header:
 ---
 
 
-[See my google scholar](https://scholar.google.com/citations?hl=en&user=93hi3QcAAAAJ)
+[See my google scholar page](https://scholar.google.com/citations?hl=en&user=93hi3QcAAAAJ)
 
 [See my scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7004587933)

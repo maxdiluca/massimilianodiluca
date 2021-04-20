@@ -1,6 +1,8 @@
 {{- define "main" -}}
 
 {{ partial "page_header.html" . }}
+<br>
+<br>
 
 <div class="universal-wrapper">
   <div class="row">
@@ -15,6 +17,9 @@
         {{ $year := print (.Date.Format "2006") }}
         {{ $.Scratch.SetInMap "years" $year $year }}
       {{ end }}
+      <br>
+      <br>
+      <br>
 
       <div class="form-row mb-4">
         <div class="col-auto">
@@ -46,6 +51,8 @@
           </select>
         </div>
       </div>
+      <br>
+      <br>
 
       <div id="container-publications">
         {{ range .Pages.ByDate.Reverse }}
