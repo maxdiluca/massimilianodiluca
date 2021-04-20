@@ -41,4 +41,8 @@ abstract: "Abstract A virtual reality (VR) system tracks one or more objects to 
 publication: '*Presence: Teleoperators and Virtual Environments*'
 doi: 10.1162/pres_a_00023
 ---
+
+(S. Friston blog)[http://www0.cs.ucl.ac.uk/staff/S.Friston/supplementarymaterials/latencymeasurementinvirtualenvironments/dilucasmethod.html]
+
+
 {{< paper_badges "10.1162/pres_a_00023" >}}

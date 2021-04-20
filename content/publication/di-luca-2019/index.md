@@ -62,4 +62,7 @@ doi: 10.1109/WHC.2019.8816173
 {{<video src="WHC 2019 - 1147.mp4">}}
 
 
+(Oculus tech blog)[https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/]
+(Forrest smith blog)[https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/]
+
 {{< paper_badges "10.1109/WHC.2019.8816173" >}}
