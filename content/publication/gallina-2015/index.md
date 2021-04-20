@@ -42,4 +42,7 @@ abstract: In this paper we discuss the concept of co-adaptation between a human 
 publication: '*ICINCO 2015 - 12th International Conference on Informatics in Control,
   Automation and Robotics, Proceedings*'
 url_pdf: https://ieeexplore.ieee.org/document/7347793/
+url_doi: https://doi.org/10.5220/0005561003620368
 ---
+
+{{<paper_badges "10.5220/0005561003620368">}}
