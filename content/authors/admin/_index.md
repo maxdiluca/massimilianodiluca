@@ -1,5 +1,5 @@
 ---
-title: Dr
+title: 
 role: Senior Lecturer
 avatar_filename: avatar.jpg
 bio: Dr Di Luca is Senior Lecturer at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive
