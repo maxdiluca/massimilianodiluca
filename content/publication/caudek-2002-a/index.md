@@ -9,16 +9,16 @@ authors:
 - Fulvio Domini
 - Massimiliano Di Luca
 tags:
-- '"3d shape"'
-- '"shape from shading"'
-- '"structure from motion"'
-- '"shadow"'
-- '"depth perception"'
-- '"discrimination"'
-- '"lighting"'
-- '"motion perception"'
-- '"vision"'
-- '"psychophysics"'
+- '3d shape'
+- 'shape from shading'
+- 'structure from motion'
+- 'shadow'
+- 'depth perception'
+- 'discrimination'
+- 'lighting'
+- 'motion perception'
+- 'vision'
+- 'psychophysics'
 categories: []
 date: '2002-01-01'
 lastmod: 2021-04-16T20:49:38+02:00

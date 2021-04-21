@@ -8,12 +8,12 @@ authors:
 - Min S. Li
 - Massimiliano Di Luca
 tags:
-- '"expectation"'
-- '"isochrony"'
-- '"musical scale"'
-- '"perceived timing"'
-- '"temporal sensitivity"'
-- '"tone frequency"'
+- 'expectation'
+- 'isochrony'
+- 'musical scale'
+- 'perceived timing'
+- 'temporal sensitivity'
+- 'tone frequency'
 categories: []
 date: '2018-02-01'
 lastmod: 2021-04-16T20:49:40+02:00

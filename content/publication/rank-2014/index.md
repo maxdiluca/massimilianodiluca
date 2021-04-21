@@ -8,14 +8,14 @@ authors:
 - Markus Rank
 - Massimiliano Di Luca
 tags:
-- '"force perception"'
-- '"perceptual dynamics"'
-- '"psychophysics"'
-- '"haptics"'
-- '"reaction time"'
-- '"temporal perception"'
+- 'force perception'
+- 'perceptual dynamics'
+- 'psychophysics'
+- 'haptics'
+- 'reaction time'
+- 'temporal perception'
 
-- '"force feedback"'
+- 'force feedback'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:17+02:00

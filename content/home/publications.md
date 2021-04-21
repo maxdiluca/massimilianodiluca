@@ -71,7 +71,3 @@ subtitle = ""
 # {{% /alert %}}
 
 +++
-
-
-
-[SEE ALL PUBLICATIONS >]({{< ref "/publication/_index.md" >}})

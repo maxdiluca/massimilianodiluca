@@ -9,11 +9,11 @@ authors:
 - Ninja K. Horr
 - Massimiliano Di Luca
 tags:
-- '"entrainment"'
-- '"filled-duration illusion"'
-- '"isochrony"'
-- '"perceived duration"'
-- '"temporal perception"'
+- 'entrainment'
+- 'filled-duration illusion'
+- 'isochrony'
+- 'perceived duration'
+- 'temporal perception'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:48:53+02:00

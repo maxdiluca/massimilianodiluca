@@ -10,11 +10,11 @@ authors:
 - Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-- '"duration distortions"'
-- '"duration perception"'
-- '"bayesian model"'
-- '"multisensory integration"'
-- '"multisensory time perception"'
+
+- 'duration perception'
+- 'bayesian model'
+- 'multisensory integration'
+- 'multisensory time perception'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:01+02:00

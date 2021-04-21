@@ -6,12 +6,9 @@ summary: ""
 draft: false
 featured: true
 authors: []
-external_link: 
+external_link:
 links:
-  - url: 
-    icon_pack: fas
-    icon: circle
-    name: sadfasf
+
 image:
   filename:   
   focal_point: Smart

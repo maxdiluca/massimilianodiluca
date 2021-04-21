@@ -11,13 +11,13 @@ authors:
 - Dorita H.F. Chang
 - Massimiliano Di Luca
 tags:
-- '"3d shape"'
-- '"neuroimaging"'
-- '"glossiness"'
-- '"mvpa"'
-- '"roughness"'
-- '"visual material"'
-- '"fmri"'
+- '3d shape'
+- 'neuroimaging'
+- 'glossiness'
+- 'mvpa'
+- 'roughness'
+- 'visual material'
+- 'fmri'
 categories: []
 date: '2016-03-01'
 lastmod: 2021-04-16T20:49:06+02:00

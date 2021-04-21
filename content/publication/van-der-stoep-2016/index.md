@@ -8,16 +8,16 @@ authors:
 - N. Van Der Stoep
 - A. Serino
 - A. Farnè
-- M. Di Luca
+- Massimiliano Di Luca
 - C. Spence
 tags:
-- '"multisensory"'
-- '"attention"'
-- '"crossmodal"'
-- '"depth"'
-- '"distance"'
-- '"peripersonal"'
-- '"spatial"'
+- 'multisensory perception'
+- 'attention'
+- 'crossmodal'
+- 'depth'
+- 'distance'
+- 'peripersonal'
+- 'spatial'
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-16T20:49:23+02:00

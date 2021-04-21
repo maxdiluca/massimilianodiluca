@@ -9,11 +9,11 @@ authors:
 - Massimiliano Di Luca
 - Darren Rhodes
 tags:
-- '"audiovisual simultaneity"'
-- '"bayesian model"'
-- '"isochrony"'
-- '"perceived timing"'
-- '"psychophysics"'
+- 'audiovisual simultaneity'
+- 'bayesian model'
+- 'isochrony'
+- 'perceived timing'
+- 'psychophysics'
 categories: []
 date: '2016-09-01'
 lastmod: 2021-04-16T20:48:59+02:00

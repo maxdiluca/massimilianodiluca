@@ -10,15 +10,15 @@ authors:
 - Tonja-katrin Machulla
 - Marc O Ernst
 tags:
-- '"audiovisual simultaneity"'
-- '"reaction time"'
-- '"recalibration"'
-- '"time shift"'
-- '"multisensory
-  time perception"'
-- '"photic stimulation"'
-- '"psychophysics"'
-- '"subjective simultaneity"'
+- 'audiovisual simultaneity'
+- 'reaction time'
+- 'recalibration'
+- 'time shift'
+- 'multisensory
+  time perception'
+- 'photic stimulation'
+- 'psychophysics'
+- 'subjective simultaneity'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:16+02:00

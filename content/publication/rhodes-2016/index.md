@@ -6,15 +6,15 @@ subtitle: ''
 summary: ''
 authors:
 - Darren Rhodes
-- M Di Luca
+- Massimiliano Di Luca
 tags:
-- '"time perception"'
-- '"time shift"'
-- '"isochrony"'
-- '"context"'
-- '"adaptation"'
-- '"bayesian model"'
-- '"psychophysics"'
+- 'temporal perception'
+- 'time shift'
+- 'isochrony'
+- 'context'
+- 'adaptation'
+- 'bayesian model'
+- 'psychophysics'
 categories: []
 date: '2016-07-01'
 lastmod: 2021-04-16T20:49:54+02:00

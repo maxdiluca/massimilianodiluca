@@ -9,16 +9,16 @@ authors:
 - Simon Egan
 - Mar Gonzalez-franco
 tags:
-- '"database"'
-- '"locomotion"'
-- '"locomotion"'
-- '"technique"'
-- '"movement method"'
-- '"virtual reality"'
-- '"navigation"'
-- '"travel"'
-- '"visualization"'
-- '"visual feedback"'
+- 'database'
+- 'locomotion'
+- 'locomotion'
+- 'technique'
+- 'movement method'
+- 'virtual reality'
+- 'navigation'
+- 'travel'
+- 'visualization'
+- 'visual feedback'
 categories: []
 date: '2021-01-01'
 lastmod: 2021-04-16T20:49:52+02:00

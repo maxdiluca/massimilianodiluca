@@ -7,16 +7,16 @@ subtitle: ''
 summary: ''
 authors:
 - B. Knörlein
-- M. Di Luca
+- Massimiliano Di Luca
 - M. Harders
 tags:
-- '"augmented reality"'
-- '"delay"'
-- '"haptic"'
-- '"multimodal"'
-- '"user evaluation"'
+- 'augmented reality'
+- 'delay'
+- 'haptic'
+- 'multimodal'
+- 'user evaluation'
 
-- '"force feedback"'
+- 'force feedback'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:21+02:00

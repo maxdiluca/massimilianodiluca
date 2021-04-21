@@ -11,11 +11,11 @@ authors:
 - Marc O Ernst
 - Martin Buss
 tags:
-- '"dancing"'
-- '"frequency"'
-- '"position error"'
-- '"rhythm"'
-- '"trajectory"'
+- 'dancing'
+- 'frequency'
+- 'position error'
+- 'rhythm'
+- 'trajectory'
 categories: []
 date: '2008-01-01'
 lastmod: 2021-04-16T20:49:05+02:00

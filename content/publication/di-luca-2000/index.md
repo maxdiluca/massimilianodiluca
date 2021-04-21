@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 tags:
-- '"structure from motion"'
-- '"shape from shading"'
-- '"3d shape"'
-- '"illumination"'
+- 'structure from motion'
+- 'shape from shading'
+- '3d shape'
+- 'illumination'
 categories: []
 date: '2000-01-01'
 lastmod: 2021-04-16T20:49:11+02:00

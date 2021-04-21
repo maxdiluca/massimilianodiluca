@@ -10,12 +10,11 @@ authors:
 - Massimiliano Di Luca
 - Ángel Correa
 tags:
-- '"measurement method"'
-- '"time perception"'
-- '"temporal perception"'
-- '"psychophysics"'
-- '"psychometric function"'
-- '"reaction time"'
+- 'measurement method'
+- 'temporal perception'
+- 'psychophysics'
+- 'psychometric function'
+- 'reaction time'
 categories: []
 date: '2018-04-01'
 lastmod: 2021-04-16T20:49:49+02:00

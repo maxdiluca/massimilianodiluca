@@ -9,13 +9,13 @@ authors:
 - F. Domini
 - C. Caudek
 tags:
-- '"3d shape"'
-- '"cue integration"'
-- '"curvature"'
-- '"depth"'
-- '"perception"'
-- '"representation"'
-- '"slant"'
+- '3d shape'
+- 'cue integration'
+- 'curvature'
+- 'depth'
+- 'perception'
+- 'representation'
+- 'slant'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:07+02:00

@@ -7,18 +7,18 @@ subtitle: ''
 summary: ''
 authors:
 - Peter W. Battaglia
-- Massimiliano di Luca
+- Massimiliano Di Luca
 - Marc O. Ernst
 - Paul R. Schrater
 - Tonja Machulla
 - Daniel Kersten
 tags:
-- '"haptic"'
-- '"vision"'
-- '"multisensory"'
-- '"bayesian model"'
-- '"binocular cue"'
-- '"causality"'
+- 'haptic'
+- 'vision'
+- 'multisensory perception'
+- 'bayesian model'
+- 'binocular cue'
+- 'causality'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:06+02:00

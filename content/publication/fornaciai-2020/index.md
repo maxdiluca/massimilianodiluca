@@ -8,10 +8,10 @@ authors:
 - Michele Fornaciai
 - Massimiliano Di Luca
 tags:
-- '"causality"'
-- '"multisensory perception"'
-- '"temporal order"'
-- '"time perception"'
+- 'causality'
+- 'multisensory perception'
+- 'temporal order'
+- 'temporal perception'
 categories: []
 date: '2020-09-01'
 lastmod: 2021-04-16T20:49:43+02:00

@@ -10,13 +10,13 @@ authors:
 - Maria Wimber
 - Massimiliano Di Luca
 tags:
-- '"EEG"'
-- '"neuroimaging"'
-- '"entrainment"'
-- '"filled-duration illusion"'
-- '"isochrony"'
-- '"perceived duration"'
-- '"temporal perception"'
+- 'EEG'
+- 'neuroimaging'
+- 'entrainment'
+- 'filled-duration illusion'
+- 'isochrony'
+- 'perceived duration'
+- 'temporal perception'
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-16T20:49:09+02:00

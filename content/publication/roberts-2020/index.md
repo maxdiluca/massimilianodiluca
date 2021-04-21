@@ -11,11 +11,11 @@ authors:
 - Massimiliano Di Luca
 - Alan M. Wing
 tags:
-- '"roughness"'
-- '"tactile sensitivity"'
-- '"psychophysics"'
-- '"signal processing"'
-- '"force discrimination"'
+- 'roughness'
+- 'tactile sensitivity'
+- 'psychophysics'
+- 'signal processing'
+- 'force discrimination'
 categories: []
 date: '2020-12-01'
 lastmod: 2021-04-16T20:49:50+02:00

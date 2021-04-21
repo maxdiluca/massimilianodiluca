@@ -7,15 +7,14 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 tags:
-- '"softness"'
-- '"haptics"'
-- '"haptic perception"'
-- '"multisensory perception"'
-- '"psychophysics"'
-- '"stiffness"'
-- '"material perception"'
-- '"haptic perception"'
-- '"force feedback"'
+- 'softness'
+- 'haptics'
+- 'haptic perception'
+- 'multisensory perception'
+- 'psychophysics'
+- 'material perception'
+- 'haptic perception'
+- 'force feedback'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:12+02:00

@@ -6,19 +6,19 @@ title: Effects of visual-haptic asynchronies and loading-unloading movements on 
 subtitle: ''
 summary: ''
 authors:
-- M. Di Luca
+- Massimiliano Di Luca
 - B. Knörlein
 - M. O. Ernst
 - M. Harders
 tags:
-- '"asynchrony"'
-- '"augmented reality"'
-- '"compliance perception"'
-- '"stiffness perception"'
-- '"visual-haptic integration"'
-- '"bayesian model"'
-- '"psychophysics"'
-- '"force feedback"'
+- 'asynchrony'
+- 'augmented reality'
+- 'compliance perception'
+- 'stiffness perception'
+- 'visual-haptic integration'
+- 'bayesian model'
+- 'psychophysics'
+- 'force feedback'
 categories: []
 date: '2011-06-01'
 lastmod: 2021-04-16T20:49:20+02:00

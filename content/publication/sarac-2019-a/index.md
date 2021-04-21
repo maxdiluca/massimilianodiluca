@@ -9,13 +9,12 @@ authors:
 - Allison M. Okamura
 - Massimiliano Di Luca
 tags:
-- '"haptic perception"'
-- '"haptics"'
-- '"wearable"'
-- '"weight perception"'
-- '"stiffness"'
-- '"device"'
-- '"force feedback"'
+- 'haptic perception'
+- 'haptics'
+- 'wearable'
+- 'weight perception'
+- 'device'
+- 'force feedback'
 categories: []
 date: '2019-11-01'
 lastmod: 2021-04-16T20:49:27+02:00

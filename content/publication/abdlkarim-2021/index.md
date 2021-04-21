@@ -13,11 +13,11 @@ authors:
 - Katherine J Kuchenbecker
 - Massimiliano Di Luca
 tags:
-- '"robot grasping"'
-- '"simulation"'
-- '"virtual environment"'
-- '"virtual reality"'
-- '"robotics"'
+- 'robot grasping'
+- 'simulation'
+- 'virtual environment'
+- 'virtual reality'
+- 'robotics'
 categories: []
 date: '2021-01-01'
 lastmod: 2021-04-16T20:49:04+02:00

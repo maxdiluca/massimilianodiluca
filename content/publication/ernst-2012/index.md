@@ -8,12 +8,12 @@ authors:
 - Marc O Ernst
 - Massimiliano Di Luca
 tags:
-- '"cue integration"'
-- '"nervous system"'
-- '"prior knowledge"'
-- '"redundant sensory estimates"'
-- '"sensory information"'
-- '"signal processing"'
+- 'cue integration'
+- 'nervous system'
+- 'prior knowledge'
+- 'redundant sensory estimates'
+- 'sensory information'
+- 'signal processing'
 categories: []
 date: '2012-01-01'
 lastmod: 2021-04-16T20:49:10+02:00

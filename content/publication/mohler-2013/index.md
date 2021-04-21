@@ -9,12 +9,12 @@ authors:
 - Massimiliano Di Luca
 - H H Bülthoff
 tags:
-- '"bayesian model"'
-- '"multisensory perception"'
-- '"spatial"'
-- '"navigation"'
-- '"locomotion"'
-- '"virtual reality"'
+- 'bayesian model'
+- 'multisensory perception'
+- 'spatial'
+- 'navigation'
+- 'locomotion'
+- 'virtual reality'
 categories: []
 date: '2013-01-01'
 lastmod: 2021-04-16T20:49:35+02:00

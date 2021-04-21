@@ -16,13 +16,13 @@ authors:
 - Yitian Shao
 - Bharat Dandu
 tags:
-- '"haptic rendering"'
-- '"vibrotactile stimuli"'
-- '"alignment of signals"'
-- '"multisensory perception"'
-- '"virtual reality"'
-- '"augmented reality"'
-- '"wearable"'
+- 'haptic rendering'
+- 'vibrotactile stimuli'
+- 'alignment of signals'
+- 'multisensory perception'
+- 'virtual reality'
+- 'augmented reality'
+- 'wearable'
 categories: []
 date: '2020-01-01'
 lastmod: 2021-04-16T20:49:51+02:00

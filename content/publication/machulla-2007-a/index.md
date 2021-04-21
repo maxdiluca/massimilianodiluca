@@ -10,11 +10,11 @@ authors:
 - Massimiliano Di Luca
 - Marc O Ernst
 tags:
-- '"alignment of signals"'
-- '"multisensory"'
-- '"synchrony perception"'
-- '"temporal recalibration"'
-- '"temporal order judgment"'
+- 'alignment of signals'
+- 'multisensory perception'
+- 'synchrony perception'
+- 'temporal recalibration'
+- 'temporal order judgment'
 categories: []
 date: '2007-01-01'
 lastmod: 2021-04-16T20:49:15+02:00

@@ -1,19 +1,16 @@
 ---
 title: Multisensory softness
-subtitle: How does the brain utilize multiple sensory signals available during the interaction with a deformable object? 
+subtitle: How does the brain utilize multiple sensory signals available during the interaction with a deformable object?
 date: 2021-04-11T22:41:39.165Z
 summary: ""
 draft: false
 featured: true
 authors: []
-external_link: 
+external_link:
 links:
-  - url: 
-    icon_pack: fas
-    icon: circle
-    name: sadfasf
+
 image:
-  filename: 
+  filename:
   focal_point: Smart
   preview_only: false
 ---

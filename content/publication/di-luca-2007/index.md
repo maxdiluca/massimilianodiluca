@@ -10,11 +10,11 @@ authors:
 - Fulvio Domini
 - Corrado Caudek
 tags:
-- '"cue integration"'
-- '"disparity"'
-- '"motion"'
-- '"rigidity constraint"'
-- '"vision"'
+- 'cue integration'
+- 'disparity'
+- 'motion'
+- 'rigidity constraint'
+- 'vision'
 categories: []
 date: '2007-01-01'
 lastmod: 2021-04-16T20:49:53+02:00

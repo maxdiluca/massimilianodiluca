@@ -10,13 +10,13 @@ authors:
 - Massimiliano Di Luca
 - Andrew E. Welchman
 tags:
-- '"fmri"'
-- '"3d shape"'
-- '"neuroimaging"'
-- '"material perception"'
-- '"posterior fusiform sulcus"'
-- '"surface gloss"'
-- '"v3b/ko"'
+- 'fmri'
+- '3d shape'
+- 'neuroimaging'
+- 'material perception'
+- 'posterior fusiform sulcus'
+- 'surface gloss'
+- 'v3b/ko'
 categories: []
 date: '2015-04-01'
 lastmod: 2021-04-16T20:48:57+02:00

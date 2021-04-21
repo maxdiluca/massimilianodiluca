@@ -8,12 +8,12 @@ authors:
 - Markus Rank
 - Massimiliano Di Luca
 tags:
-- '"diffusion model"'
-- '"force perception"'
-- '"haptics"'
-- '"jnd"'
-- '"response time"'
-- '"force feedback"'
+- 'diffusion model'
+- 'force perception'
+- 'haptics'
+- 'jnd'
+- 'response time'
+- 'force feedback'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:49:00+02:00

@@ -9,11 +9,11 @@ authors:
 - Eleni Markouli
 - Massimiliano Di Luca
 tags:
-- '"duration distortions"'
-- '"duration perception"'
-- '"psychophysics"'
-- '"multisensory"'
-- '"modeling"'
+
+- 'duration perception'
+- 'psychophysics'
+- 'multisensory perception'
+- 'modeling'
 categories: []
 date: '2018-12-01'
 lastmod: 2021-04-16T20:49:35+02:00

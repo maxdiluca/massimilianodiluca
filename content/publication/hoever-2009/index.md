@@ -10,9 +10,9 @@ authors:
 - Gábor Székely
 - Matthias Harders
 tags:
-- '"deformable models"'
-- '"haptic rendering"'
-- '"virtual reality"'
+- 'deformable models'
+- 'haptic rendering'
+- 'virtual reality'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:08+02:00

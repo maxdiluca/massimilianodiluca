@@ -1,20 +1,19 @@
 ---
 title: Computational modeling
-subtitle: 
+subtitle:
 date: 2021-04-11T22:41:39.165Z
 summary: ""
 draft: true
 featured: false
 authors: []
-external_link: 
+external_link:
 links:
-  - url: 
+  - url:
     icon_pack: fas
     icon: circle
-    name: sadfasf
+    name: 
 image:
   filename:   
   focal_point: Smart
   preview_only: false
 ---
- 

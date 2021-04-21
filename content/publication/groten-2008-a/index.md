@@ -11,13 +11,13 @@ authors:
 - Marc Ernst
 - Martin Buss
 tags:
-- '"dancing"'
-- '"frequency"'
-- '"jerk"'
-- '"position error"'
-- '"rhythm"'
-- '"time shift"'
-- '"trajectory"'
+- 'dancing'
+- 'frequency'
+- 'jerk'
+- 'position error'
+- 'rhythm'
+- 'time shift'
+- 'trajectory'
 categories: []
 date: '2008-01-01'
 lastmod: 2021-04-16T20:48:58+02:00

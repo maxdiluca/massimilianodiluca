@@ -12,13 +12,13 @@ authors:
 - Massimiliano Di Luca
 - Sean Keller
 tags:
-- '"haptic perception"'
-- '"psychophysics"'
-- '"skin stretch"'
-- '"proprioception"'
-- '"weight perception"'
-- '"sensory information"'
-- '"force feedback"'
+- 'haptic perception'
+- 'psychophysics'
+- 'skin stretch'
+- 'proprioception'
+- 'weight perception'
+- 'sensory information'
+- 'force feedback'
 categories: []
 date: '2020-01-01'
 lastmod: 2021-04-16T20:49:09+02:00

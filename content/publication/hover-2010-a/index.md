@@ -9,11 +9,11 @@ authors:
 - Massimiliano Di Luca
 - Matthias Harders
 tags:
-- '"deformable models"'
-- '"discrimination"'
-- '"force discrimination"'
-- '"haptic rendering"'
-- '"psychophysics; haptics"'
+- 'deformable models'
+- 'discrimination'
+- 'force discrimination'
+- 'haptic rendering'
+- 'psychophysics; haptics'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:13+02:00

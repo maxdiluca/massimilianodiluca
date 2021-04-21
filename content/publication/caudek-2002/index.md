@@ -9,12 +9,12 @@ authors:
 - Fulvio Domini
 - Massimiliano Di Luca
 tags:
-- '"3d shape"'
-- '"orientation"'
-- '"optic flow"'
-- '"structure from motion"'
-- '"temporal integration"'
-- '"visual motion"'
+- '3d shape'
+- 'orientation'
+- 'optic flow'
+- 'structure from motion'
+- 'temporal integration'
+- 'visual motion'
 categories: []
 date: '2002-05-01'
 lastmod: 2021-04-16T20:49:20+02:00

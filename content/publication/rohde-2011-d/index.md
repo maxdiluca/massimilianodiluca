@@ -7,17 +7,17 @@ subtitle: ''
 summary: ''
 authors:
 - Marieke Rohde
-- Massimiliano Luca
+- Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-- '"body ownership"'
-- '"bayesian model"'
-- '"psychophysics"'
-- '"hand"'
-- '"illusions"'
-- '"proprioception"'
-- '"touch perception"'
-- '"recalibration"'
+- 'body ownership'
+- 'bayesian model'
+- 'psychophysics'
+- 'hand'
+- 'illusions'
+- 'proprioception'
+- 'touch perception'
+- 'recalibration'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:48:55+02:00

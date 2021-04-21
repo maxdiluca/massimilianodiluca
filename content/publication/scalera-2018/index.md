@@ -12,12 +12,12 @@ authors:
 - Massimiliano Di Luca
 - Alessandro Gasparetto
 tags:
-- '"joysticks"'
-- '"attractive/repulsive prompt"'
-- '"haptics"'
-- '"reaction time"'
-- '"vibrotactile stimuli"'
-- '"speed-accuracy tradeoff"'
+- 'joysticks'
+- 'attractive/repulsive prompt'
+- 'haptics'
+- 'reaction time'
+- 'vibrotactile stimuli'
+- 'speed-accuracy tradeoff'
 categories: []
 date: '2018-07-01'
 lastmod: 2021-04-16T20:49:00+02:00

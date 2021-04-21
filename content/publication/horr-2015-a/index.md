@@ -8,12 +8,12 @@ authors:
 - Ninja K. Horr
 - Massimiliano Di Luca
 tags:
-- '"duration distortions"'
-- '"filled-duration illusion"'
-- '"interval filling"'
-- '"perceived duration"'
-- '"short-interval duration"'
-- '"temporal perception"'
+
+- 'filled-duration illusion'
+- 'interval filling'
+- 'perceived duration'
+- 'short-interval duration'
+- 'temporal perception'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:48:56+02:00

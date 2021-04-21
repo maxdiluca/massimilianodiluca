@@ -10,10 +10,10 @@ authors:
 - Massimiliano Di Luca
 - Rolf D Ulrich
 tags:
-- '"psychometric function"'
-- '"psychophysics"'
-- '"data analysis"'
-- '"duration perception"'
+- 'psychometric function'
+- 'psychophysics'
+- 'data analysis'
+- 'duration perception'
 categories: []
 date: '2018-03-01'
 lastmod: 2021-04-16T20:49:45+02:00

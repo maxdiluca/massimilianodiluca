@@ -11,11 +11,11 @@ authors:
 - Massimiliano Di Luca
 - Jeremy L Wyatt
 tags:
-- '"bayesian model"'
-- '"grasping"'
-- '"visual feedback"'
-- '"psychophysics"'
-- '"robotic"'
+- 'bayesian model'
+- 'grasping'
+- 'visual feedback'
+- 'psychophysics'
+- 'robotic'
 categories: []
 date: '2012-01-01'
 lastmod: 2021-04-16T20:49:25+02:00

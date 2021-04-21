@@ -9,12 +9,12 @@ authors:
 - Nicola Bellotto
 - Massimiliano Di Luca
 tags:
-- '"active vision"'
-- '"assistive technology"'
-- '"cyber-physical systems"'
-- '"human-in-the-loop"'
-- '"teleoperation"'
-- '"usability"'
+- 'active vision'
+- 'assistive technology'
+- 'cyber-physical systems'
+- 'human-in-the-loop'
+- 'teleoperation'
+- 'usability'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:49:25+02:00

@@ -8,11 +8,11 @@ authors:
 - Ninja K. Horr
 - Massimiliano Di Luca
 tags:
-- '"duration distortions"'
-- '"duration perception"'
-- '"psychophysics"'
-- '"rythm"'
-- '"isochrony"'
+
+- 'duration perception'
+- 'psychophysics'
+- 'rythm'
+- 'isochrony'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:49:03+02:00

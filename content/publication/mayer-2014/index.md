@@ -9,10 +9,10 @@ authors:
 - Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-- '"crossmodal intervals"'
-- '"linear regression model"'
-- '"perceived duration"'
-- '"sensory latency"'
+- 'crossmodal intervals'
+- 'linear regression model'
+- 'perceived duration'
+- 'sensory latency'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:47+02:00

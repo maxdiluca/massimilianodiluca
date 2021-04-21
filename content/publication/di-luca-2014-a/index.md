@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 tags:
-- '"compliance perception"'
-- '"composite objects"'
-- '"softness"'
-- '"haptic"'
-- '"psychophysics"'
+- 'compliance perception'
+- 'composite objects'
+- 'softness'
+- 'haptic'
+- 'psychophysics'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:44+02:00
