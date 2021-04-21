@@ -21,8 +21,8 @@ subtitle = ""
   Responsibilities include:
 
   * Researching
-  * Mentoring Postdocs, PhD, MSc, and BSc students in psychology and CS
-  * Teaching the Research practicum MSc module and the Mind, Brain and Models MSc module
+  * Mentoring: Postdocs, PhD, MSc, and BSc students in psychology and CS
+  * Teaching MSc modules: Mind, Brain and Models; Research practica
   * Business Engagement Champion for Life and Environmental Science college
   * Chair of the school health and safety committee
   """
@@ -62,8 +62,8 @@ subtitle = ""
  Responsibilities included:
 
   * Researching
-  * Mentoring PhD, MSc, and BSc students in psychology
-  * Teaching the MSc modules: Mind, Brain and Models and CNCR foundations
+  * Mentoring: PhD, MSc, and BSc students in psychology
+  * Teaching  MSc modules: Mind, Brain and Models; CNCR foundations
   * Leading Computational Neuroscience and Cognitive Robotics MSc course
   * Business engagement, ethics reviews, website management
 """

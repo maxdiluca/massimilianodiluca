@@ -1,9 +1,9 @@
 ---
-title:
+title: Dr
 role: Senior Lecturer
 avatar_filename: avatar.jpg
-bio: Dr Di Luca is Senior Lecturer at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
-  research centre.
+bio: Dr Di Luca is Senior Lecturer at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive
+  Robotics.
 
 
 interests:
@@ -43,10 +43,11 @@ organizations:
 education:
   courses:
     - course: PhD in Cognitive Science
-      institution: Brown University
+      institution: Brown University (USA)
       year: 2006
     - course: Laurea in Psicologia
-      institution: Universitá degli Studi di Trieste
+      institution: Universitá degli Studi di Trieste (Italy)
+      year: 2000
 email: ""
 superuser: true
 authors:
@@ -56,8 +57,6 @@ user_groups:
   - Visitors
 ---
 Dr Di Luca is Senior Lecturer at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
-  Robotics. He earned the Laurea in Psychology from the Università  di Trieste and the PhD in Cognitive Science from Brown University. During his carer, he has been Scientist at the Max Planck Institute for Biological Cybernetics in Tübingen, Visiting Scientist at Oculus Research and Research Scientist at Facebook Reality Labs.
-
-  Dr Di Luca performs both fundamental and applied research to investigate how humans process multisensory stimuli, with an accent on understanding the temporal, dynamic, and interactive nature of perception. He uses psychophysical experiments and neuroimaging methods to capture how the brain employs multiple sources of sensory information and combines them with assumptions, predictions, and information obtained through active exploration.
+  Robotics. He performs both fundamental and applied research to investigate how humans process multisensory stimuli, with an accent on understanding the temporal, dynamic, and interactive nature of perception. He uses psychophysical experiments and neuroimaging methods to capture how the brain employs multiple sources of sensory information and combines them with assumptions, predictions, and information obtained through active exploration.
 
   Dr Di Luca employs signal processing and machine learning to discover patterns in the interaction and user's movements that relate to perception. The leitmotiv of his research is to create computational models that constitute quantitative and testable theories about the underlying cognitive and neural processes. Such models can be used for simulations (i.e. to be implemented in robots), rendering (i.e. in haptic devices), and prediction about the user movement, responses, states (i.e. to optimise the generation of sensory cues in VR system by using perceptual metrics).
