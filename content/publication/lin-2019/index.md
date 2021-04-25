@@ -53,9 +53,7 @@ doi: 10.1109/VR.2019.8797787
 {{< paper_badges "10.1109/VR.2019.8797787" >}}
 
 User view
-
 {{< youtube id="soPGP7AiC9Q">}}
 
 Talk by Lorraine Li
-
 {{< youtube id="m0to-oI9rXA">}}
