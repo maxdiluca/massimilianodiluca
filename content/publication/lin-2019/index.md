@@ -52,11 +52,8 @@ doi: 10.1109/VR.2019.8797787
 ---
 {{< paper_badges "10.1109/VR.2019.8797787" >}}
 
-User view
-{{< youtube id="soPGP7AiC9Q">}}
+User view {{< youtube id="soPGP7AiC9Q">}}
 
-Talk by Lorraine Li
-{{< youtube id="m0to-oI9rXA">}}
+Talk by Lorraine Li {{< youtube id="m0to-oI9rXA">}}
 
-Description of the project development by Lorraine Li
-<a href="https://www.lorrainelin.com/vrpuzzlegame">https://www.lorrainelin.com/vrpuzzlegame</a>
+Description of the project development by Lorraine Li: <a href="https://www.lorrainelin.com/vrpuzzlegame">https://www.lorrainelin.com/vrpuzzlegame</a>

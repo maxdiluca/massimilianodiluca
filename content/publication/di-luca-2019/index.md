@@ -59,15 +59,11 @@ publication: '*2019 IEEE World Haptics Conference (WHC)*'
 url_pdf: https://ieeexplore.ieee.org/document/8816173/
 doi: 10.1109/WHC.2019.8816173
 ---
+{{< paper_badges "10.1109/WHC.2019.8816173" >}}
+
 {{<video src="WHC 2019 - 1147.mp4">}}
 
+Oculus tech blog: <a href="https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/">https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/</a>
 
-(Oculus tech blog)
-<a href="https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/">https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/</a>
 
-https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/
-
-Forrest Smith blog:
-<a href="https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/">https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/</a>
-
-{{< paper_badges "10.1109/WHC.2019.8816173" >}}
+Forrest Smith blog: <a href="https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/">https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/</a>
