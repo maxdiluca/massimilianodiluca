@@ -19,5 +19,5 @@ email_form = 1
 
 # Netlify form settings.
 [netlify]
-  captcha = true  # Enable CAPTCHA challenge to reduce spam?
+  captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
