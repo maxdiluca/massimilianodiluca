@@ -59,4 +59,4 @@ Talk by Lorraine Li
 {{< youtube id="m0to-oI9rXA">}}
 
 Description of the project development by Lorraine Li
-(https://www.lorrainelin.com/vrpuzzlegame)[https://www.lorrainelin.com/vrpuzzlegame]
+<a href="https://www.lorrainelin.com/vrpuzzlegame">https://www.lorrainelin.com/vrpuzzlegame</a>
