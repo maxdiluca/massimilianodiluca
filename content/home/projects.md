@@ -41,6 +41,7 @@ subtitle = ""
   #   1 = List
   #   2 = Compact
   #   3 = Card
+  # 4= modified by max
   #   5 = Showcase
   view = 4
 
@@ -84,6 +85,9 @@ The information we acquire from the environment is continuously varying: we reac
 
 To shed light on these open issues, Dr Di Luca employs experimental stimuli that have some of the properties encountered during normal interaction with the environment, stimuli that vary over time, that change in response to our actions, or that contain redundant information about the world.
 
-
-{{< youtube id="SZ5_4HnPUso" >}}
-.
+<br>
+Find here a 60 second research pitch: <a href="https://www.youtube.com/watch?v=SZ5_4HnPUso">YouTube<a/>
+<br>
+<br>
+<br>
+<br>
