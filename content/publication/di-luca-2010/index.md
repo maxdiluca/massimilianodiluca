@@ -24,7 +24,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'https://massimilianodiluca.info/pages/publications_files/2010_DiLuca.pdf'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["2010_DiLuca.pdf","delay","vr"]
+projects: []
 publishDate: '2021-04-16T18:49:21.463509Z'
 publication_types:
 - '2'
