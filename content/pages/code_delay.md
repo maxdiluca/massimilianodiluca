@@ -65,7 +65,7 @@ calculate_delay_gui.m </li>
 <p class="paragraph_style_3">THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. <br /></p>
 <br />
 <br />
-<p><a class="class1" title="../publication/di-luca-2010/delay_measurement_0_3.zip" href="../publication/di-luca-2010/delay_measurement_0_3.zip">I accept the terms</a></p>
+<p><a class="class1" title="delay_measurement_0_3.zip" href="delay_measurement_0_3.zip">I accept the terms</a></p>
 <br />
 <br />
 <br />
