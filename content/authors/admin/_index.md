@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 role: Senior Lecturer
 avatar_filename: avatar.jpg
 bio: Dr Di Luca is Senior Lecturer at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive
@@ -15,27 +15,27 @@ social:
   #- icon: envelope
   #  icon_pack: fas
   #  link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/maxdiluca
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/maxdiluca
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/playlist?list=PLRBLD3PiUPlzAmKsL7gicIvci2lRXoZah
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/maxdiluca
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maxdiluca/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Massimiliano-Di-Luca
   - icon: orcid
     icon_pack: fab  
     link: https://orcid.org/0000-0003-3085-7251
-#    - icon: researchgate
-#    icon_pack: fab
-#    link: https://www.researchgate.net/profile/Massimiliano-Di-Luca
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/maxdiluca
 
 organizations:
   - name: University of Birmingham
