@@ -49,7 +49,7 @@ abstract: Touch interactions are central to many human activities, but there are
 publication: '*IEEE Transactions on Haptics*'
 
 url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25349/D9BS5G'
-
+url_video: 'https://www.youtube.com/watch?v=HrR5WuPiMmU'
 
 ---
 

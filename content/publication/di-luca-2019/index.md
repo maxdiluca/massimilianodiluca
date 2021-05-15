@@ -58,8 +58,13 @@ abstract: The goal of this work is to establish the range of visual-haptic async
 publication: '*2019 IEEE World Haptics Conference (WHC)*'
 url_pdf: https://ieeexplore.ieee.org/document/8816173/
 doi: 10.1109/WHC.2019.8816173
+
+url_video: 'https://youtu.be/e4eWdJMX3-Q'
+url_slides: 'Poster_visualhapticdelay.jpg'
 ---
 {{< paper_badges "10.1109/WHC.2019.8816173" >}}
+
+<img src="Poster_visualhapticdelay.jpg" alt="poster" class="img-responsive">
 
 {{<video src="WHC 2019 - 1147.mp4">}}
 
