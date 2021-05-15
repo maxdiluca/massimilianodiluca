@@ -7,8 +7,8 @@
     <div>
         <div>
             {{ $byLastMod :=  .Site.RegularPages.ByLastmod  }}
-            {{ $recent := ($byLastMod | last 1000).Reverse }}
-            {{ $leastRecent := $byLastMod | first 1000 }}
+            {{ $recent := ($byLastMod | last 30).Reverse }}
+            {{ $leastRecent := $byLastMod | first 10 }}            
             <h2 id="last-updated">Last Updated</h2>
             {{ partial "maintenance-pages-table" $recent }}
         </div>
