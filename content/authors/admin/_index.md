@@ -45,10 +45,10 @@ education:
     - course: PhD in Cognitive Science
       institution: Brown University (USA)
       year: 2006
-      logo: /experience-logos/bu.png
+      logo: education-logos/bu.png
     - course: Laurea in Psicologia
       institution: Universitá degli Studi di Trieste (Italy)
-      logo: /experience-logos/uts.png
+      logo: education-logos/uts.png
       year: 2000
 email: ""
 superuser: true
