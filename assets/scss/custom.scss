@@ -1,3 +1,9 @@
+$dark-grey: #343434;
+$light-grey: #E3E3E5;
+
+
+
+
 #about {
 
   @-webkit-keyframes slide-from-right {
@@ -62,4 +68,127 @@
     -webkit-animation-delay: 1.5s;
             animation-delay: 1.5s;
   }
+
+
+
+  .network-icon {
+
+    margin-top: 15px;
+    padding: 5px;
+
+    .fa-envelope {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1s;
+              animation-delay: 1s;
+    }
+
+    .fa-twitter {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.5s;
+              animation-delay: 1.5s;
+    }
+
+    .fa-github {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2s;
+              animation-delay: 2s;
+    }
+
+    @-webkit-keyframes grow {
+        100% { opacity: 1; }
+    }
+
+    @keyframes grow {
+        100% { opacity: 1; }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+/* awards and experience cards */
+.card.experience.course.card-title {
+  font-size: 1rem;
+}
+
+.card-subtitle.my-0.article-metadata,
+.card .text-muted.exp-meta {
+  font-size: .8rem;
+  letter-spacing: 0 !important;
+}
+
+.course .card-body .card-text,
+.experience .card-body .card-text {
+  padding: .8rem 0.5rem .8rem 0 !important;
+}
+
+
+
+
+
+//add images to experience cards
+.flex-w-experience-image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.flex-w-experience-text {
+  display: flex;
+  flex-direction: column;
+}
+.experience-image {
+  max-width: 60px;
+  margin-right: 10px;
+}
+
+
+
+//custom css for awards
+#accomplishments {
+  .margin-top {
+    margin-top: 20px;
+  }
+  .vertical-center {
+    justify-content: center;
+  }
+  .card-title {
+    font-size: 1.4rem;
+  }
+  .card-subtitle {
+    font-size: 1.2rem;
+  }
+  .card {
+
+    .init-hidden {
+        p {
+          max-height: 0;
+          transition: max-height 1s ease-out;
+          overflow: hidden;
+          margin-bottom: 0 !important;
+        }
+
+        &.card-text {
+          padding: 0 !important;
+        }
+      }
+
+    &:hover {
+    .init-hidden p {
+      max-height: 1000px;
+      transition: max-height 1s ease-in;
+    }
+  }
+}
 }
