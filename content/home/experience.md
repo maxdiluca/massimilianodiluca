@@ -12,7 +12,7 @@ subtitle = ""
 
 [[experience]]
   title = "Senior lecturer"
-    logo = "experience-logos/uob.png"
+  logo = "experience-logos/uob.png"
   company_logo = "pinktalk.JPG"
   company = "University of Birmingham"
   company_url = "https://www.birmingham.ac.uk/staff/profiles/psychology/diluca-massimiliano.aspx"
