@@ -71,6 +71,19 @@ $light-grey: #E3E3E5;
 
 
 
+.network-icon li:hover {
+  transform: scale(1.2)
+}
+
+.network-icon a{
+  color: #AAAAAA;
+}
+
+.network-icon a:hover{
+  color: #4caf50;
+}
+
+
   .network-icon {
 
     margin-top: 15px;
