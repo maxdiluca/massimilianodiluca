@@ -45,7 +45,7 @@ subtitle = ""
 [[experience]]
   title = "Visiting Scientist"
   company = "PRO Unlimited for an assignment at Oculus"
-  logo = "experience-logos/pro.png"
+  logo = "experience-logos/oculus.png"
   company_url = ""
   location = "Redmond, WA"
   date_start = "2015-07-01"
