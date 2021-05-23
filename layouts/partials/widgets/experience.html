@@ -35,7 +35,9 @@
             <div class="flex-w-experience-image-container">
                 {{if .logo}}
                 <div class="experience-image">
-                    <img src='{{printf "./media/%s" .logo | absURL}}'>
+                  {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+  <img src='{{printf "./media/%s" .logo | absURL}}'>
+                      {{- with .company_url}}  </a>{{end -}}
                 </div>
                 {{end}}
                 <div class="flex-w-experience-text">
