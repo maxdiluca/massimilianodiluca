@@ -95,7 +95,13 @@
   <ul class="ul-edu fa-ul">
     {{ range .courses }}
     <li>
-    <!---  <i class="fa-li fas fa-graduation-cap"></i> --->
+      {{ if .logo }}
+                   <img src="{{ $.Site.BaseURL }}img/{{ .logo }}" style="height:1rem; float: left; padding-right: 10px;">
+                   {{ else }}
+                   <i class="fa-li fa fa-graduation-cap"></i>
+                   {{ end }}
+                   <!--https://github.com/fliptanedo/academic-flip/blob/master/layouts/partials/widgets/CV.html -->
+                     <!---  <i class="fa-li fas fa-graduation-cap"></i> --->
       <div class="description">
         <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
         <p class="institution">{{ .institution }}</p>

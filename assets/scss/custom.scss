@@ -154,28 +154,6 @@ $light-grey: #E3E3E5;
     }
   }
 
-ul.ul-edu li:first-child::before {
-content: '';
-position: absolute;
-height: 1.5em;
-width: 1.5em;
-background-image: url('/media/experience-logos/bu.png');
-background-size: contain;
-background-repeat: no-repeat;
-margin-left: -2.5em;
-margin-top: 0.25em ;
-}
-ul.ul-edu li:nth-child(2)::before {
-content: '';
-position: absolute;
-height: 1.5em;
-width: 1.5em;
-background-image: url('/media/experience-logos/uts.png');
-background-size: contain;
-background-repeat: no-repeat;
-margin-left: -2.5em;
-margin-top: 0.25em ;
-}
 }
 
 
