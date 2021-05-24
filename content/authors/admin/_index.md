@@ -21,6 +21,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/maxdiluca
+  - icon: tree
+    icon_pack: fas
+    link: https://neurotree.org/neurotree/peopleinfo.php?pid=6562
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/playlist?list=PLRBLD3PiUPlzAmKsL7gicIvci2lRXoZah

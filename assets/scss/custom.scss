@@ -105,7 +105,8 @@ $light-grey: #E3E3E5;
               animation-delay: 1.2s;
     }
 
-    .fa-youtube{
+
+    .fa-tree {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -113,7 +114,7 @@ $light-grey: #E3E3E5;
               animation-delay: 1.4s;
     }
 
-    .fa-linkedin{
+    .fa-youtube{
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -121,7 +122,7 @@ $light-grey: #E3E3E5;
               animation-delay: 1.6s;
     }
 
-    .fa-researchgate{
+    .fa-linkedin{
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -129,7 +130,7 @@ $light-grey: #E3E3E5;
               animation-delay: 1.8s;
     }
 
-    .fa-orcid{
+    .fa-researchgate{
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -137,12 +138,20 @@ $light-grey: #E3E3E5;
               animation-delay: 2.0s;
     }
 
-    .fa-github {
+    .fa-orcid{
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 2.2s;
               animation-delay: 2.2s;
+    }
+
+    .fa-github {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2.4s;
+              animation-delay: 2.4s;
     }
 
     @-webkit-keyframes grow {
