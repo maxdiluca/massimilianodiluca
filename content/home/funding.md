@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
-  description = """Grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet <img src="https://arme-project.netlify.app/media/ARME%20squared%20logo.jpg" alt="poster" class="img-responsive"> """
+  description = """Grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet <a href="https://arme-project.netlify.app"><img src="https://arme-project.netlify.app/media/ARME%20squared%20logo.jpg" alt="icon ARME" class="img-responsive" width="50" height="50"></a> """
 
 
   [[item]]
