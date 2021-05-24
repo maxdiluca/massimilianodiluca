@@ -14,16 +14,18 @@
     {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
       <div class="card experience course">
 
+        {{if .logo}}
+        <div class="accomplishments-image">
+          {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+      <img src='{{printf "./media/%s" .logo | absURL}}'>
+              {{- with .company_url}}  </a>{{end -}}
+        </div>
+        {{end}}
+        
         <div class="card-body">
           {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
 
-            {{if .logo}}
-            <div class="accomplishments-image">
-              {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-  <img src='{{printf "./media/%s" .logo | absURL}}'>
-                  {{- with .company_url}}  </a>{{end -}}
-            </div>
-            {{end}}
+
 
               <h4 class="card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</h4>
           {{- with .url -}}</a>{{- end -}}
