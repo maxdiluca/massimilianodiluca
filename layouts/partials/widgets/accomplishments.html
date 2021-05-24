@@ -14,14 +14,6 @@
     {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
       <div class="card experience course">
 
-        {{if .logo}}
-        <div class="accomplishments-image">
-          {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-      <img src='{{printf "./media/%s" .logo | absURL}}'>
-              {{- with .company_url}}  </a>{{end -}}
-        </div>
-        {{end}}
-        
         <div class="card-body">
           {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
 
@@ -35,6 +27,14 @@
             {{- .organization | markdownify | emojify -}}
             {{- with .organization_url}}</a>{{end -}}
 
+            {{if .logo}}
+            <div class="accomplishments-image">
+              {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+          <img src='{{printf "./media/%s" .logo | absURL}}'>
+                  {{- with .company_url}}  </a>{{end -}}
+            </div>
+            {{end}}
+            
             <span class="middot-divider"></span>
 
             {{ (time .date_start).Format ($page.Params.date_format | default "Jan 2006") }}
