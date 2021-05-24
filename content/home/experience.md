@@ -43,7 +43,7 @@ subtitle = ""
 
 
 [[experience]]
-  title = "Visiting Scientist"
+  title = "Research Scientist"
   company = "PRO Unlimited for an assignment at Oculus"
   logo = "experience-logos/oculus.png"
   company_url = ""

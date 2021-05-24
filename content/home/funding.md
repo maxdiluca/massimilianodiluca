@@ -118,7 +118,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-06-01"
   date_end = "2015-11-30"
-  description = "SRA, PI"
+  description = "SRA, PI <img src="Poster_visualhapticdelay.jpg" alt="poster" class="img-responsive">"
 
     [[item]]
   organization = "Procter & Gamble"
