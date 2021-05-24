@@ -21,14 +21,13 @@ date_format = "Jan 2006"
 [[item]]
   organization = "EPSRC"
   organization_url = ""
+  logo = "accomplishments-logos/ARME.jpg"
   title = "ARME - Augmented Reality Music Ensamble"
   url = "https://arme-project.netlify.app"
   certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
-  description = """<table><tr><th><a href="https://arme-project.netlify.app"><img src="https://arme-project.netlify.app/media/ARME%20squared%20logo.jpg" alt="icon ARME" class="img-responsive" width="100" height="100"></a></th>
-  <th> Grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet </th>
-  </tr></table>"""
+  description = """Grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"""
 
 
   [[item]]
