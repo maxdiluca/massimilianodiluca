@@ -77,7 +77,7 @@
       <div class='main-content'>
         {{ $person_page.Content }}
       </div>
-      
+
       <div class="row">
         {{ with $person.interests }}
         <div class="interests-div col-md-5">
@@ -96,7 +96,7 @@
             {{ range .courses }}
             <li>
               {{ if .logo }}
-              <img src="{{ $.Site.BaseURL }}/media/{{ .logo }}" style="height:2rem; float: left; padding-left: -30px; padding-top: 10px; padding-right: 10px;">
+              <img src="{{ $.Site.BaseURL }}/media/{{ .logo }}" style="height:2rem; float: left; padding-left: -30px;">
               {{ else }}
               <i class="fa-li fa fa-graduation-cap"></i>
               {{ end }}
