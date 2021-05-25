@@ -69,5 +69,6 @@ subtitle = "Recent"
 # {{% alert note %}}
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
+# [SEE ALL PUBLICATIONS >]({{< ref "/publication/_index.md" >}})
 
 +++

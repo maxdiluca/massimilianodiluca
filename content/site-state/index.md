@@ -1,7 +1,7 @@
 
 
 ---
-title: Site Log
+title: Site state
 type: maintenance
 date: 2021-04-04
 slug:
