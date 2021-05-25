@@ -4,6 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Experience
+    url: '#experience'
+    weight: 20
+  - name: Funding
+    url: '#funding'
+    weight: 30
   - name: Research
     url: '#projects'
     weight: 40
