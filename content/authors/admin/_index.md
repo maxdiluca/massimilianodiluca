@@ -7,11 +7,11 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Senior Lecturer
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Birmingham
+- name: 
   url:
 
 # Short bio (displayed in user profile at end of posts)
