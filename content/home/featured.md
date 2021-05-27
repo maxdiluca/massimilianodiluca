@@ -10,7 +10,7 @@ weight = 50  # Order that this section will appear.
 
 title = ""
 subtitle = "Featured"
-
+columns = 1
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"

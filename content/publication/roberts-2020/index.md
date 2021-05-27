@@ -19,7 +19,7 @@ tags:
 categories: []
 date: '2020-12-01'
 lastmod: 2021-04-16T20:49:50+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

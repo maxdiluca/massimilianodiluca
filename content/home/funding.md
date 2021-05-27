@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+
+running = true
+  organization = "UBIAS"
+  organization_url = "http://www.ubias.net/about-the-institute"
+  logo = "accomplishments-logos/ICA.png"
+  title = "Intercontinental academia: Intelligence and artificial intelligence"
+    url = "https://www.intercontinental-academia.org"
+    date_start = "2021-09-01"
+  date_end = "2023-08-31"
+  description = """Fellowship to participate to the meetings"""
+
+
+[[item]]
+
 running = true
   organization = "EPSRC"
   organization_url = ""
