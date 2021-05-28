@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: 
-phone: 
+email:
+phone:
 address:
   street: Edgbaston
   city: Birmingham
@@ -46,7 +46,7 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'https://join.skype.com/oxmRed85QyLB'
-  
+
 
 # Site header
 
@@ -67,6 +67,7 @@ address_format: en-gb
 
 # Site features
 
+highlight_superuser : true
 highlight: true
 highlight_languages:
   - r

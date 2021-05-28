@@ -1,7 +1,6 @@
 ---
 # Display name
-title:
-#Massimiliano Di Luca
+title: Massimiliano Di Luca
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +10,7 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
+- name:
   url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -82,7 +81,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Massimiliano Di Luca (Max) is Senior Lecturer at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
