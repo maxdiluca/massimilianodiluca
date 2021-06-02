@@ -53,7 +53,7 @@ abstract: Recent studies show that repeated exposure to an asynchrony between au
   stimuli is presented as counterevidence (i.e., stimuli with an asynchrony that differs
   from the one used during exposure). © Springer-Verlag 2011.
 publication: '*Experimental Brain Research*'
-url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/22207361 http://link.springer.com/10.1007/s00221-011-2976-5
+url_project: http://www.ncbi.nlm.nih.gov/pubmed/22207361 http://link.springer.com/10.1007/s00221-011-2976-5
 doi: 10.1007/s00221-011-2976-5
 ---
 {{< paper_badges "10.1007/s00221-011-2976-5" >}}

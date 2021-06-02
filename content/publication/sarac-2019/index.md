@@ -51,5 +51,5 @@ abstract: As an alternative to thimble devices for the fingertips, we investigat
   performance or participant preferences with regard to stimulus on the dorsal, ventral,
   or both sides of the forearm.
 publication: '*arXiv*'
-url_pdf: http://arxiv.org/abs/1911.02104
+url_project: http://arxiv.org/abs/1911.02104
 ---

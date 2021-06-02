@@ -47,5 +47,5 @@ abstract: We propose a haptic system that applies forces or skin deformation to 
   during a grasp and lift task. Subjective reports indicate that normal forces were
   the most believable feedback to represent this interaction.
 publication: '*arXiv*'
-url_pdf: http://arxiv.org/abs/1911.08528
+url_project: http://arxiv.org/abs/1911.08528
 ---

@@ -56,7 +56,7 @@ abstract: The goal of this work is to establish the range of visual-haptic async
   only 15ms. These findings can be used as guidelines for haptic feedback in hand-based
   interactions in Virtual Reality.
 publication: '*2019 IEEE World Haptics Conference (WHC)*'
-url_pdf: https://ieeexplore.ieee.org/document/8816173/
+url_project: https://ieeexplore.ieee.org/document/8816173/
 doi: 10.1109/WHC.2019.8816173
 
 url_video: 'https://youtu.be/e4eWdJMX3-Q'

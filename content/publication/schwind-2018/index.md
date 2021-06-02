@@ -43,7 +43,7 @@ publication_types:
 - '1'
 abstract: Hand tracking and haptics are gaining more importance as key technologies of virtual reality (VR) systems. For designing such systems, it is fundamental to understand how the appearance of the virtual hands influences user experience and how the human brain integrates vision and haptics. However, it is currently unknown whether multi-sensory integration of visual and haptic feedback can be influenced by the appearance of virtual hands in VR. We performed a user study in VR to gain insight into the effect of hand appearance on how the brain combines visual and haptic signals using a cue-conflict paradigm. In this paper, we show that the detection of surface irregularities (bumps and holes) sensed by eyes and hands is affected by the rendering of avatar hands. However, sensitivity changes do not correlate with the degree of perceived limb ownership. Qualitative feedback provides insights into potentially distracting cues in visual-haptic integration.
 publication: '*Proceedings - SAP 2018: ACM Symposium on Applied Perception*'
-url_pdf: https://dl.acm.org/doi/10.1145/3225153.3225158
+url_project: https://dl.acm.org/doi/10.1145/3225153.3225158
 doi: 10.1145/3225153.3225158
 ---
 

@@ -55,7 +55,7 @@ abstract: Because the world is dynamic in nature, sensory predictions are invari
   differences are used in concert with shift durations consistent with natural, exploratory
   movements.
 publication: '*2020 IEEE Haptics Symposium (HAPTICS)*'
-url_pdf: https://ieeexplore.ieee.org/document/9086299/
+url_project: https://ieeexplore.ieee.org/document/9086299/
 doi: 10.1109/HAPTICS45997.2020.ras.HAP20.9.699b3778
 ---
 

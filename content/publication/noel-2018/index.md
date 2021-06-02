@@ -64,7 +64,7 @@ abstract: It has been suggested that the integration of multiple body-related so
   for by the visuo-proprioceptive coupling prior -- the results suggest that the visible
   body grounds visuo-proprioceptive coupling preferentially in the near vs. far space.
 publication: '*Scientific Reports*'
-url_pdf: http://www.nature.com/articles/s41598-018-33961-3
+url_project: http://www.nature.com/articles/s41598-018-33961-3
 doi: 10.1038/s41598-018-33961-3
 ---
 {{< paper_badges "10.1038/s41598-018-33961-3" >}}

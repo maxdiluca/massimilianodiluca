@@ -41,6 +41,6 @@ publication_types:
 - '7'
 abstract: ''
 publication: ''
-url_pdf: http://gradworks.umi.com/32/27/3227820.html https://gradworks.umi.com/dxweb/results.html?QryTxt=3227820&By=&Title=&pubnum=3227820
+url_project: http://gradworks.umi.com/32/27/3227820.html https://gradworks.umi.com/dxweb/results.html?QryTxt=3227820&By=&Title=&pubnum=3227820
 ---
 {{<video src="featured.mp4">}}

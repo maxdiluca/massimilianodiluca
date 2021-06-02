@@ -43,7 +43,7 @@ publication_types:
 - '1'
 abstract: In this study, we examined the contributions of kinesthetic and skin stretch cues, in isolation and together, to the static perception of weight. In two psychophysical experiments, we asked participants either to detect on which hand a weight was presented or to compare between two weight cues. Two closed-loop controlled haptic devices were used to present weights with a precision of 0.05g to an end-effector held in a pinch grasp. Our results show that combining skin stretch and kinesthetic information leads to better weight detection thresholds than presenting uni-sensory cues does. For supra-threshold stimuli, Weber fractions ranged from 22-44%. Kinesthetic information was less reliable for lighter weights, while both sources of information were equally reliable for weights up to 300g. Our data for lighter weights complied with an Optimal Integration model, while for heavier weights, measurements were closer to predictions from a Sensory Capture model. The difference might be accounted for by the presence of correlated noise across the two cues with heavier weights, which would affect model predictions such that all our data could be explained through an Optimal Integration model. Our experiments provide device-independent measures that can be used to inform, for instance, skin stretch device design.
 publication: '*2019 IEEE World Haptics Conference, WHC 2019*'
-url_pdf: https://ieeexplore.ieee.org/document/8816073/
+url_project: https://ieeexplore.ieee.org/document/8816073/
 doi: 10.1109/WHC.2019.8816073
 ---
 {{< paper_badges "10.1109/WHC.2019.8816073" >}}

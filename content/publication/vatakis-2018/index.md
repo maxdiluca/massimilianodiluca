@@ -42,7 +42,7 @@ abstract: 'Timing and Time Perception: Procedures, Measures, and Applications is
   one-of-a-kind, collective effort to present -theoretically and practically- the
   most utilized and known methods on timing and time perception.'
 publication: '*BRILL*'
-url_pdf: https://www.jstor.org/stable/10.1163/j.ctvbqs54b https://brill.com/view/title/26665
+url_project: https://www.jstor.org/stable/10.1163/j.ctvbqs54b https://brill.com/view/title/26665
 doi: 10.1163/9789004280205
 ---
 {{< paper_badges "10.1163/9789004280205" >}}

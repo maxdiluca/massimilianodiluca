@@ -40,7 +40,7 @@ publication_types:
 - '5'
 abstract: Offers a unique multidisciplinary overview of how humans interact with soft objects and how multiple sensory signals are used to perceive material properties, with an emphasis on object deformability. The authors describe a range of setups that have been employed to study and exploit sensory signals involved in interactions with compliant objects as well as techniques to simulate and modulate softness -- including a psychophysical perspective of the field. Multisensory Softness focuses on the cognitive mechanisms underlying the use of multiple sources of information in softness perception. Divided into three sections, the first Perceptual Softness deals with the sensory components and computational requirements of softness perception, the second Sensorimotor Softness looks at the motor components of the interaction with soft objects and the final part Artificial Softness focuses on the identification of exploitable guidelines to help replicate softness in artificial environments. Multidisciplinary analysis of how skin pressure, proprioception, tactile vibration, vision and audition lead to the impression of material compliance Provides an overview of experiments, techniques and setups in the perception of softness Explains how sensory signals are used to perceive softness and how to reproduce interaction with soft materials
 publication: '*Springer London*'
-url_pdf: http://link.springer.com/10.1007/978-1-4471-6533-0
+url_project: http://link.springer.com/10.1007/978-1-4471-6533-0
 doi: 10.1007/978-1-4471-6533-0
 ---
 {{< paper_badges "10.1007/978-1-4471-6533-0" >}}

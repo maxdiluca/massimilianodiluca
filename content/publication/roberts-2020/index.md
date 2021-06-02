@@ -55,7 +55,7 @@ abstract: Roughness perception through fingertip contact with a textured surface
   in the fine but not the coarse range. In contrast, tangential force fluctuations
   during sliding were strongly related to roughness judgment accuracy.
 publication: '*Scientific Reports*'
-url_pdf: http://www.nature.com/articles/s41598-020-61943-x
+url_project: http://www.nature.com/articles/s41598-020-61943-x
 doi: 10.1038/s41598-020-61943-x
 url_project: 'roberts-2020/Roberts-2020s.pdf'
 ---

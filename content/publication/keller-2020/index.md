@@ -56,6 +56,6 @@ abstract: A method of creating localized haptic stimulations on a user includes 
   interfere at a target location to create a haptic stimulation on a user of the wearable
   device, the waves having the selected values.
 publication: ''
-url_pdf: https://worldwide.espacenet.com/patent/search/family/067139112/publication/EP3738019A1?q=pn%3DEP3738019A1%3F
+url_project: https://worldwide.espacenet.com/patent/search/family/067139112/publication/EP3738019A1?q=pn%3DEP3738019A1%3F
 url_code: https://www.freepatentsonline.com/y2019/0212824.html
 ---

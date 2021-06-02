@@ -49,7 +49,7 @@ abstract: Internal consistency of local depth, slant, and curvature judgments wa
   Ratio of the optimal combination of direct information of 3D shape (Domini, Caudek,
   & Tassinari, 2006). ?? 2010 Elsevier Ltd.
 publication: '*Vision Research*'
-url_pdf: http://dx.doi.org/10.1016/j.visres.2010.05.006
+
 doi: 10.1016/j.visres.2010.05.006
 ---
 {{< paper_badges "10.1016/j.visres.2010.05.006" >}}

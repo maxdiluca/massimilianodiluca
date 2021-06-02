@@ -41,7 +41,7 @@ publication_types:
 - '2'
 abstract: In this work, we analyzed and compared two patterns of movement according to a rhythmic signal (dancing vs. cyclical rhyth- mic movements) to create a more natural virtual dancing partner with haptic feedback. We observed linear movements to reduce the analy- sis complexity and highlight the critical factors that can be generalized to unconstrained movements. Results indicate that dancing movements are performed at lower frequency of oscillation than the provided sig- nal. However, synchronization errors are lower during dancing, indicating that dance is a more natural and easy way to perform the task. Finally, the amount of jerk is higher while dancing, indicating that dance move- ments are not inherently smoother, but are instead more complex than cyclical ones.
 publication: '*6th International Conference EuroHaptics 2008*'
-url_pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.6031&rep=rep1&type=pdf
+url_project: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.6031&rep=rep1&type=pdf
 doi: 10.1.1.149.6031
 ---
 

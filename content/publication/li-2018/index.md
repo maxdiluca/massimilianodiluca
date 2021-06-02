@@ -55,7 +55,7 @@ abstract: Predicting the time of stimulus onset is a key component in perception
   as enabled by the musical scale pattern, can be a factor in determining the sensitivity
   of time judgments.
 publication: '*Frontiers in Psychology*'
-url_pdf: http://journal.frontiersin.org/article/10.3389/fpsyg.2018.00105/full
+url_project: http://journal.frontiersin.org/article/10.3389/fpsyg.2018.00105/full
 doi: 10.3389/fpsyg.2018.00105
 ---
 
