@@ -59,7 +59,7 @@ abstract: The compliance of a material can be conveyed through mechanical intera
   when vision and haptic inputs were congruent, but not when they were incongruent.
   © 2010 IEEE.
 publication: '*IEEE Transactions on Haptics*'
-url_custom: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5438991
+url_project: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5438991
 doi: 10.1109/TOH.2010.9
 ---
 
