@@ -63,8 +63,6 @@ url_pdf: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5438991
 doi: 10.1109/TOH.2010.9
 ---
 
-{{<video src="compliance_s-4.mp4">}}
-
 {{<video src="GeneralSetup.mp4">}}
 
 {{<video src="SetupNonisometric.mp4">}}
