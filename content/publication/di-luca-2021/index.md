@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Locomotion Vault : the Extra Mile in Analyzing VR Locomotion Techniques'
+title: 'Locomotion Vault: the Extra Mile in Analyzing VR Locomotion Techniques'
 subtitle: ''
 summary: ''
 authors:

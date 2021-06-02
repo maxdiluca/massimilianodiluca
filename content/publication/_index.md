@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: Articles, Chapters, Books
 
 # View.
 #   1 = List

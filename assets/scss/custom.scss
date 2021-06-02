@@ -2,7 +2,20 @@ $dark-grey: #343434;
 $light-grey: #E3E3E5;
 
 
-
+.navbar {
+ height: 100px;
+ background: $sta-menu-primary;
+/* this is the part that takes out the shadow & the only edit */
+ box-shadow: true;
+ font-size: 16px;
+ font-weight: 900 !important;
+ position: fixed;
+ top: 0;
+ right: 0;
+ left: 0;
+ z-index: 1030;
+ padding: 0 1rem;
+}
 
 #about {
 
