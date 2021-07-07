@@ -60,3 +60,6 @@ url_video: 'https://www.youtube.com/watch?v=HrR5WuPiMmU'
 
 
 {{< paper_badges "10.1109/TOH.2021.3084117" >}}
+
+
+https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/new-ar-system-alters-sight-sound-and-touch
