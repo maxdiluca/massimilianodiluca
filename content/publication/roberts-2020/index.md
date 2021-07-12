@@ -57,6 +57,6 @@ abstract: Roughness perception through fingertip contact with a textured surface
 publication: '*Scientific Reports*'
 url_project: http://www.nature.com/articles/s41598-020-61943-x
 doi: 10.1038/s41598-020-61943-x
-url_project: 'roberts-2020/Roberts-2020s.pdf'
+url_project: 'Roberts-2020s.pdf'
 ---
 {{< paper_badges "10.1038/s41598-020-61943-x" >}}
