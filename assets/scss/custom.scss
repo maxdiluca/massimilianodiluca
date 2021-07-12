@@ -30,13 +30,13 @@ $light-grey: #E3E3E5;
   }
 
   .biography-title {
-    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    -webkit-animation: slide-from-right .3s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-right .3s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
 
   .main-content {
-    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    -webkit-animation: slide-from-right .3s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-right .3s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
 
   @-webkit-keyframes slide-from-left {
@@ -50,8 +50,8 @@ $light-grey: #E3E3E5;
   }
 
   #profile {
-    -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    -webkit-animation: slide-from-left .3s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-left .3s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
 
   @-webkit-keyframes fade-in {
@@ -66,18 +66,18 @@ $light-grey: #E3E3E5;
 
   .interests-div {
     opacity: 0;
-    -webkit-animation: fade-in 1s forwards;
-            animation: fade-in 1s forwards;
-    -webkit-animation-delay: 1s;
-            animation-delay: 1s;
+    -webkit-animation: fade-in .4s forwards;
+            animation: fade-in .4s forwards;
+    -webkit-animation-delay: .4s;
+            animation-delay: .4s;
   }
 
   .education-div {
     opacity: 0;
-    -webkit-animation: fade-in 1s forwards;
-            animation: fade-in 1s forwards;
-    -webkit-animation-delay: 1.5s;
-            animation-delay: 1.5s;
+    -webkit-animation: fade-in .5s forwards;
+            animation: fade-in .5s forwards;
+    -webkit-animation-delay: .5s;
+            animation-delay: .5s;
   }
 
 
@@ -102,24 +102,24 @@ $light-grey: #E3E3E5;
 
     .ai-google-scholar {
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 1s;
               animation-delay: 1s;
     }
 
     .ai-publons {
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 1.2s;
               animation-delay: 1.2s;
     }
 
     .fa-twitter {
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 1.4s;
               animation-delay: 1.4s;
     }
@@ -127,48 +127,48 @@ $light-grey: #E3E3E5;
 
     .fa-tree {
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 1.6s;
               animation-delay: 1.6s;
     }
 
     .fa-youtube{
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 1.8s;
               animation-delay: 1.8s;
     }
 
     .fa-linkedin{
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 2.0s;
               animation-delay: 2.0s;
     }
 
     .fa-researchgate{
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 2.2s;
               animation-delay: 2.2s;
     }
 
     .fa-orcid{
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 2.4s;
               animation-delay: 2.4s;
     }
 
     .fa-github {
       opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
+      -webkit-animation: grow 1.3s ease forwards;
+              animation: grow 1.3s ease forwards;
       -webkit-animation-delay: 2.6s;
               animation-delay: 2.6s;
     }
