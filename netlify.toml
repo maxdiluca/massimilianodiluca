@@ -16,6 +16,7 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [[plugins]]
+  package = "netlify-plugin-image-optim"
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
