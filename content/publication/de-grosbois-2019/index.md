@@ -14,7 +14,7 @@ authors:
 - Mounia Ziat
 tags:
 - 'tactile sensitivity'
-- 'vibrotactile perception'
+- 'vibrotactile'
 - 'detection threshold'
 - 'adaptation'
 categories: []

@@ -12,7 +12,7 @@ tags:
 - 'temporal order judgment'
 - 'temporal perception'
 - 'virtual reality'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'visual-haptic integration'
 - 'psychophysics'
 - 'wearable'

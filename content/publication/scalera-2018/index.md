@@ -16,7 +16,7 @@ tags:
 - 'attractive/repulsive prompt'
 - 'haptics'
 - 'reaction time'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'speed-accuracy tradeoff'
 categories: []
 date: '2018-07-01'

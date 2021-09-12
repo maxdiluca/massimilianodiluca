@@ -14,7 +14,7 @@ authors:
 tags:
 - 'attention'
 - 'cueing'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'reaction time'
 categories: []
 date: '2019-07-01'

@@ -9,9 +9,9 @@ authors:
 - Massimiliano Di Luca
 tags:
 
-- 'duration perception'
+- 'perceived duration'
 - 'psychophysics'
-- 'rythm'
+- 'rhythm'
 - 'isochrony'
 categories: []
 date: '2015-01-01'

@@ -9,7 +9,7 @@ authors:
 
 tags:
 - 'haptic rendering'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'multisensory perception'
 - 'virtual reality'
 - 'augmented reality'

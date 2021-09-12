@@ -16,7 +16,7 @@ tags:
 - 'attractive/repulsive prompt'
 - 'haptics'
 - 'reaction time'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 categories: []
 date: '2018-01-01'
 lastmod: 2021-04-16T20:49:42+02:00

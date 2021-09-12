@@ -13,7 +13,7 @@ authors:
 
 tags:
 - 'augmented reality'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'haptic'
 - 'tactile sensitivity'
 - 'wearable'

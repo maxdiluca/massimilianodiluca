@@ -10,10 +10,9 @@ authors:
 - Yon Visell
 tags:
 - 'augmented reality'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'haptic'
-- 'tactile sensitivity'
-- ' wearable'
+- 'wearable'
 categories: []
 date: '2019-07-01'
 lastmod: 2021-04-16T20:49:30+02:00

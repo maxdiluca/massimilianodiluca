@@ -6,12 +6,11 @@ title: 'The duration of uncertain times: Audiovisual information about intervals
 subtitle: ''
 summary: ''
 authors:
-- Jess Hartcher-O'Brien
+- Jessica Hartcher-O'Brien
 - Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-
-- 'duration perception'
+- 'perceived duration'
 - 'bayesian model'
 - 'multisensory integration'
 - 'multisensory time perception'

@@ -17,7 +17,7 @@ authors:
 - Bharat Dandu
 tags:
 - 'haptic rendering'
-- 'vibrotactile stimuli'
+- 'vibrotactile'
 - 'alignment of signals'
 - 'multisensory perception'
 - 'virtual reality'

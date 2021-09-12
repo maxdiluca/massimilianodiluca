@@ -2,7 +2,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: The Predictive Perception of Dynamic Vibrotactile Stimuli Applied to the Fingertip
-  *
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +11,7 @@ authors:
 - Mounia Ziat
 tags:
 - 'predictive perception'
-- 'vibrotactile perception'
+- 'vibrotactile'
 - 'haptic'
 - 'psychophysics'
 - 'device'

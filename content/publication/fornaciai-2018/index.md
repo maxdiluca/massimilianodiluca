@@ -9,8 +9,7 @@ authors:
 - Eleni Markouli
 - Massimiliano Di Luca
 tags:
-
-- 'duration perception'
+- 'perceived duration'
 - 'psychophysics'
 - 'multisensory perception'
 - 'modeling'
