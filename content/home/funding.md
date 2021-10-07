@@ -21,6 +21,19 @@ date_format = "Jan 2006"
 [[item]]
 
 running = true
+  organization = "The Alan Turing Institute"
+  organization_url = "https://www.turing.ac.uk"
+  logo = "accomplishments-logos/TATI.png"
+  title = "Turing fellow"
+    url = "https://www.turing.ac.uk"
+    date_start = "2021-10-01"
+  date_end = "2022-09-30"
+  description = """Fellowship"""
+  
+  "
+[[item]]
+
+running = true
   organization = "UBIAS"
   organization_url = "http://www.ubias.net/about-the-institute"
   logo = "accomplishments-logos/ICA.png"
