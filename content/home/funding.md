@@ -66,7 +66,7 @@ running = true
   url = ""
   certificate_url = ""
   date_start = "2021-04-01"
-  date_end = "2021-04-01"
+ 
   description = "Equipment donation, PI with Alan Wing"
 
     [[item]]
