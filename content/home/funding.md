@@ -30,7 +30,7 @@ running = true
   date_end = "2022-09-30"
   description = """Fellowship"""
   
-  "
+  
 [[item]]
 
 running = true
