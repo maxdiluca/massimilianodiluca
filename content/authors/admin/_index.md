@@ -14,7 +14,7 @@ organizations:
   url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr Di Luca is Senior Lecturer at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics.
+bio: Max Di Luca is Associate Professor at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics.
 
 # Interests to show in About widget
 interests:
@@ -84,7 +84,7 @@ email: ""
 highlight_name: true
 ---
 
-Massimiliano Di Luca (Max) is Senior Lecturer at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
+Massimiliano Di Luca (Max) is Associate Professor at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
   Robotics. He performs both fundamental and applied research to investigate how humans process multisensory stimuli, with an accent on understanding the temporal, dynamic, and interactive nature of perception. He uses psychophysical experiments and neuroimaging methods to capture how the brain employs multiple sources of sensory information and combines them with assumptions, predictions, and information obtained through active exploration.
 
-  Dr Di Luca employs signal processing and machine learning to discover patterns in the interaction and user's movements that relate to perception. The leitmotiv of his research is to create computational models that constitute quantitative and testable theories about the underlying cognitive and neural processes. Such models can be used for simulations (i.e. to be implemented in robots), rendering (i.e. in haptic devices), and prediction about the user movement, responses, states (i.e. to optimise the generation of sensory cues in VR system by using perceptual metrics).
+  Prof Di Luca employs signal processing and machine learning to discover patterns in the interaction and user's movements that relate to perception. The leitmotiv of his research is to create computational models that constitute quantitative and testable theories about the underlying cognitive and neural processes. Such models can be used for simulations (i.e. to be implemented in robots), rendering (i.e. in haptic devices), and prediction about the user movement, responses, states (i.e. to optimise the generation of sensory cues in VR system by using perceptual metrics).
