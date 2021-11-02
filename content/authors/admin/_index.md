@@ -14,7 +14,7 @@ organizations:
   url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Max Di Luca is Associate Professor at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics.
+bio: Associate Professor at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics.
 
 # Interests to show in About widget
 interests:
