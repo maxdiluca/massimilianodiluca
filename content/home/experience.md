@@ -11,7 +11,7 @@ subtitle = ""
 
 
 [[experience]]
-  title = "Senior lecturer"
+  title = "Senior lecturer/Associate Professor"
   logo = "experience-logos/uob.png"
   company_logo = "pinktalk.JPG"
   company = "University of Birmingham"
