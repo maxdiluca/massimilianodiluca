@@ -29,8 +29,8 @@ running = true
     date_start = "2021-10-01"
   date_end = "2022-09-30"
   description = """Fellowship"""
-  
-  
+
+
 [[item]]
 
 running = true
@@ -51,7 +51,7 @@ running = true
   organization_url = ""
   logo = "accomplishments-logos/ARME.png"
   title = "ARME - Augmented Reality Music Ensamble"
-  url = "https://arme-project.netlify.app"
+  url = "https://arme-project.co.uk"
   certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
   date_start = "2021-09-01"
   date_end = "2024-08-31"
@@ -66,7 +66,7 @@ running = true
   url = ""
   certificate_url = ""
   date_start = "2021-04-01"
- 
+
   description = "Equipment donation, PI with Alan Wing"
 
     [[item]]
@@ -102,7 +102,7 @@ running = true
   logo = "accomplishments-logos/finger.jpg"
   organization_url = ""
   title = "Taking the rough with the smooth: aging effects on tactile surface texture perception"
-  url = ""
+  url = "https://aging-touch.netlify.app"
   certificate_url = "https://gtr.ukri.org/projects?ref=BB%2FR003971%2F1"
   date_start = "2018-01-01"
   date_end = "2021-08-31"
