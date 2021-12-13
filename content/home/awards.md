@@ -41,6 +41,6 @@ running = true
     url = "https://www.intercontinental-academia.org"
     date_start = "2021-09-01"
   date_end = "2023-08-31"
-  description = """#4 Intelligence and artificial intelligence"""
+  description = """Intelligence and artificial intelligence"""
 
 +++
