@@ -21,26 +21,26 @@ date_format = "Jan 2006"
 [[item]]
 
 running = true
-  organization = "The Alan Turing Institute"
-  organization_url = "https://www.turing.ac.uk"
-  logo = "accomplishments-logos/TATI.png"
-  title = "Turing fellow"
-    url = "https://www.turing.ac.uk"
-    date_start = "2021-10-01"
-  date_end = "2022-09-30"
-  description = """"""
+organization = "The Alan Turing Institute"
+organization_url = "https://www.turing.ac.uk"
+logo = "accomplishments-logos/TATI.png"
+title = "Turing fellow"
+url = "https://www.turing.ac.uk"
+date_start = "2021-10-01"
+date_end = "2022-09-30"
+description = """"""
 
 
 [[item]]
 
 running = true
-  organization = "UBIAS"
-  organization_url = "http://www.ubias.net/about-the-institute"
-  logo = "accomplishments-logos/ICA.png"
-  title = "Fellow of the InterContinental Academia"
-    url = "https://www.intercontinental-academia.org"
-    date_start = "2021-09-01"
-  date_end = "2023-08-31"
-  description = """Intelligence and artificial intelligence"""
+organization = "UBIAS"
+organization_url = "http://www.ubias.net/about-the-institute"
+logo = "accomplishments-logos/ICA.png"
+title = "Fellow of the InterContinental Academia"
+url = "https://www.intercontinental-academia.org"
+date_start = "2021-09-01"
+date_end = "2023-08-31"
+description = """Intelligence and artificial intelligence"""
 
 +++
