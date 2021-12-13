@@ -28,7 +28,7 @@ title = "Turing fellow"
 url = "https://www.turing.ac.uk"
 date_start = "2021-10-01"
 date_end = "2022-09-30"
-description = """"""
+description = """                                                      """
 
 
 [[item]]
@@ -41,6 +41,6 @@ title = "Fellow of the InterContinental Academia"
 url = "https://www.intercontinental-academia.org"
 date_start = "2021-09-01"
 date_end = "2023-08-31"
-description = """Intelligence and artificial intelligence"""
+description = """Intelligence and artificial intelligence                """
 
 +++
