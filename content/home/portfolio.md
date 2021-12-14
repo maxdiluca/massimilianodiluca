@@ -76,4 +76,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Recent projects to which I have contributed (somewhat).
+Recent things to which I have somewhat contributed
