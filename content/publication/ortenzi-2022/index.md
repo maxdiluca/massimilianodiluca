@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Robot, Pass Me the Tool: Handle Visibility Facilitates Task-oriented Handovers
+title: 'Robot, Pass Me the Tool: Handle Visibility Facilitates Task-oriented Handovers'
 subtitle: ''
 summary: ''
 authors:
