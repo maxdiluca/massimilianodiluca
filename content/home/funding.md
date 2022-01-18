@@ -148,14 +148,14 @@ description = "SRA, PI"
 
 [[item]]
 running = false
-organization = "Marie Curie"
+organization = "Marie-Curie, EC FP7"
 organization_url = ""
 title = "Temporal information in crossmodal stimuli (TICS)"
 url = ""
 certificate_url = "https://cordis.europa.eu/project/id/304235"
 date_start = "2012-06-01"
 date_end = "2016-05-31"
-description = "Career integration award, €100k, PI"
+description = "Career Integration Grant, €100k, PI"
 
 
 
