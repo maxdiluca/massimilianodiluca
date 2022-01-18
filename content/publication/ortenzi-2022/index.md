@@ -17,7 +17,7 @@ authors:
 tags:
 - 'human-robot interaction'
 - 'grasping'
-- 'bject handovers'
+- 'object handovers'
 - 'visual occlusion'
 - 'virtual reality'
 categories: []
@@ -43,7 +43,7 @@ projects: []
 publishDate: '2021-12-19T18:49:50.068189Z'
 publication_types:
 - '2'
-abstract: 'A human handing over an object modulates their grasp and movements
+abstract: A human handing over an object modulates their grasp and movements
 to accommodate their partner’s capabilities, which greatly
 increases the likelihood of a successful transfer. State-of-the-art
 robot behavior lacks this level of user understanding, resulting in
@@ -65,7 +65,7 @@ in planning and executing the grasp and also lowers the probability
 that the tool will be grasped by the handle. Together these findings
 indicate that robots can more effectively support their human work
 partners by increasing the visibility of the intended grasp location
-of objects being passed.''
+of objects being passed.
 
 publication: 'HRI 22: ACM/IEEE International Conference on Human-Robot Interaction'
 url_project:
