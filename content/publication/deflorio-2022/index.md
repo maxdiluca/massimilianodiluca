@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Skin and mechanoreceptor contribution to tactile input for perception: a review of simulation models
+title: 'Skin and mechanoreceptor contribution to tactile input for perception: a review of simulation models'
 subtitle: ''
 summary: ''
 authors:
