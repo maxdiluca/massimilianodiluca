@@ -14,7 +14,7 @@ organizations:
   url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics.
+bio: Associate Professor at the University of Birmingham (UK) in the School of Pscyhology and in the School of Computer Science.
 
 # Interests to show in About widget
 interests:
