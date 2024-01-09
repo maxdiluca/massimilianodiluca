@@ -19,6 +19,9 @@ main:
   - name: Portfolio
     url: '#portfolio'
     weight: 60
+  - name: Lab
+    url: 'https://virtualrealitylab.netlify.app'
+    weight: 65
   - name: Contact
     url: '#contact'
     weight: 70

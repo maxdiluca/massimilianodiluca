@@ -41,7 +41,7 @@ subtitle = ""
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  # 4= modified by max
+  #   4 = modified by max
   #   5 = Showcase
   view = 3
 
