@@ -23,16 +23,16 @@ twitter: ''
 email:
 phone:
 address:
-  street: Edgbaston
+  street: 52 Pritchatts Road
   city: Birmingham
   region: WM
   postcode: 'B15 2TT'
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '52.449890'
-  longitude: '-1.932468'
-directions: Enter Hills Building and take the stairs to Office 216 on Floor 2
+  latitude: '52.452890'
+  longitude: '-1.928468'
+directions: Enter PR52, take the right and the elevator to Office 312 
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
