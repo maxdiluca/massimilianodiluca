@@ -27,7 +27,7 @@ logo = "accomplishments-logos/TATI.png"
 title = """Turing fellow                        """
 url = "https://www.turing.ac.uk"
 date_start = "2021-10-01"
-date_end = "2022-09-30"
+date_end = "2023-09-30"
 description = """                                                                                                                     .
                                          """
 
