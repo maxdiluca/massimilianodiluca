@@ -43,7 +43,7 @@ title = "IAA Impact acceleration award"
 url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2024-03-01"
-date_end = "2024-09-31"
+date_end = "2024-09-30"
 description = """Follow-on funds to increase the impact of the ARME project by enabling a museum exhibition"""
 
 
@@ -84,7 +84,7 @@ title = "Movement tracking and evaluation"
 url = ""
 certificate_url = ""
 date_start = "2021-04-01"
-
+date_end = "2022-04-01"
 description = "Equipment donation, PI with Alan Wing"
 
 [[item]]
