@@ -22,6 +22,48 @@ date_format = "Jan 2006"
 [[item]]
 
 running = true
+organization = "google"
+organization_url = ""
+logo = "accomplishments-logos/google.png"
+title = "google award"
+url = ""
+certificate_url = ""
+date_start = "2024-07-10"
+date_end = "2026-07-11"
+description = """Unrestricted gift to pursue research in immersive environments."""
+
+
+[[item]]
+
+running = true
+organization = "EPSRC"
+organization_url = ""
+logo = "accomplishments-logos/ARME.png"
+title = "IAA Impact acceleration award"
+url = "https://arme-project.co.uk"
+certificate_url = ""
+date_start = "2024-03-01"
+date_end = "2024-09-31"
+description = """Follow-on funds to increase the impact of the ARME project by enabling a museum exhibition"""
+
+
+[[item]]
+
+running = true
+organization = "BBSRC"
+organization_url = ""
+logo = "accomplishments-logos/ARME.png"
+title = "IAA  Impact acceleration award"
+url = "https://arme-project.co.uk"
+certificate_url = ""
+date_start = "2023-09-01"
+date_end = "2024-03-31"
+description = """Funds to allow the creation of a phone app and study the effect of latency on experience of interativity"""
+
+
+[[item]]
+
+running = true
 organization = "EPSRC"
 organization_url = ""
 logo = "accomplishments-logos/ARME.png"

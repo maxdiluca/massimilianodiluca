@@ -32,11 +32,11 @@ address:
 coordinates:
   latitude: '52.452890'
   longitude: '-1.928468'
-directions: Enter PR52, take the right and the elevator to Office 312 
+directions: Enter GK/PR52, take one of the two elevators on the left of the Cafe' to Office 515 
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com/massimilianodiluca'
+appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
