@@ -58,7 +58,7 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2023-09-01"
 date_end = "2024-03-31"
-description = """Funds to allow the creation of a phone app and study the effect of latency on experience of interativity"""
+description = """Funds to allow the creation of a phone app and study the effect of latency on the experience of interactivity"""
 
 
 [[item]]
