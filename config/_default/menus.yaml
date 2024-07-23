@@ -19,7 +19,7 @@ main:
   - name: Portfolio
     url: '#portfolio'
     weight: 60
-  - name: Lab
+  - name: VRLab
     url: 'https://virtualrealitylab.netlify.app'
     weight: 65
   - name: Contact
