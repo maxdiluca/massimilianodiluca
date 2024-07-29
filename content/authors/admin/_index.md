@@ -41,6 +41,9 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
+- icon: link
+  icon_pack: fas
+  link: https://virtualrealitylab.netlify.app
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
