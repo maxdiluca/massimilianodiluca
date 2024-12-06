@@ -19,6 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+
+[[item]]
+
+running = true
+organization = "UKRI"
+organization_url = "https://www.icureprogramme.com"
+logo = "accomplishments-logos/iCURE.png"
+title = "iCURE programme"
+url = ""
+certificate_url = ""
+date_start = "2024-11-01"
+date_end = "2025-02-31"
+description = """Pre-accelerator programme for transitioning research outcome from the ARME project."""
+
+
+
 [[item]]
 
 running = true
