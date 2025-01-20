@@ -39,10 +39,10 @@ description = """Pre-accelerator programme for transitioning research outcome fr
 [[item]]
 
 running = true
-organization = "google"
+organization = "Google"
 organization_url = ""
 logo = "accomplishments-logos/google.png"
-title = "google award"
+title = "Google award"
 url = ""
 certificate_url = ""
 date_start = "2024-07-10"
