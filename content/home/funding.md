@@ -30,8 +30,8 @@ logo = "accomplishments-logos/icure.png"
 title = "iCURE programme"
 url = ""
 certificate_url = ""
-date_start = "2025-07-10"
-date_end = "2026-07-11"
+date_start = "2024-11-10"
+date_end = "2025-03-11"
 description = """Pre-accelerator programme for transitioning research outcome from the ARME project."""
 
 
