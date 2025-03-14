@@ -25,14 +25,31 @@ date_format = "Jan 2006"
 
 running = true
 organization = "UKRI"
-organization_url = "https://www.icureprogramme.com"
-logo = "accomplishments-logos/icure.png"
+organization_url = "https://iuk-business-connect.org.uk/opportunities/icure-exploit/"
+logo = "accomplishments-logos/icure-exploit.png"
+title = "iCURE programme"
+url = ""
+certificate_url = ""
+date_start = "2025-04-10"
+date_end = "2025-06-11"
+description = """Invited support for spin-out for the ARME project."""
+
+
+
+
+[[item]]
+
+running = true
+organization = "UKRI"
+organization_url = "https://iuk-business-connect.org.uk/opportunities/icure-explore/"
+logo = "accomplishments-logos/icure-explore.png"
 title = "iCURE programme"
 url = ""
 certificate_url = ""
 date_start = "2024-11-10"
 date_end = "2025-03-11"
 description = """Pre-accelerator programme for transitioning research outcome from the ARME project."""
+
 
 
 
