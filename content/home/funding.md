@@ -32,7 +32,7 @@ url = ""
 certificate_url = ""
 date_start = "2025-04-10"
 date_end = "2025-06-11"
-description = """Invited support for spin-out for the ARME project."""
+description = """Support to spin-out the ARME project."""
 
 
 
@@ -64,7 +64,7 @@ url = ""
 certificate_url = ""
 date_start = "2024-07-10"
 date_end = "2026-07-11"
-description = """Unrestricted gift to pursue research in immersive environments."""
+description = """Academic gift to pursue research in immersive environments."""
 
 
 [[item]]
