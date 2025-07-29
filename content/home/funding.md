@@ -21,9 +21,39 @@ date_format = "Jan 2006"
 
 
 
+
+
 [[item]]
 
 running = true
+organization = "MSCA doctoral network funded by the HORIZON 2020 framework"
+organization_url = ""
+logo = "accomplishments-logos/ec.jpg"
+title = "Explora"
+url = "https://explora-network.github.io/"
+certificate_url = ""
+date_start = "2026-02-26"
+date_end = "2030-08-30"
+description = """Perception of materials, objects and spaces through active EXPLORAtion"""
+
+
+[[item]]
+
+running = true
+organization = "Google"
+organization_url = ""
+logo = "accomplishments-logos/google.png"
+title = "Google award"
+url = ""
+certificate_url = ""
+date_start = "2025-07-25"
+date_end = "2027-07-24"
+description = """Academic gift to pursue research in text entry."""
+
+
+[[item]]
+
+running = false
 organization = "UKRI"
 organization_url = "https://iuk-business-connect.org.uk/opportunities/icure-exploit/"
 logo = "accomplishments-logos/icure-exploit.png"
@@ -39,7 +69,7 @@ description = """Support to spin-out the ARME project."""
 
 [[item]]
 
-running = true
+running = false
 organization = "UKRI"
 organization_url = "https://iuk-business-connect.org.uk/opportunities/icure-explore/"
 logo = "accomplishments-logos/icure-explore.png"
@@ -69,7 +99,7 @@ description = """Academic gift to pursue research in immersive environments."""
 
 [[item]]
 
-running = true
+running = false
 organization = "EPSRC"
 organization_url = ""
 logo = "accomplishments-logos/ARME.png"
@@ -83,7 +113,7 @@ description = """Follow-on funds to increase the impact of the ARME project by e
 
 [[item]]
 
-running = true
+running = false
 organization = "BBSRC"
 organization_url = ""
 logo = "accomplishments-logos/ARME.png"
@@ -107,6 +137,7 @@ certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V03
 date_start = "2021-09-01"
 date_end = "2024-08-31"
 description = """Grant, £1.3M, PI with Alan Wing, Maria Witek, Ryan Stables, Mark Elliot. In collaboration with: Nori Jacobi, Adrian Bradbury, PartPlay, SemantiAudio, the Coull Quartet"""
+
 
 
 [[item]]
