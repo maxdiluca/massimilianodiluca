@@ -41,25 +41,33 @@ abstract: 'Text entry for extended reality (XR) is far from perfect, and a varie
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: 
+- 'database'
+- 'text'
+- 'text entry'
+- 'keyboard'
+- 'technique'
+- 'virtual reality'
+- 'augmented reality'
+- 'visual feedback'
 
 # Display this page in a list of Featured pages?
 featured: true
 
 # Links
-url_pdf: ''
+url_pdf: 'https://pure.bham.ac.uk/admin/files/258678841/XRTextTrove_Camera_Ready.pdf'
 url_code: ''
-url_dataset: 'https://xrtexttrove.github.io/'
+url_dataset: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3706598.3713382&file=pn7274.json'
 url_poster: ''
 url_project: 'https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://dl.acm.org/doi/suppl/10.1145/3706598.3713382/suppl_file/pn7274-talk-video.mp4'
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Website
+  url: https://xrtexttrove.github.io/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
