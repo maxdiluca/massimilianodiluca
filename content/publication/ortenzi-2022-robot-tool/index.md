@@ -34,9 +34,9 @@ publication: "*Proceedings of the 2022 ACM/IEEE International Conference on Huma
   Interaction (HRI '22)*"
 publication_short: ''
 
-doi: ''
+doi: '10.1109/HRI53351.2022.9889473'
 
-abstract: ''
+abstract: 'Research has shown that the relationship between robot mind, body, and identity is flexible and can be performed in a variety of ways. Our research explores how identity performance strategies used among robot groups may be presented through group identity observables (design cues), and how those strategies impact human-robot interactions. Specifically, we ask how group identity observables lead observers to develop different mental models of robot groups, and different perceptions of trust and group dynamics constructs.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -76,4 +76,3 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
