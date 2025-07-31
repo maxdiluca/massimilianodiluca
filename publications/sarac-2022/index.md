@@ -26,7 +26,7 @@ publishDate: '2025-07-31T16:48:48.077008Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- 3
 
 # Publication name and optional abbreviated publication name.
 publication: '*IEEE Robotics and Automation Letters*'

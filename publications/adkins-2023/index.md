@@ -27,7 +27,7 @@ publishDate: '2025-07-31T16:48:48.083386Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- 3
 
 # Publication name and optional abbreviated publication name.
 publication: '*ACM Transactions on Graphics*'
