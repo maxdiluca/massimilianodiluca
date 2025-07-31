@@ -31,7 +31,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*"
-publication_short: "CHI '25"
+publication_short: ''CHI '25''
 
 doi: '10.1145/3706598.3713382'
 
