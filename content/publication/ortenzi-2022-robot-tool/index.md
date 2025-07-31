@@ -27,7 +27,7 @@ publishDate: '2025-07-31T16:44:06.695076Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot

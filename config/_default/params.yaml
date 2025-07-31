@@ -32,20 +32,12 @@ address:
 coordinates:
   latitude: '52.452890'
   longitude: '-1.928468'
-directions: Enter GK/PR52, take one of the two elevators on the left of the Cafe' to Office 515 
+directions: Enter GK/PR52, take one of the two elevators on the left of the Cafe' to Office 505 
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 appointment_url: ''
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/messages/compose?recipient_id=21845474&text=Hello'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'https://join.skype.com/oxmRed85QyLB'
+
 
 
 # Site header

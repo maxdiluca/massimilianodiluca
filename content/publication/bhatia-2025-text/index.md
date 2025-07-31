@@ -27,7 +27,7 @@ publishDate: '2025-07-31T16:44:06.721814Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: "*CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in
