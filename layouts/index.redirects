@@ -1,0 +1,14 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: http://bit.ly/netlify-deployment
+/pages/timely  /pages/Timely.html  200
+/pages/timely/  /pages/Timely.html  200
+/timely  /Timely.html  200
+/timely/  /Timely.html  200
+
+{{/* Note: code purposely un-indented to preserve required spacing in output. */}}
+{{ range $page := where site.AllPages ".Aliases" "!=" nil -}}
+{{ range $page.Aliases -}}
+{{ .|relLangURL }} {{ $page.RelPermalink }}
+{{ end -}}
+{{ end -}}

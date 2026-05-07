@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 authors: []
-external_link: http://massimilianodiluca.info/pages/Timely.html
+external_link: https://massimilianodiluca.info/pages/Timely.html
 image:
   filename:
   focal_point: Smart
