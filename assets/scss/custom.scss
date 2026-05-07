@@ -97,11 +97,15 @@ $light-grey: #E3E3E5;
 .network-image-icon {
   width: 2rem;
   height: 2rem;
-  border-radius: 0.35rem;
   object-fit: contain;
   opacity: 0;
-  -webkit-animation: grow 1.3s ease forwards;
-          animation: grow 1.3s ease forwards;
+  clip-path: inset(0 100% 0 0);
+  -webkit-animation: icon-wipe 0.65s ease forwards;
+          animation: icon-wipe 0.65s ease forwards;
+}
+
+.network-image-icon[src$="vrlab.png"] {
+  border-radius: 0;
 }
 
   .network-icon {
@@ -206,6 +210,32 @@ $light-grey: #E3E3E5;
     @keyframes grow {
         100% { opacity: 1; }
     }
+
+    @-webkit-keyframes icon-wipe {
+      0% {
+        opacity: 1;
+        -webkit-clip-path: inset(0 100% 0 0);
+                clip-path: inset(0 100% 0 0);
+      }
+      100% {
+        opacity: 1;
+        -webkit-clip-path: inset(0 0 0 0);
+                clip-path: inset(0 0 0 0);
+      }
+    }
+
+    @keyframes icon-wipe {
+      0% {
+        opacity: 1;
+        -webkit-clip-path: inset(0 100% 0 0);
+                clip-path: inset(0 100% 0 0);
+      }
+      100% {
+        opacity: 1;
+        -webkit-clip-path: inset(0 0 0 0);
+                clip-path: inset(0 0 0 0);
+      }
+    }
   }
 
 }
@@ -257,10 +287,22 @@ $light-grey: #E3E3E5;
 
 //custom css for awards
 #accomplishments {
-  img[src$="explora.png"] {
-    height: 4.2rem !important;
-    max-width: 11rem;
+  .card.experience.course {
+    border: 0;
+    box-shadow: none;
+  }
+
+  .accomplishments-image img {
+    width: 4.2rem;
+    height: 4.2rem;
+    max-width: 4.2rem;
     object-fit: contain;
+    float: left;
+    padding: 0.25rem 0.7rem 0.25rem 0;
+    border: 0;
+    outline: 0;
+    box-shadow: none;
+    background: transparent;
   }
 
   .margin-top {

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180" role="img" aria-label="CreaTech Frontiers">
+  <rect width="420" height="180" fill="#fff"/>
+  <path d="M24 38h46v14H39v24h31v14H24z" fill="#111"/>
+  <path d="M78 38h54v14H93v10h33v13H93v11h40v14H78z" fill="#111"/>
+  <path d="M139 38h16l36 62h-18l-6-11h-40l-6 11h-18zm20 38-12-22-12 22z" fill="#111"/>
+  <path d="M196 38h66v14h-25v48h-16V52h-25z" fill="#111"/>
+  <path d="M268 38h54v14h-39v10h33v13h-33v11h40v14h-55z" fill="#111"/>
+  <path d="M331 38h16v24h35V38h16v62h-16V76h-35v24h-16z" fill="#111"/>
+  <text x="25" y="137" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111">Frontiers</text>
+  <rect x="266" y="119" width="38" height="8" fill="#00a3ff"/>
+  <rect x="310" y="119" width="38" height="8" fill="#ff4fb3"/>
+  <rect x="354" y="119" width="38" height="8" fill="#f6d64a"/>
+</svg>

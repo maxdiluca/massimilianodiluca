@@ -14,7 +14,7 @@
     {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
     <div class="card experience course">
       {{if .running}}
-      <div class="card experience course" style="border-color: black;">
+      <div class="card experience course">
         {{end}}
         <div class="card-body">
           {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
@@ -22,7 +22,7 @@
             {{if .logo}}
             <div class="accomplishments-image">
               {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-                <img src='{{printf "./media/%s" .logo | absURL}}' style="height:10rem; float: left; padding-left: 0px; padding-top: 5px; padding-bottom: 5px;padding-right: 10px;">
+                <img src='{{printf "./media/%s" .logo | absURL}}' alt="">
                 {{- with .company_url}}  </a>{{end -}}
               </div>
               {{end}}

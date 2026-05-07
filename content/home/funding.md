@@ -28,13 +28,27 @@ date_format = "Jan 2006"
 running = true
 organization = "MSCA doctoral network funded by the HORIZON 2020 framework"
 organization_url = "https://marie-sklodowska-curie-actions.ec.europa.eu/"
-logo = "accomplishments-logos/explora.png"
+logo = "accomplishments-logos/explora.jpeg"
 title = "EXPLORA"
 url = "https://explora-network.github.io/web/index.html"
 certificate_url = ""
 date_start = "2026-02-26"
 date_end = "2030-08-30"
 description = """Doctoral network on perception of materials, objects, and spaces through active exploration."""
+
+
+[[item]]
+
+running = true
+organization = "Arts and Humanities Research Council (AHRC)"
+organization_url = "https://www.ukri.org/councils/ahrc/"
+logo = "accomplishments-logos/createch-frontiers.svg"
+title = "CreaTech Frontiers"
+url = "https://createchfrontiers.com/"
+certificate_url = ""
+date_start = "2025-02-01"
+date_end = "2030-01-31"
+description = """Creative industries cluster connecting West Midlands businesses, cultural organisations, and academic researchers through collaborative R&D, business support, and skills development."""
 
 
 [[item]]
