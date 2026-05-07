@@ -63,6 +63,7 @@ abstract: An isochronous sequence is a series of repeating events with the same 
   considered, however, provides an exhaustive explanation for the pattern of results
   found.
 publication: '*Timing and Time Perception*'
+url_pdf: 'https://research.birmingham.ac.uk/files/26313874/Untitled.pdf'
 doi: 10.1163/22134468-00002057
 ---
 {{< paper_badges "10.1163/22134468-00002057" >}}

@@ -20,6 +20,8 @@ authors:
 author_notes: []
 
 date: '2022-01-01'
+aliases:
+- /publication/ortenzi-2022/
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-07-31T16:44:06.695076Z'
@@ -36,7 +38,7 @@ publication_short: ''
 
 doi: '10.1109/HRI53351.2022.9889473'
 
-abstract: 'Research has shown that the relationship between robot mind, body, and identity is flexible and can be performed in a variety of ways. Our research explores how identity performance strategies used among robot groups may be presented through group identity observables (design cues), and how those strategies impact human-robot interactions. Specifically, we ask how group identity observables lead observers to develop different mental models of robot groups, and different perceptions of trust and group dynamics constructs.'
+abstract: 'A human handing over an object modulates their grasp and movements to accommodate their partner’s capabilities, which greatly increases the likelihood of a successful transfer. State-of-the-art robot behavior lacks this level of user understanding, resulting in interactions that force the human partner to shoulder the burden of adaptation. This paper investigates how visual occlusion of the object being passed affects the subjective perception and quantitative performance of the reaching of the human receiver. We performed an experiment in virtual reality where seventeen participants were tasked with repeatedly taking a tool from the hand of a robot; each of the three tested objects was presented in a wide variety of poses. Results show that initial visibility of the handle significantly increases reported holdability and immediate usability of a tool.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -47,7 +49,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://research.birmingham.ac.uk/files/159060299/ortenzi_2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -75,4 +77,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-

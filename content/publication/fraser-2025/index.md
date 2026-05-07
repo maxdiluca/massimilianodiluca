@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://research.birmingham.ac.uk/files/263495289/s00221-025-07065-0.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

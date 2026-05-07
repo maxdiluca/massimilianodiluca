@@ -16,6 +16,8 @@ tags:
 - 'wearable'
 categories: []
 date: '2022-01-18'
+aliases:
+- /publication/sarac-2022b/
 lastmod: 2022-01-18T20:44:51+02:00
 featured: false
 draft: false
@@ -40,6 +42,7 @@ publication_types:
 abstract: Our aim is to provide effective interaction with virtual objects, despite the lack of co-location of virtual and real-world contacts, while taking advantage of relatively large skin area and ease of mounting on the forearm. We performed two human participant studies to determine the effects of haptic feedback in the normal and shear directions during virtual manipulation using haptic devices worn near the wrist. In the first study, participants performed significantly better while discriminating stiffness values of virtual objects when the feedback consisted of normal displacements compared to shear displacements. Participants also commented that they could detect normal cues much easier than shear, which motivated us to perform a second study to find the point of subjective equality (PSE) between normal and shear stimuli. Our results show that shear stimuli require a larger actuator displacement but less force than normal stimuli to achieve perceptual equality for our haptic bracelets. We found that normal and shear stimuli cannot be equalized through skin displacement nor the interaction forces across all users. Rather, a calibration method is needed to find the point of equality for each user where normal and shear stimuli create the same intensity on the user's skin.
 
 publication: 'IEEE Robotics and Automation Letters (RA-L)'
+url_pdf: 'https://research.birmingham.ac.uk/files/159345183/21_2131_01_MS.pdf'
 url_project:
 doi: 10.1109/LRA.2021.3140132
 ---

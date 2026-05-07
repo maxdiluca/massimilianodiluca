@@ -2,9 +2,9 @@
 title: Locomotion Vault
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "A public resource for analysing and comparing virtual reality locomotion techniques."
 draft: false
-featured: false
+featured: true
 authors: []
 external_link: https://locomotionvault.github.io
 image:

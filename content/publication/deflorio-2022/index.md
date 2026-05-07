@@ -38,7 +38,10 @@ abstract: We review four current computational models that simulate the response
 
 
 publication: 'Frontiers in Human Neuroscience'
+url_pdf: 'https://research.birmingham.ac.uk/files/171242941/fnhum_16_862344.pdf'
 url_project:
-doi: 10.1109/LRA.2021.3140132
+doi: 10.3389/fnhum.2022.862344
+aliases:
+- /publication/deflorio-2022-b/
 ---
-{{< paper_badges "10.1109/LRA.2021.3140132" >}}
+{{< paper_badges "10.3389/fnhum.2022.862344" >}}

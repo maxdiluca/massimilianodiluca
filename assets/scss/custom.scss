@@ -94,18 +94,42 @@ $light-grey: #E3E3E5;
   color: #000000;
 }
 
+.network-image-icon {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.35rem;
+  object-fit: contain;
+  opacity: 0;
+  -webkit-animation: grow 1.3s ease forwards;
+          animation: grow 1.3s ease forwards;
+}
 
   .network-icon {
 
     margin-top: 15px;
     padding: 5px;
 
+    li:nth-child(1) .network-image-icon {
+      -webkit-animation-delay: .4s;
+              animation-delay: .4s;
+    }
+
+    li:nth-child(2) .network-image-icon {
+      -webkit-animation-delay: .6s;
+              animation-delay: .6s;
+    }
+
+    li:nth-child(3) .network-image-icon {
+      -webkit-animation-delay: .8s;
+              animation-delay: .8s;
+    }
+
     .ai-google-scholar {
       opacity: 0;
       -webkit-animation: grow 1.3s ease forwards;
               animation: grow 1.3s ease forwards;
-      -webkit-animation-delay: 1s;
-              animation-delay: 1s;
+      -webkit-animation-delay: 1.0s;
+              animation-delay: 1.0s;
     }
 
     .ai-publons {
@@ -233,6 +257,12 @@ $light-grey: #E3E3E5;
 
 //custom css for awards
 #accomplishments {
+  img[src$="explora.png"] {
+    height: 4.2rem !important;
+    max-width: 11rem;
+    object-fit: contain;
+  }
+
   .margin-top {
     margin-top: 20px;
   }

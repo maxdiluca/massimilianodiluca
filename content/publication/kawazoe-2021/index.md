@@ -48,6 +48,7 @@ abstract: Touch interactions are central to many human activities, but there are
 doi: 10.1109/TOH.2021.3084117
 
 publication: '*IEEE Transactions on Haptics*'
+url_pdf: 'https://research.birmingham.ac.uk/files/133155640/Kawazoe_2021.pdf'
 
 url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25349/D9BS5G'
 url_video: 'https://www.youtube.com/watch?v=HrR5WuPiMmU'

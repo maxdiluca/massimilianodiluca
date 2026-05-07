@@ -6,22 +6,23 @@ title: Massimiliano Di Luca
 superuser: true
 
 # Role/position/tagline
-role:
+role: Professor of Virtual Reality and Human Perception
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:
-  url:
+- name: University of Birmingham
+  url: https://www.birmingham.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor at the University of Birmingham (UK) in the School of Pscyhology and in the School of Computer Science.
+bio: Professor at the University of Birmingham working on virtual reality, haptics, multisensory perception, and computational models of interaction.
 
 # Interests to show in About widget
 interests:
-- Human perception
+- Virtual and mixed reality
 - Haptics
-- Virtual Reality
-- Computational modeling
+- Multisensory perception
+- Computational modelling
+- Human movement and interaction
 
 # Education to show in About widget
 education:
@@ -41,9 +42,15 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
-- icon: link
-  icon_pack: fas
+- icon: social-icons/vrlab.png
+  icon_pack: image
   link: https://virtualrealitylab.netlify.app
+- icon: social-icons/bhamxr.svg
+  icon_pack: image
+  link: https://www.birmingham.ac.uk/research/centres-institutes/bhamxr
+- icon: social-icons/myjams.svg
+  icon_pack: image
+  link: https://find-and-update.company-information.service.gov.uk/company/16456809
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
@@ -87,7 +94,9 @@ email: ""
 highlight_name: true
 ---
 
-Massimiliano Di Luca (Max) is Associate Professor at the University of Birmingham in the School of Psychology and in the School of Computer Science. He performs both fundamental and applied research to investigate how humans process multisensory stimuli, with an accent on understanding the temporal, dynamic, and interactive nature of perception. He uses psychophysical experiments, computanional modeling and immersive technologies to capture how the brain employs multiple sources of sensory information and combines them with assumptions, predictions, and information obtained through active exploration.
+Massimiliano Di Luca (Max) is Professor of Virtual Reality and Human Perception at the University of Birmingham, working across Psychology, Computer Science, BhamXR, and the University of Birmingham VR Lab. His research connects multisensory perception, haptics, and XR interaction to understand how people perceive and act in dynamic environments.
 
-  Prof Di Luca employs signal processing and machine learning to discover patterns in the interaction and user's movements that relate to perception. The leitmotiv of his research is to create computational models that constitute quantitative and testable theories about the underlying cognitive and neural processes. Such models can be used for simulations (i.e. to be implemented in robots), rendering (i.e. in haptic devices), and prediction about the user movement, responses, states (i.e. to optimise the generation of sensory cues in VR system by using perceptual metrics).
+He combines psychophysics, signal processing, computational modelling, machine learning, and immersive technologies to study the timing, reliability, and action-dependence of sensory information. His work informs the design of virtual and mixed reality systems, haptic interfaces, perceptual metrics, and tools for measuring interaction.
+
+He has led and contributed to major funded projects, including ARME, BhamXR, XR text entry, tactile perception across the lifespan, and industry collaborations with Meta, Google, Procter & Gamble, and other partners. His outputs include peer-reviewed publications, public research resources, software, demonstrations, and translational work through spin-out activity including MyJAMS Ltd.
  

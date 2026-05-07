@@ -1,10 +1,10 @@
 ---
-title: Prendo Sim software
+title: PrendoSim software
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "Proxy-hand-based robot grasp generation software for studying and demonstrating object handovers."
 draft: false
-featured: false
+featured: true
 authors: []
 external_link: https://prendosim.github.io
 image:

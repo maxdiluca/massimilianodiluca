@@ -11,13 +11,13 @@ subtitle = ""
 
 
 [[experience]]
-  title = "Senior lecturer/Associate Professor"
+  title = "Associate Professor"
   logo = "experience-logos/uob.png"
   company_logo = "pinktalk.JPG"
-  company = "University of Birmingham"
+  company = "University of Birmingham, School of Psychology and School of Computer Science"
   company_url = "https://www.birmingham.ac.uk/staff/profiles/psychology/diluca-massimiliano.aspx"
   location = "Birmingham, UK"
-  date_start = "2018-07-03"
+  date_start = "2023-01-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -26,7 +26,25 @@ subtitle = ""
   * Mentoring: Postdocs, PhD, MSc, and BSc students in psychology and CS
   * Teaching MSc modules: Mind, Brain and Models; Research practica
   * Business Engagement Champion for Life and Environmental Science college
-  * Chair of the school health and safety committee
+  * Founder and coordinator of BhamXR
+  * Supporting cross-disciplinary XR infrastructure, including the VR Lab
+  """
+
+[[experience]]
+  title = "Associate Professor"
+  logo = "experience-logos/uob.png"
+  company = "University of Birmingham, School of Psychology"
+  company_url = "https://www.birmingham.ac.uk/staff/profiles/psychology/diluca-massimiliano.aspx"
+  location = "Birmingham, UK"
+  date_start = "2019-09-02"
+  date_end = "2022-12-31"
+  description = """
+  Responsibilities included:
+
+  * Researching human perception, haptics, and XR interaction
+  * Supervising PhD, MSc, and BSc students
+  * Leading MSc programme activity
+  * Business engagement and industry partnership development
   """
 
 [[experience]]
@@ -62,7 +80,7 @@ subtitle = ""
   company_url = ""
   location = "Birmingham, UK"
   date_start = "2011-08-01"
-  date_end = "2018-07-02"
+  date_end = "2017-06-30"
   description = """
  Responsibilities included:
 

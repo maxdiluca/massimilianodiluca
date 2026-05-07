@@ -46,7 +46,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://research.birmingham.ac.uk/files/183996315/Importance_of_Hand_Motions_for_Communication_Nov22.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

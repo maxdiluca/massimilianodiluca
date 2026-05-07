@@ -43,7 +43,7 @@ publication_types:
 abstract: 'Two joystick-based teleoperation is a common method for controlling a remote machine or a robot. Their use could be counter-intuitive and could require a heavy mental workload. The goal of this paper is to investigate whether vibrotactile prompts could be used to trigger dual-joystick responses quickly and intuitively, so to possibly employ them for training. In particular, we investigate the effects of: (1) stimuli delivered either on the palm or on the back of the hand, (2) with attractive and repulsive mappings, (3) with single and sequential stimuli. We find that 38 participants responded quicker and more accurately when stimuli were delivered on the back of the hand, preferred to move towards the vibration. Sequential stimuli led to intermediate responses in terms of speed and accuracy.'
 publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
   in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
-url_pdf: http://link.springer.com/10.1007/978-3-319-93399-3_49
+url_pdf: 'https://research.birmingham.ac.uk/files/80465375/scalera2018.pdf'
 doi: 10.1007/978-3-319-93399-3_49
 ---
 {{< paper_badges "10.1007/978-3-319-93399-3_49" >}}

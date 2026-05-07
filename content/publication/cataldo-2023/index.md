@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://research.birmingham.ac.uk/files/188276687/CataldoA2023Touching.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

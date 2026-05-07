@@ -59,7 +59,11 @@
           {{ end }}
           <li>
             <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+              {{ if eq $pack "image" }}
+              <img class="network-image-icon big-icon" src="{{ printf "media/%s" .icon | absURL }}" alt="">
+              {{ else }}
               <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+              {{ end }}
             </a>
           </li>
           {{ end }}

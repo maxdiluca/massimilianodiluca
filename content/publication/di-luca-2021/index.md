@@ -44,6 +44,7 @@ publication_types:
 - '1'
 abstract: Numerous techniques have been proposed for locomotion in virtual reality (VR). Several taxonomies consider a large number of attributes (e.g., hardware, accessibility) to characterize these techniques. However, finding the appropriate locomotion technique (LT) and identifying gaps for future designs in the high-dimensional space of attributes can be quite challenging. To aid analysis and innovation, we devised Locomotion Vault ([https://locomotionvault.github.io/](https://locomotionvault.github.io/)), a database and visualization of over 100 LTs from academia and industry. We propose similarity between LTs as a metric to aid navigation and visualization. We show that similarity based on attribute values correlates with expert similarity assessments (a method that does not scale). Our analysis also highlights an inherent trade-off between simulation sickness and accessibility across LTs. As such, Locomotion Vault shows to be a tool that unifies information on LTs and enables their standardization and large-scale comparison to help understand the space of possibilities in VR locomotion.
 publication: '*ACM CHI*'
+url_pdf: 'https://research.birmingham.ac.uk/files/116774658/CHI_2021_Locomotion_VR.pdf'
 url_project: http://locomotionvault.github.io
 doi: 10.1145/3411764.3445319
 url_code: https://github.com/locomotionvault/locomotionvault.github.io

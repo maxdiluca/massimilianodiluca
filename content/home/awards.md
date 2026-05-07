@@ -20,6 +20,31 @@ date_format = "Jan 2006"
 
 [[item]]
 
+running = false
+organization = """SIGCHI"""
+organization_url = "https://sigchi.org"
+logo = "accomplishments-logos/sigchi.svg"
+title = """Special Recognition for the Google/academia Android XR interaction team"""
+url = ""
+date_start = "2025-01-01"
+date_end = "2025-12-31"
+description = """"""
+
+
+[[item]]
+
+running = false
+organization = """School of Psychology, University of Birmingham"""
+organization_url = ""
+logo = "accomplishments-logos/uob.png"
+title = """Excellence in Discovery Science Award"""
+url = ""
+date_start = "2022-01-01"
+date_end = "2022-12-31"
+description = """"""
+
+[[item]]
+
 running = true
 organization = """The Alan Turing Institute"""
 organization_url = "https://www.turing.ac.uk"

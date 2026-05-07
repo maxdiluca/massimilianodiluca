@@ -42,6 +42,7 @@ publication_types:
 abstract: For the perception of haptic environmental properties such as stiffness, damping, or inertia, estimates of force and movement must be combined continuously over time. We investigate the relations between sensitivity of perceptual judgments about force and the time a perceptual response is given with different types of hand movements. Portions of response data are selected according to their response time and psychometric functions are fitted. In this way, we can estimate time-dependent JND and PSE functions. We show that the JND is different depending on which portion on the response time data it is based on. The JND follows the same pattern for responses given after 650 ms irrespective of the movement performed. Furthermore, we find that forces are consistently overestimated during movement.
 publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
   in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
+url_pdf: 'https://research.birmingham.ac.uk/files/20842834/2014_EurohapticsRankDiLuca.pdf'
 doi: 10.1007/978-3-662-44193-0_12
 ---
 

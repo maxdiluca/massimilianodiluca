@@ -53,6 +53,7 @@ abstract: We present Tactile Echoes, a wearable system for augmenting tactile in
   holds promise for enabling evocative haptic effects during a wide range of free-hand
   tactile interactions.
 publication: '*2019 IEEE World Haptics Conference, WHC 2019*'
+url_pdf: 'https://research.birmingham.ac.uk/files/76586564/Tactile_Echoes_A_Wearable_System_for_Tactile_Augmentation_of_Objects.pdf'
 url_project: https://ieeexplore.ieee.org/document/8816099/
 doi: 10.1109/WHC.2019.8816099
 ---

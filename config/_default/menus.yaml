@@ -10,14 +10,17 @@ main:
   - name: Funding
     url: '#funding'
     weight: 30
+  - name: Collaborate
+    url: '#collaborate'
+    weight: 35
   - name: Research
     url: '#projects'
     weight: 40
   - name: Publications
     url: '#tags'
     weight: 50
-  - name: Portfolio
-    url: '#portfolio'
+  - name: Resources
+    url: '#resources'
     weight: 60
   - name: VRLab
     url: 'https://virtualrealitylab.netlify.app'

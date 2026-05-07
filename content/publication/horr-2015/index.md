@@ -39,6 +39,7 @@ publication_types:
 - '2'
 abstract: "A commonly observed phenomenon to elucidate distortions of perceived duration is the filled-duration illusion: a temporal interval delimited by two marker signals is perceived to be shorter than the same interval with several identical filler signals. Previous investigations have focused on regularly spaced (isochronous) fillers and the influence of their temporal structure has not been considered. We find that intervals with isochronous fillers are perceived to last longer than their anisochronous counterparts. The illusion increases with the amount of deviation from isochrony and with the number of fillers. Findings also indicate that perceived duration is specifically affected by temporal irregularities, as randomization of the fillers' sound amplitude or frequency does not cause an appreciable distortion. These results can be accounted for by both pacemaker-accumulator models and entrainment models."
 publication: '*Attention, Perception, and Psychophysics*'
+url_pdf: 'https://research.birmingham.ac.uk/files/17937227/Horr_DiLuca_Taking_long_look_isochrony_Attention_Perception_Psychophysics_2014.pdf'
 doi: 10.3758/s13414-014-0787-z
 ---
 

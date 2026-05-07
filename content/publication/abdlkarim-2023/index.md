@@ -47,7 +47,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://research.birmingham.ac.uk/files/186972704/s13428_022_02051_8.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
