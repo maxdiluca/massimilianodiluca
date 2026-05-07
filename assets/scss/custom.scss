@@ -97,11 +97,11 @@ $light-grey: #E3E3E5;
 .network-image-icon {
   width: 2rem;
   height: 2rem;
+  border-radius: 0.35rem;
   object-fit: contain;
   opacity: 0;
-  clip-path: inset(0 100% 0 0);
-  -webkit-animation: icon-wipe 0.65s ease forwards;
-          animation: icon-wipe 0.65s ease forwards;
+  -webkit-animation: grow 1.3s ease forwards;
+          animation: grow 1.3s ease forwards;
 }
 
 .network-image-icon[src$="vrlab.png"] {
@@ -211,31 +211,6 @@ $light-grey: #E3E3E5;
         100% { opacity: 1; }
     }
 
-    @-webkit-keyframes icon-wipe {
-      0% {
-        opacity: 1;
-        -webkit-clip-path: inset(0 100% 0 0);
-                clip-path: inset(0 100% 0 0);
-      }
-      100% {
-        opacity: 1;
-        -webkit-clip-path: inset(0 0 0 0);
-                clip-path: inset(0 0 0 0);
-      }
-    }
-
-    @keyframes icon-wipe {
-      0% {
-        opacity: 1;
-        -webkit-clip-path: inset(0 100% 0 0);
-                clip-path: inset(0 100% 0 0);
-      }
-      100% {
-        opacity: 1;
-        -webkit-clip-path: inset(0 0 0 0);
-                clip-path: inset(0 0 0 0);
-      }
-    }
   }
 
 }
