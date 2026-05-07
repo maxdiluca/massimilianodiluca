@@ -7,10 +7,10 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Funding
+  - name: Funding and Partnerships
     url: '#funding'
     weight: 30
-  - name: Collaborate
+  - name: Students and Collaborators
     url: '#collaborate'
     weight: 35
   - name: Research
@@ -19,15 +19,9 @@ main:
   - name: Publications
     url: '#tags'
     weight: 50
-  - name: Resources
+  - name: Tools and Resources
     url: '#resources'
     weight: 60
-  - name: VRLab
-    url: 'https://virtualrealitylab.netlify.app'
-    weight: 65
-  - name: BhamXR
-    url: 'https://www.birmingham.ac.uk/research/centres-institutes/bhamxr'
-    weight: 68
   - name: Contact
     url: '#contact'
     weight: 70

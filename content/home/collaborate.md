@@ -31,3 +31,4 @@ Current topics of interest include:
 
 The most productive projects usually sit between psychology, computer science, engineering, creative practice, and industry needs.
 
+[Get in touch through the contact form](#contact)

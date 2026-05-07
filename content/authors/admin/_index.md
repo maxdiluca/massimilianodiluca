@@ -50,7 +50,7 @@ social:
   link: https://www.birmingham.ac.uk/research/centres-institutes/bhamxr
 - icon: social-icons/myjams.svg
   icon_pack: image
-  link: https://find-and-update.company-information.service.gov.uk/company/16456809
+  link: https://myjamsltd.netlify.app
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=93hi3QcAAAAJ&hl=en
