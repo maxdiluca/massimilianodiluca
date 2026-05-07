@@ -22,7 +22,7 @@ main:
   - name: VRLab
     url: 'https://virtualrealitylab.netlify.app'
     weight: 65
- - name: BhamXR
+  - name: BhamXR
     url: 'https://www.birmingham.ac.uk/research/centres-institutes/bhamxr'
     weight: 68
   - name: Contact
