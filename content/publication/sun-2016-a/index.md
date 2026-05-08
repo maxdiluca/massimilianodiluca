@@ -13,14 +13,14 @@ authors:
 - Roland W. Fleming
 - Andrew E. Welchman
 tags:
-- '3d shape'
-- 'neuroimaging'
-- 'binocular cue'
-- 'mvpa'
-- 'material perception'
-- 'specularity'
-- 'surface gloss'
-- 'fmri'
+- 3D shape
+- neuroimaging
+- binocular cue
+- mvpa
+- material perception
+- specularity
+- surface gloss
+- fMRI
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-16T20:49:39+02:00

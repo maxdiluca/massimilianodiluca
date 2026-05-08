@@ -25,7 +25,7 @@ abstract: "Users of Virtual Reality (VR) primarily sense their environment throu
 summary: 'A haptic belt for mixed reality that renders collision and proximity cues around the lower body to improve spatial awareness and reduce unintended collisions.'
 
 tags:
-- HCI
+- human-computer interaction
 - haptics
 - mixed reality
 - virtual reality

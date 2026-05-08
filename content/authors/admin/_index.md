@@ -6,7 +6,7 @@ title: Massimiliano Di Luca
 superuser: true
 
 # Role/position/tagline
-role: Professor of Virtual Reality and Human Perception
+role: Associate Professor of Virtual Reality and Human Perception
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.birmingham.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor at the University of Birmingham working on virtual reality, haptics, multisensory perception, and computational models of interaction.
+bio: Associate Professor of Virtual Reality and Human Perception at the University of Birmingham, leading research on XR, haptics, multisensory perception, and computational models of interaction.
 
 # Interests to show in About widget
 interests:
@@ -32,7 +32,7 @@ education:
     year: 2006
     logo: education-logos/bu.png
   - course: Laurea in Psicologia
-    institution: Universitá degli Studi di Trieste (Italy)
+    institution: Università degli Studi di Trieste (Italy)
     logo: education-logos/uts.png
     year: 2000
 
@@ -94,9 +94,14 @@ email: ""
 highlight_name: true
 ---
 
-Massimiliano Di Luca (Max) is Professor of Virtual Reality and Human Perception at the University of Birmingham, working across Psychology, Computer Science, BhamXR, and the University of Birmingham VR Lab. His research connects multisensory perception, haptics, and XR interaction to understand how people perceive and act in dynamic environments.
+Massimiliano Di Luca is Associate Professor of Virtual Reality and Human Perception at the University of Birmingham. His research programme combines multisensory perception, haptics, computational modelling, and XR technologies to understand human interaction with dynamic environments and to design perceptually grounded immersive systems. He leads interdisciplinary research, infrastructure, software, datasets, and translational activity across Psychology, Computer Science, BhamXR, the University of Birmingham VR Lab, and industry-facing projects including ARME/JAMS and MyJAMS.
 
-He combines psychophysics, signal processing, computational modelling, machine learning, and immersive technologies to study the timing, reliability, and action-dependence of sensory information. His work informs the design of virtual and mixed reality systems, haptic interfaces, perceptual metrics, and tools for measuring interaction.
+His work has produced funded research programmes, open research resources, software, public datasets, industry collaborations, spin-out activity, and interdisciplinary infrastructure for XR, haptics, and multisensory perception.
 
-He has led and contributed to major funded projects, including ARME, BhamXR, XR text entry, tactile perception across the lifespan, and industry collaborations with Meta, Google, Procter & Gamble, and other partners. His outputs include peer-reviewed publications, public research resources, software, demonstrations, and translational work through spin-out activity including MyJAMS Ltd.
+**Profile at a glance**
+
+**Research areas:** multisensory perception; XR; haptics; temporal perception; computational modelling; human-AI interaction  
+**Leadership:** University of Birmingham VR Lab; BhamXR; ARME/JAMS; interdisciplinary XR infrastructure  
+**External engagement:** Meta/Facebook Reality Labs, Google, Procter & Gamble, UKRI, EPSRC, BBSRC, AHRC  
+**Outputs:** peer-reviewed articles, datasets, software, demos, patents, public resources, translational activity
  

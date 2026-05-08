@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -20,14 +20,9 @@ subtitle = ""
   date_start = "2023-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Leads an interdisciplinary research programme on multisensory perception, haptics, XR interaction, and computational modelling. Founder and coordinator of BhamXR and lead of the University of Birmingham VR Lab.
 
-  * Researching
-  * Mentoring: Postdocs, PhD, MSc, and BSc students in psychology and CS
-  * Teaching MSc modules: Mind, Brain and Models; Research practica
-  * Business Engagement Champion for Life and Environmental Science college
-  * Founder and coordinator of BhamXR
-  * Supporting cross-disciplinary XR infrastructure, including the VR Lab
+  Supervises postdoctoral researchers, PhD students, MSc students, and interdisciplinary project teams across Psychology, Computer Science, Engineering, and creative practice. Leads externally funded work with UKRI, European, and industry partners, including ARME/JAMS, XR text entry, tactile perception, and mixed-reality infrastructure.
   """
 
 [[experience]]
@@ -39,12 +34,7 @@ subtitle = ""
   date_start = "2019-09-02"
   date_end = "2022-12-31"
   description = """
-  Responsibilities included:
-
-  * Researching human perception, haptics, and XR interaction
-  * Supervising PhD, MSc, and BSc students
-  * Leading MSc programme activity
-  * Business engagement and industry partnership development
+  Developed research and teaching activity in human perception, haptics, and XR interaction. Supervised PhD, MSc, and BSc researchers, led MSc programme activity, and built business engagement and industry partnership activity across perception science and immersive technologies.
   """
 
 [[experience]]
@@ -84,11 +74,11 @@ subtitle = ""
   description = """
  Responsibilities included:
 
-  * Researching
-  * Mentoring: PhD, MSc, and BSc students in psychology
-  * Teaching  MSc modules: Mind, Brain and Models; CNCR foundations
-  * Leading Computational Neuroscience and Cognitive Robotics MSc course
-  * Business engagement, ethics reviews, website management
+  * Built a research programme in human perception, haptics, multisensory timing, and virtual reality
+  * Mentored PhD, MSc, and BSc students in psychology
+  * Taught MSc modules including Mind, Brain and Models and CNCR foundations
+  * Led the Computational Neuroscience and Cognitive Robotics MSc course
+  * Developed business engagement, ethics review, and research communication activity
 """
 
 
@@ -103,7 +93,7 @@ subtitle = ""
   description = """
  Responsibilities included:
 
-* Performing research on haptics, AR/VR, multisensory perception, temporal perception, computational modeling in Marc Ernst group and in Heinrich Bülthoff group
+* Conducted research on haptics, AR/VR, multisensory perception, temporal perception, and computational modelling in the groups of Marc Ernst and Heinrich Bülthoff
 * Mentoring PhD, MSc, and BSc students in psychology
 * Coordinating the work on European grants
 """

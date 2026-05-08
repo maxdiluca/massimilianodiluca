@@ -43,7 +43,12 @@ abstract: 'A human handing over an object modulates their grasp and movements to
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- robotics
+- human-robot interaction
+- handover
+- grasping
+- virtual reality
 
 # Display this page in a list of Featured pages?
 featured: false

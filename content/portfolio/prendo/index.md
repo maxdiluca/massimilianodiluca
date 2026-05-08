@@ -1,8 +1,8 @@
 ---
-title: Prendo, grasping in VR experiment
+title: Prendo VR grasping experiment
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "VR grasping demonstrator used to explore hand interaction, object transfer, and perception-action coupling."
 draft: false
 featured: false
 authors: []

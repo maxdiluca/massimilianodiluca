@@ -2,12 +2,12 @@
 title: Aging Touch website
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: "Research resource on tactile perception, ageing, and surface texture perception."
+summary: "Public research resource on tactile perception, ageing, and surface texture perception, linked to BBSRC-supported work."
 draft: false
 featured: true
 authors: []
 tags:
-  - Resources
+  - Infrastructure
 external_link: https://aging-touch.netlify.app
 image:
   filename:

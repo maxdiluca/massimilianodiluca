@@ -2,12 +2,12 @@
 title: Arduino Lazy Susan
 subtitle:
 date: 2022-03-07T22:41:39.165Z
-summary: ""
-draft: true
+summary: "Archived remote-research demonstrator for shipping robotic stimuli and supporting sensory experiments at a distance."
+draft: false
 featured: false
 authors: []
 tags:
-  - Demos
+  - Archive
 external_link: https://youtu.be/Hrc2zLRdNaU
 image:
   filename:

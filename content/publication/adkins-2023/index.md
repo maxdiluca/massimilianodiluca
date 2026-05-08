@@ -40,7 +40,12 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- virtual character
+- gestures
+- communication
+- animation
+- human-computer interaction
 
 # Display this page in a list of Featured pages?
 featured: false

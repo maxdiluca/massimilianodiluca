@@ -7,13 +7,11 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 tags:
-- 'virtual reality'
-- 'technique'
-- 'delay'
-- 'measurement method'
-- 'latency'
-- 'device'
-- 'tracking'
+- virtual reality
+- delay
+- measurement method
+- latency
+- motion tracking
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:22+02:00

@@ -1,8 +1,8 @@
 ---
-title: Haptic experiment showcased at Oculus connect 5
+title: Oculus Connect haptic demo
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "Interactive haptic demonstration translating perceptual research into an industry-facing XR experience."
 draft: false
 featured: true
 authors: []

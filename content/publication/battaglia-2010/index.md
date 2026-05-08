@@ -13,12 +13,12 @@ authors:
 - Tonja Machulla
 - Daniel Kersten
 tags:
-- 'haptic'
-- 'vision'
-- 'multisensory perception'
-- 'bayesian model'
-- 'binocular cue'
-- 'causality'
+- haptics
+- vision
+- multisensory perception
+- bayesian model
+- binocular cue
+- causality
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:06+02:00

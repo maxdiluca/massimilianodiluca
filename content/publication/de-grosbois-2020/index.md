@@ -10,11 +10,10 @@ authors:
 - Raymond King
 - Mounia Ziat
 tags:
-- 'predictive perception'
-- 'vibrotactile'
-- 'haptic'
-- 'psychophysics'
-- 'device'
+- predictive perception
+- vibrotactile
+- haptics
+- psychophysics
 categories: []
 date: '2020-03-01'
 lastmod: 2021-04-16T20:49:47+02:00

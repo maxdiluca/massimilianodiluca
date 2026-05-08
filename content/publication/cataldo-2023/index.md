@@ -36,7 +36,12 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- body ownership
+- self-touch
+- oculomotor
+- multisensory perception
+- proprioception
 
 # Display this page in a list of Featured pages?
 featured: false

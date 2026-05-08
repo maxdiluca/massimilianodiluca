@@ -1,8 +1,8 @@
 ---
-title: Tactile. Multisensory texture perception iphone experiment
+title: Tactile iPhone experiment
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "Mobile tactile perception experiment translating multisensory texture research into an accessible public app."
 draft: false
 featured: false
 authors: []

@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 45  # Order that this section will appear.
 
-title = "Tools, Resources, and Demos"
-subtitle = "Public websites, software, demos, and research resources."
+title = "Open Research Resources, Software, and Translational Outputs"
+subtitle = "Platforms, datasets, software, demonstrators, and infrastructure produced by the research programme."
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +22,24 @@ subtitle = "Public websites, software, demos, and research resources."
   filter_default = 0
 
   [[content.filter_button]]
-    name = "Tools"
-    tag = "Tools"
+    name = "Flagship"
+    tag = "Flagship"
 
   [[content.filter_button]]
-    name = "Resources"
-    tag = "Resources"
+    name = "Software"
+    tag = "Software"
 
   [[content.filter_button]]
     name = "Demos"
     tag = "Demos"
+
+  [[content.filter_button]]
+    name = "Infrastructure"
+    tag = "Infrastructure"
+
+  [[content.filter_button]]
+    name = "Archive"
+    tag = "Archive"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -76,4 +84,23 @@ subtitle = "Public websites, software, demos, and research resources."
  css_class = ""
 +++
 
-Recent contributions
+### Flagship open resources
+
+These resources are intended for use beyond the lab: they support comparison, reuse, teaching, replication, and new research.
+
+- **XR Text Trove**: an open catalogue and analysis of XR text entry techniques, connected to the CHI 2025 TEXT paper and Google-supported work.
+- **Locomotion Vault**: a public resource for analysing and comparing VR locomotion techniques.
+- **ARME / JAMS resources**: research platforms for augmented and virtual music ensemble rehearsal, connected to MyJAMS and spin-out activity.
+- **Virtuoso Strings dataset**: open string ensemble recordings and onset annotations for timing analysis and music information retrieval, published through GitHub and listed on the University of Birmingham research portal.
+
+### Software and reproducible methods
+
+These tools support reproducible measurement and analysis in perception science, haptics, and XR.
+
+### Demonstrators and public engagement
+
+These demonstrations translate perceptual science into interactive systems for public engagement, teaching, industry discussion, and technology evaluation.
+
+### Research infrastructure and lab resources
+
+These platforms support collaboration, shared facilities, research training, and translational pathways across the University and external partners.

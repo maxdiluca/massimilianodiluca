@@ -9,11 +9,10 @@ authors:
 - Massimiliano Di Luca
 - Uta Noppeney
 tags:
-- 'multisensory integration'
-- 'spectral'
-- 'speech'
-- 'synchrony judgment'
-- 'temporal order judgment'
+- multisensory integration
+- speech
+- synchrony perception
+- temporal order judgment
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:49:18+02:00

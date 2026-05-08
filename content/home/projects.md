@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 13  # Order that this section will appear.
 
-title = "Research"
+title = "Research Vision"
 subtitle = ""
 
 [content]
@@ -79,11 +79,11 @@ subtitle = ""
 
 
 
-The goal of Prof Di Luca’s work is to understand and model how the brain processes sensory stimuli, allowing humans to perceive the world and act successfully. In particular, he investigates the temporal properties of the mechanisms involved. For this, Prof Di Luca uses psychophysical methods, signal processing, Bayesian modelling, imaging, and a wide range of technological tools.
+Di Luca's work asks how people perceive, predict, and act in dynamic environments, and how that knowledge can be used to design immersive systems that feel responsive, intelligible, and perceptually grounded.
 
-The information we acquire from the environment is continuously varying: we reach out, explore, and interact with objects that can move unpredictably. So we have multiple sensory signals available contemporarily, these signals are dynamic, and the information that they carry is a function of our actions. Despite such variations and complexity, our brain is capable of picking up, combining, and using information to create a percept and guide our behavior. It is not entirely clear what are the computations that allow us to effectively process such information and what are the properties of the neural mechanisms involved.
+The programme combines psychophysics, signal processing, computational modelling, machine learning, and immersive technologies to study the timing, reliability, and action-dependence of sensory information. It spans perception science, haptics, mixed reality, human movement, music performance, and human-AI interaction.
 
-To shed light on these open issues, Prof Di Luca employs experimental stimuli that have some of the properties encountered during normal interaction with the environment: stimuli that vary over time, change in response to our actions, or contain redundant information about the world.
+The aim is both scientific and translational: to explain how multisensory information is combined during action, and to turn those findings into measurement methods, XR interaction techniques, haptic systems, software, datasets, public resources, and industry-facing tools.
 
 <br>
 Find here a 60 second research pitch: <a href="https://www.youtube.com/watch?v=SZ5_4HnPUso">YouTube<a/>

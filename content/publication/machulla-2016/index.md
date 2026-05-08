@@ -9,12 +9,11 @@ authors:
 - Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-- 'multisensory time perception'
-- 'subjective simultaneity'
-- 'temporal order judgment'
-- 'crossmodal synchrony'
-- 'synchrony judgments'
-- 'temporal recalibration'
+- multisensory time perception
+- subjective simultaneity
+- temporal order judgment
+- synchrony perception
+- temporal recalibration
 
 categories: []
 date: '2016-03-01'

@@ -5,7 +5,7 @@
 
 title: Massimiliano Di Luca # Website name
 baseurl: 'https://massimilianodiluca.info' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Massimiliano Di Luca' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

@@ -3,10 +3,10 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Funding and Partnerships"
-subtitle = "Selected grants, academic gifts, accelerators, and industry collaborations."
+title = "Current Funded Programmes"
+subtitle = "Selected programmes showing leadership, partnership, and translation."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -34,7 +34,7 @@ url = "https://explora-network.github.io/web/index.html"
 certificate_url = ""
 date_start = "2026-02-26"
 date_end = "2030-08-30"
-description = """Doctoral network on perception of materials, objects, and spaces through active exploration."""
+description = """Role: PI / network role. Purpose and outcome: doctoral network on active perception of materials, objects, and spaces."""
 
 
 [[item]]
@@ -48,7 +48,7 @@ url = "https://createchfrontiers.com/"
 certificate_url = ""
 date_start = "2025-02-01"
 date_end = "2030-01-31"
-description = """Creative industries cluster connecting West Midlands businesses, cultural organisations, and academic researchers through collaborative R&D, business support, and skills development."""
+description = """Role: academic partner. Purpose and outcome: creative industries cluster connecting West Midlands businesses, cultural organisations, and academic researchers through collaborative R&D, business support, and skills development."""
 
 
 [[item]]
@@ -57,12 +57,12 @@ running = true
 organization = "Google"
 organization_url = "https://research.google/"
 logo = "accomplishments-logos/google.png"
-title = "Text Input Vault"
+title = "XR Text Trove"
 url = ""
 certificate_url = ""
 date_start = "2025-07-25"
 date_end = "2027-07-24"
-description = """Academic gift supporting research on text entry in extended reality."""
+description = """Role: PI. Purpose and outcome: open resource and analysis of XR text entry techniques, connected to the CHI 2025 TEXT paper."""
 
 
 [[item]]
@@ -76,7 +76,7 @@ url = ""
 certificate_url = ""
 date_start = "2025-04-10"
 date_end = "2025-06-11"
-description = """Support to spin-out the ARME project."""
+description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for ARME/JAMS outputs."""
 
 
 
@@ -92,7 +92,7 @@ url = ""
 certificate_url = ""
 date_start = "2024-11-10"
 date_end = "2025-03-11"
-description = """Pre-accelerator programme for transitioning research outcome from the ARME project."""
+description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for ARME/JAMS outputs."""
 
 
 
@@ -108,7 +108,7 @@ url = ""
 certificate_url = ""
 date_start = "2024-07-10"
 date_end = "2026-07-11"
-description = """Academic gift supporting research on interaction in immersive environments."""
+description = """Role: PI. Purpose and outcome: open resource and analysis of XR text entry and immersive interaction techniques."""
 
 
 [[item]]
@@ -122,7 +122,7 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2024-03-01"
 date_end = "2024-09-30"
-description = """Follow-on funds to increase the impact of the ARME project by enabling a museum exhibition."""
+description = """Role: PI. Purpose and outcome: app, exhibition, and impact translation from ARME."""
 
 
 [[item]]
@@ -136,7 +136,7 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2023-09-01"
 date_end = "2024-03-31"
-description = """Support to create a phone app and study how latency affects the experience of interactivity."""
+description = """Role: PI. Purpose and outcome: app, exhibition, and impact translation from ARME."""
 
 
 [[item]]
@@ -150,7 +150,7 @@ url = "https://arme-project.co.uk"
 certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
 date_start = "2021-09-01"
 date_end = "2025-08-31"
-description = """Project on augmented-reality support for distributed music performance, with academic and industry collaborators."""
+description = """Role: PI / scientific lead. Purpose and outcome: AR/XR systems for distributed music rehearsal and performance."""
 
 
 

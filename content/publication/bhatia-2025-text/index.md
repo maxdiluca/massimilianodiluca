@@ -41,15 +41,14 @@ abstract: 'Text entry for extended reality (XR) is far from perfect, and a varie
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: 
-- 'database'
-- 'text'
-- 'text entry'
-- 'keyboard'
-- 'technique'
-- 'virtual reality'
-- 'augmented reality'
-- 'visual feedback'
+tags:
+- database
+- text
+- text entry
+- keyboard
+- virtual reality
+- augmented reality
+- visual feedback
 
 # Display this page in a list of Featured pages?
 featured: true

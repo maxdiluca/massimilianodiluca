@@ -1,13 +1,13 @@
 ---
-title: Matlab scripts to implement the Spearman-Karber and Wave methods
+title: Spearman-Karber and WAVE method scripts
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: ""
+summary: "Reproducible scripts for psychophysical threshold estimation and timing analysis."
 draft: false
 featured: false
 authors: []
 tags:
-  - Tools
+  - Software
 external_link: https://github.com/ArgiroVat/Timing-and-Time-Perception-Book/blob/06cb993783fdeca1381e448ae09351a74340c45e/Chapter3.zip
 image:
   filename:

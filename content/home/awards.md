@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 29  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Awards"
 subtitle = ""
@@ -49,12 +49,11 @@ running = true
 organization = """The Alan Turing Institute"""
 organization_url = "https://www.turing.ac.uk"
 logo = "accomplishments-logos/TATI.png"
-title = """Turing fellow                        """
+title = """Turing Fellow"""
 url = "https://www.turing.ac.uk"
 date_start = "2021-10-01"
 date_end = "2023-09-30"
-description = """                                                                                                                     .
-                                         """
+description = """"""
 
 
 [[item]]

@@ -36,7 +36,12 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- biological motion
+- kinematics
+- motor control
+- movement analysis
+- computational modeling
 
 # Display this page in a list of Featured pages?
 featured: false

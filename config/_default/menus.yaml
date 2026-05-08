@@ -4,27 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Experience
-    url: '#experience'
-    weight: 20
+  - name: Leadership
+    url: '#leadership'
+    weight: 10
   - name: Funding
     url: '#funding'
-    weight: 30
-  - name: Opportunities
-    url: '#collaborate'
-    weight: 35
-  - name: Research
-    url: '#projects'
-    weight: 40
+    weight: 20
   - name: Publications
     url: '#tags'
-    weight: 50
+    weight: 30
   - name: Tools
     url: '#portfolio'
+    weight: 40
+  - name: People
+    url: '#collaborate'
+    weight: 50
+  - name: Awards
+    url: '#awards'
     weight: 60
+  - name: Experience
+    url: '#experience'
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

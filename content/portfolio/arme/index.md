@@ -1,13 +1,13 @@
 ---
-title: ARME website
+title: ARME / JAMS resources
 subtitle:
 date: 2021-04-11T22:41:39.165Z
-summary: "Project website for Augmented Reality Music Ensemble research."
+summary: "Research platform and public resources for augmented and virtual music ensemble rehearsal, connected to MyJAMS and spin-out activity."
 draft: false
 featured: true
 authors: []
 tags:
-  - Demos
+  - Flagship
 external_link: https://arme-project.co.uk
 image:
   filename:

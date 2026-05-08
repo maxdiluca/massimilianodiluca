@@ -11,13 +11,12 @@ authors:
 - Massimiliano Di Luca
 - C. Spence
 tags:
-- 'multisensory perception'
-- 'attention'
-- 'crossmodal'
-- 'depth'
-- 'distance'
-- 'peripersonal'
-- 'spatial'
+- multisensory perception
+- attention
+- depth perception
+- distance
+- peripersonal space
+- spatial
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-16T20:49:23+02:00

@@ -10,13 +10,12 @@ authors:
 - Massimiliano Di Luca
 - M. Harders
 tags:
-- 'augmented reality'
-- 'delay'
-- 'haptic'
-- 'multimodal'
-- 'user evaluation'
-
-- 'force feedback'
+- augmented reality
+- delay
+- haptics
+- multisensory perception
+- user evaluation
+- force feedback
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:21+02:00

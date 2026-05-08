@@ -9,15 +9,12 @@ authors:
 - Marc O. Ernst
 - Benjamin T. Backus
 tags:
-- 'depth perception'
-- '3d shape'
-- 'cues'
-- 'learning'
-- 'physiology'
-- 'photic stimulation'
-- 'sensory thresholds'
-- 'vision'
-- 'visual perception'
+- depth perception
+- 3D shape
+- learning
+- visual perception
+- sensory thresholds
+- vision
 categories: []
 date: '2010-10-01'
 lastmod: 2021-04-16T20:49:18+02:00

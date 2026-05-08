@@ -12,13 +12,12 @@ authors:
 - Yu Sun
 - Sophie Jörg
 tags:
-- 'virtual reality'
-- 'technique'
-- 'body ownership'
-- 'virtual character'
-- 'virtual grasping'
-- 'virtual hand interaction'
-- 'visual feedback'
+- virtual reality
+- body ownership
+- virtual character
+- virtual grasping
+- virtual hand interaction
+- visual feedback
 categories: []
 date: '2019-09-01'
 lastmod: 2021-04-16T20:49:26+02:00

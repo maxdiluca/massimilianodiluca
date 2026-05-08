@@ -7,15 +7,15 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 tags:
-- '3d shape'
-- 'depth perception'
-- 'slant'
-- 'curvature'
-- 'shape from shading'
-- 'structure from motion'
-- 'texture'
-- 'multimodal'
-- 'psychophysics'
+- 3D shape
+- depth perception
+- slant
+- curvature
+- shape from shading
+- structure from motion
+- texture
+- multisensory perception
+- psychophysics
 categories: []
 date: '2006-01-01'
 lastmod: 2021-04-16T20:49:03+02:00
