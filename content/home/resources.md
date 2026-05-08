@@ -4,7 +4,7 @@ headless = true
 active = false
 weight = 55
 
-title = "Tools and Resources"
+title = "Portfolio"
 subtitle = ""
 
 [design]

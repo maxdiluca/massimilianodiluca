@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 13  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -20,9 +20,9 @@ subtitle = ""
   date_start = "2023-01-01"
   date_end = ""
   description = """
-  Leads an interdisciplinary research programme on multisensory perception, haptics, XR interaction, and computational modelling. Founder and coordinator of BhamXR and lead of the University of Birmingham VR Lab.
+  Leads an interdisciplinary research programme in multisensory perception, haptics, XR interaction, and computational modelling. Founder and coordinator of [BhamXR](https://www.birmingham.ac.uk/research/centres-institutes/bhamxr) and lead of the [University of Birmingham VR Lab](https://virtualrealitylab.netlify.app/).
 
-  Supervises postdoctoral researchers, PhD students, MSc students, and interdisciplinary project teams across Psychology, Computer Science, Engineering, and creative practice. Leads externally funded work with UKRI, European, and industry partners, including ARME/JAMS, XR text entry, tactile perception, and mixed-reality infrastructure.
+  PI/scientific lead on major externally funded programmes including [ARME](https://arme-project.co.uk/), Google-supported [XR text entry work](https://xrtexttrove.github.io/), and [EXPLORA](https://explora-network.github.io/web/index.html). Supervises PhD, postdoctoral, MSc, and interdisciplinary teams across Psychology, Computer Science, Engineering, creative practice, and industry-facing collaborations.
   """
 
 [[experience]]

@@ -21,8 +21,6 @@
       {{ $default_filter_tag = $default_filter_tag_raw }}
     {{ end }}
 
-    <span class="d-none default-project-filter">{{ $default_filter_tag }}</span>
-
     {{/* Only show filter buttons if there are multiple filters. */}}
     {{ if gt (len $st.Params.content.filter_button) 1 }}
     <div class="project-toolbar">

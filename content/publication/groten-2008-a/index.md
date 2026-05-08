@@ -28,8 +28,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Paper preview for the motion-primitives study.'
+  focal_point: 'Top'
   preview_only: false
 
 # Projects (optional).

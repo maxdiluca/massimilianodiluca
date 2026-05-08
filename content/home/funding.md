@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Current Funded Programmes"
-subtitle = "Selected programmes showing leadership, partnership, and translation."
+title = "Funded Programmes"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -39,16 +39,16 @@ description = """Role: PI / network role. Purpose and outcome: doctoral network 
 
 [[item]]
 
-running = true
-organization = "Arts and Humanities Research Council (AHRC)"
-organization_url = "https://www.ukri.org/councils/ahrc/"
+running = false
+organization = "Digital Catapult / CreaTech Frontiers"
+organization_url = "https://www.digicatapult.org.uk/programmes/programme/createch-frontiers/"
 logo = "accomplishments-logos/createch-frontiers.svg"
-title = "CreaTech Frontiers"
-url = "https://createchfrontiers.com/"
+title = "CreaTech Frontiers Growth Lab"
+url = "https://iuk-business-connect.org.uk/opportunities/createch-frontiers-growth-lab-west-midlands/"
 certificate_url = ""
-date_start = "2025-02-01"
-date_end = "2030-01-31"
-description = """Role: academic partner. Purpose and outcome: creative industries cluster connecting West Midlands businesses, cultural organisations, and academic researchers through collaborative R&D, business support, and skills development."""
+date_start = "2026-04-01"
+date_end = "2026-09-30"
+description = """Role: academic partner. Purpose and outcome: accelerator support for West Midlands creative technology businesses, helping participants progress from proof of concept toward growth goals through bespoke scaling support, access to finance, partnerships, and audiences in the creative industries."""
 
 
 [[item]]
@@ -76,7 +76,7 @@ url = ""
 certificate_url = ""
 date_start = "2025-04-10"
 date_end = "2025-06-11"
-description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for ARME/JAMS outputs."""
+description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for [ARME](https://arme-project.co.uk/) outputs."""
 
 
 
@@ -92,7 +92,7 @@ url = ""
 certificate_url = ""
 date_start = "2024-11-10"
 date_end = "2025-03-11"
-description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for ARME/JAMS outputs."""
+description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for [ARME](https://arme-project.co.uk/) outputs."""
 
 
 
@@ -114,7 +114,7 @@ description = """Role: PI. Purpose and outcome: open resource and analysis of XR
 [[item]]
 
 running = false
-organization = "EPSRC"
+organization = "EPSRC Impact Acceleration Account"
 organization_url = ""
 logo = "accomplishments-logos/ARME.png"
 title = "MUSic Ensemble eXhibition (MUSEX)"
@@ -122,13 +122,13 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2024-03-01"
 date_end = "2024-09-30"
-description = """Role: PI. Purpose and outcome: app, exhibition, and impact translation from ARME."""
+description = """Impact Acceleration Award. Role: PI. Purpose and outcome: app, exhibition, and impact translation from [ARME](https://arme-project.co.uk/)."""
 
 
 [[item]]
 
 running = false
-organization = "BBSRC"
+organization = "BBSRC Impact Acceleration Account"
 organization_url = ""
 logo = "accomplishments-logos/ARME.png"
 title = "Augmented MUSic Ensemble Rehearsal (AMUSER)"
@@ -136,7 +136,7 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2023-09-01"
 date_end = "2024-03-31"
-description = """Role: PI. Purpose and outcome: app, exhibition, and impact translation from ARME."""
+description = """Impact Acceleration Award. Role: PI. Purpose and outcome: app, exhibition, and impact translation from [ARME](https://arme-project.co.uk/)."""
 
 
 [[item]]

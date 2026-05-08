@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors: []
 tags:
-  - Demos
+  - Archive
 external_link: https://sidequestvr.com/app/1546/prendo
 image:
   filename:

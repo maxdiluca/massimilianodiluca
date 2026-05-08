@@ -31,10 +31,10 @@ publication_short: ''
 
 doi: 10.1007/s00221-025-07065-0
 
-abstract: ''
+abstract: "The one-third power law, relating velocity to curvature, is among the most established kinematic invariances in bodily movements. Despite being heralded among the kinematic laws of nature, there is no consensus on its origin, common reporting practice, or vetted analytical protocol. Many legacy elements of analytical protocols in the literature are suboptimal, such as noise amplification from repeated differentiation, biases arising from filtering, log transformation distortion, and injudicious linear regression, all of which undermine power law calculations. Recent findings of power law divergences in clinical populations have highlighted the need for improved protocols. This article reviews prior power law calculation protocols, identifies suboptimal practices, and proposes candidate solutions grounded in the kinematics literature. We evaluate these candidates via two simple criteria: they must avoid spurious confirmation of the law, and they must confirm the law when it is present. Ultimately, we synthesise candidate solutions into a vetted, modular protocol which we make freely available to the scientific community. The protocol's modularity accommodates future analytical advances and permits re-use in broader kinematic science applications. We propose that adoption of this protocol will eliminate artificial confirmation of the law and facilitate more sensitive quantification of recently noted power law divergences, which are associated with neurochemical disturbances arising from dopaminergic drugs, and in conditions such as Parkinson's and autism."
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'A review of how the velocity-curvature power law is calculated, identifying analytical pitfalls and proposing a vetted modular protocol for biological movement research.'
 
 tags:
 - biological motion
@@ -64,8 +64,8 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Velocity-curvature power law example from Fraser, Di Luca, and Cook (2025).'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
@@ -75,5 +75,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

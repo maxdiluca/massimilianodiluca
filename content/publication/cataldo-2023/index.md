@@ -23,7 +23,7 @@ publishDate: '2025-07-31T16:44:06.714942Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 3
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: '*iScience*'
@@ -31,10 +31,10 @@ publication_short: ''
 
 doi: 10.1016/j.isci.2023.106180
 
-abstract: ''
+abstract: "Self-touch plays a central role in the construction and plasticity of the bodily self. But which mechanisms support this role? Previous accounts emphasize the convergence of proprioceptive and tactile signals from the touching and the touched body parts. Here, we hypothesise that proprioceptive information is not necessary for self-touch modulation of body-ownership. Because eye movements do not rely on proprioceptive signals as limb movements do, we developed a novel oculomotor self-touch paradigm where voluntary eye movements generated corresponding tactile sensations. We then compared the effectiveness of eye versus hand self-touch movements in generating an illusion of owning a rubber hand. Voluntary oculomotor self-touch was as effective as hand-driven self-touch, suggesting that proprioception does not contribute to body ownership during self-touch. Self-touch may contribute to a unified sense of bodily self by binding voluntary actions toward our own body with their tactile consequences."
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'An oculomotor self-touch paradigm showing that voluntary eye movements coupled to tactile feedback can induce illusory body ownership.'
 
 tags:
 - body ownership
@@ -64,8 +64,8 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Graphical abstract from Cataldo, Di Luca, Deroy, and Hayward (2023).'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
@@ -75,5 +75,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

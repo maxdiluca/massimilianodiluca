@@ -41,7 +41,7 @@ doi: '10.1109/HRI53351.2022.9889473'
 abstract: 'A human handing over an object modulates their grasp and movements to accommodate their partner’s capabilities, which greatly increases the likelihood of a successful transfer. State-of-the-art robot behavior lacks this level of user understanding, resulting in interactions that force the human partner to shoulder the burden of adaptation. This paper investigates how visual occlusion of the object being passed affects the subjective perception and quantitative performance of the reaching of the human receiver. We performed an experiment in virtual reality where seventeen participants were tasked with repeatedly taking a tool from the hand of a robot; each of the three tested objects was presented in a wide variety of poses. Results show that initial visibility of the handle significantly increases reported holdability and immediate usability of a tool.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'A VR study showing that handle visibility improves perceived holdability and immediate usability during robot-to-human tool handovers.'
 
 tags:
 - robotics
@@ -71,8 +71,8 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Virtual-reality robot-to-human tool handover task.'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).

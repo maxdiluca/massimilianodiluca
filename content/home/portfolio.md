@@ -5,8 +5,8 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "Open Research Resources, Software, and Translational Outputs"
-subtitle = "Platforms, datasets, software, demonstrators, and infrastructure produced by the research programme."
+title = "Portfolio"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -26,12 +26,12 @@ subtitle = "Platforms, datasets, software, demonstrators, and infrastructure pro
     tag = "Flagship"
 
   [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
+    name = "Translation"
+    tag = "Translation"
 
   [[content.filter_button]]
-    name = "Demos"
-    tag = "Demos"
+    name = "Software"
+    tag = "Software"
 
   [[content.filter_button]]
     name = "Infrastructure"
@@ -83,24 +83,3 @@ subtitle = "Platforms, datasets, software, demonstrators, and infrastructure pro
  # CSS class.
  css_class = ""
 +++
-
-### Flagship open resources
-
-These resources are intended for use beyond the lab: they support comparison, reuse, teaching, replication, and new research.
-
-- **XR Text Trove**: an open catalogue and analysis of XR text entry techniques, connected to the CHI 2025 TEXT paper and Google-supported work.
-- **Locomotion Vault**: a public resource for analysing and comparing VR locomotion techniques.
-- **ARME / JAMS resources**: research platforms for augmented and virtual music ensemble rehearsal, connected to MyJAMS and spin-out activity.
-- **Virtuoso Strings dataset**: open string ensemble recordings and onset annotations for timing analysis and music information retrieval, published through GitHub and listed on the University of Birmingham research portal.
-
-### Software and reproducible methods
-
-These tools support reproducible measurement and analysis in perception science, haptics, and XR.
-
-### Demonstrators and public engagement
-
-These demonstrations translate perceptual science into interactive systems for public engagement, teaching, industry discussion, and technology evaluation.
-
-### Research infrastructure and lab resources
-
-These platforms support collaboration, shared facilities, research training, and translational pathways across the University and external partners.

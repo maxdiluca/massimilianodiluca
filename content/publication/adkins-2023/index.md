@@ -27,7 +27,7 @@ publishDate: '2025-07-31T16:44:06.711335Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 3
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: '*ACM Transactions on Graphics*'
@@ -35,10 +35,10 @@ publication_short: ''
 
 doi: 10.1145/3578575
 
-abstract: ''
+abstract: 'Detailed hand motions play an important role in face-to-face communication to emphasize points, describe objects, clarify concepts, or replace words altogether. While shared virtual reality (VR) spaces are becoming more popular, these spaces do not, in most cases, capture and display accurate hand motions. In this paper, we investigate the consequences of such errors in hand and finger motions on comprehension, character perception, social presence, and user comfort. We conduct three perceptual experiments where participants guess words and movie titles based on motion captured movements. We introduce errors and alterations to the hand movements and apply techniques to synthesize or correct hand motions. We collect data from more than 1000 Amazon Mechanical Turk participants in two large experiments, and conduct a third experiment in VR. As results might differ depending on the virtual character used, we investigate all effects on two virtual characters of different levels of realism. We furthermore investigate the effects of clip length in our experiments. Amongst other results, we show that the absence of finger motion significantly reduces comprehension and negatively affects people’s perception of a virtual character and their social presence. Adding some hand motions, even random ones, attenuates some of these effects when it comes to the perception of the virtual character or social presence, but it does not necessarily improve comprehension. Slightly inaccurate or erroneous hand motions are sufficient to achieve the same level of comprehension as with accurate hand motions, though they might still affect viewers’ impression of a character. Finally, jittering hand motions should be avoided because it significantly decreases user comfort.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'A set of perceptual experiments testing how changes to virtual-character hand and finger motions affect comprehension, character perception, social presence, and comfort.'
 
 tags:
 - virtual character
@@ -55,10 +55,10 @@ url_pdf: 'https://research.birmingham.ac.uk/files/183996315/Importance_of_Hand_M
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://people.computing.clemson.edu/~sjoerg/communication.html'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://people.computing.clemson.edu/~sjoerg/communication/Adkins23_CommunicationVideo.mp4'
 
 # Custom links (uncomment lines below)
 # links:
@@ -68,8 +68,8 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Virtual-character hand-motion conditions used in the charades experiments.'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
@@ -79,5 +79,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

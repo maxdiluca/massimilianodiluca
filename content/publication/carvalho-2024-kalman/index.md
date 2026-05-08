@@ -29,7 +29,7 @@ tags:
 - synchronisation
 - computational modeling
 
-featured: true
+featured: false
 
 url_pdf: 'https://research.birmingham.ac.uk/files/262249198/CarvalhoHT2024Kalman.pdf'
 url_code: ''

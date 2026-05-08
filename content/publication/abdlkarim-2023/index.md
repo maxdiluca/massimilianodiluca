@@ -28,7 +28,7 @@ publishDate: '2025-07-31T16:44:06.707443Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 3
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: '*Behavior Research Methods*'
@@ -36,10 +36,10 @@ publication_short: ''
 
 doi: 10.3758/s13428-022-02051-8
 
-abstract: ''
+abstract: 'Optical markerless hand-tracking systems incorporated into virtual reality (VR) headsets are transforming the ability to assess fine motor skills in VR. This promises to have far-reaching implications for the increased applicability of VR across scientific, industrial, and clinical settings. However, so far, there are little data regarding the accuracy, delay, and overall performance of these types of hand-tracking systems. Here we present a novel methodological framework based on a fixed grid of targets, which can be easily applied to measure these systems’ absolute positional error and delay. We also demonstrate a method to assess finger joint-angle accuracy. We used this framework to evaluate the Meta Quest 2 hand-tracking system. Our results showed an average fingertip positional error of 1.1 cm, an average finger joint angle error of 9.6 degrees, and an average temporal delay of 45.0 ms. This methodological framework provides a powerful tool to ensure the reliability and validity of data originating from VR-based, markerless hand-tracking systems.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'A fixed-grid framework for measuring positional error, joint-angle accuracy, and temporal delay in VR markerless hand tracking, demonstrated with Meta Quest 2.'
 
 tags:
 - virtual reality
@@ -69,8 +69,8 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Meta Quest 2 hand-tracking pipeline.'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
@@ -80,5 +80,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

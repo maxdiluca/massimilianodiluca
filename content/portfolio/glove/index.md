@@ -7,7 +7,7 @@ draft: false
 featured: true
 authors: []
 tags:
-  - Demos
+  - Archive
 external_link: https://youtu.be/EcDVkhLAwC0
 image:
   filename:

@@ -25,8 +25,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Schematic of velocity and stereo-disparity information.'
+  focal_point: 'Center'
   preview_only: false
 
 # Projects (optional).
