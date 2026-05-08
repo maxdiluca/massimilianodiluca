@@ -261,19 +261,20 @@ $light-grey: #E3E3E5;
 
 
 //custom css for awards
-#accomplishments {
+#funding,
+#awards {
   .card.experience.course {
     border: 0;
     box-shadow: none;
   }
 
   .accomplishments-image img {
-    width: 4.2rem;
-    height: 4.2rem;
-    max-width: 4.2rem;
+    width: 2rem;
+    height: 2rem;
+    max-width: 3rem;
     object-fit: contain;
     float: left;
-    padding: 0.25rem 0.7rem 0.25rem 0;
+    padding: 0.15rem 0.65rem 0.15rem 0;
     border: 0;
     outline: 0;
     box-shadow: none;
@@ -314,4 +315,13 @@ $light-grey: #E3E3E5;
     }
   }
 }
+}
+
+#awards {
+  .accomplishments-image img {
+    width: 2.2rem;
+    height: 2.2rem;
+    max-width: 2.2rem;
+    padding: 0.1rem 0.55rem 0.1rem 0;
+  }
 }
