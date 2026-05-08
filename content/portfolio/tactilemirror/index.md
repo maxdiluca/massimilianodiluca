@@ -6,6 +6,8 @@ summary: ""
 draft: false
 featured: false
 authors: []
+tags:
+  - Tools
 external_link: https://github.com/WHC2021SIC/WHC2021SIC-TeamTactileMirror.git
 image:
   filename:

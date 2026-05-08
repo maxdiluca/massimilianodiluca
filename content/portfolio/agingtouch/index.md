@@ -6,6 +6,8 @@ summary: "Research resource on tactile perception, ageing, and surface texture p
 draft: false
 featured: true
 authors: []
+tags:
+  - Resources
 external_link: https://aging-touch.netlify.app
 image:
   filename:

@@ -6,6 +6,8 @@ summary: "Proxy-hand-based robot grasp generation software for studying and demo
 draft: false
 featured: true
 authors: []
+tags:
+  - Tools
 external_link: https://prendosim.github.io
 image:
   filename:

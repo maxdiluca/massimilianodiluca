@@ -6,6 +6,8 @@ summary: ""
 draft: false
 featured: false
 authors: []
+tags:
+  - Tools
 external_link: https://massimilianodiluca.info/pages/code_delay/
 image:
   filename:

@@ -6,6 +6,8 @@ summary: "Project website for Augmented Reality Music Ensemble research."
 draft: false
 featured: true
 authors: []
+tags:
+  - Demos
 external_link: https://arme-project.co.uk
 image:
   filename:

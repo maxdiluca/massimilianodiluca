@@ -6,6 +6,8 @@ summary: "A public resource for analysing and comparing virtual reality locomoti
 draft: false
 featured: true
 authors: []
+tags:
+  - Resources
 external_link: https://locomotionvault.github.io
 image:
   filename:

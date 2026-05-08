@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-active = true
+active = false
 weight = 55
 
 title = "Tools and Resources"
@@ -27,4 +27,3 @@ Selected public resources from the lab:
 - [PrendoSim](https://prendosim.github.io/) provides a proxy-hand-based robot grasp generator.
 - [Aging Touch](https://aging-touch.netlify.app/) shares work on tactile perception and ageing.
 - [University of Birmingham VR Lab](https://virtualrealitylab.netlify.app/) showcases facilities and research activities.
-

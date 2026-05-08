@@ -6,6 +6,8 @@ summary: "Facilities, projects, and activities from the University of Birmingham
 draft: false
 featured: true
 authors: []
+tags:
+  - Resources
 external_link: https://virtualrealitylab.netlify.app
 image:
   filename:
