@@ -6,7 +6,7 @@ title: Massimiliano Di Luca
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor of Virtual Reality and Human Perception
+role: Associate Professor in Psychology and Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.birmingham.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor of Virtual Reality and Human Perception at the University of Birmingham, leading research on XR, haptics, multisensory perception, and computational models of interaction.
+bio: Associate Professor in Psychology and Computer Science at the University of Birmingham, leading research on XR, haptics, multisensory perception, and computational models of interaction.
 
 # Interests to show in About widget
 interests:
@@ -94,7 +94,7 @@ email: ""
 highlight_name: true
 ---
 
-Massimiliano Di Luca is Associate Professor of Virtual Reality and Human Perception at the University of Birmingham. His research programme combines multisensory perception, haptics, computational modelling, and XR technologies to understand human interaction with dynamic environments and to design perceptually grounded immersive systems. He leads interdisciplinary research, infrastructure, software, datasets, and translational activity across Psychology, Computer Science, BhamXR, the University of Birmingham VR Lab, and industry-facing projects including ARME/JAMS and MyJAMS.
+Massimiliano Di Luca is Associate Professor in Psychology and Computer Science at the University of Birmingham. His research programme combines multisensory perception, haptics, computational modelling, and XR technologies to understand human interaction with dynamic environments and to design perceptually grounded immersive systems. He leads interdisciplinary research, infrastructure, software, datasets, and translational activity across Psychology, Computer Science, BhamXR, the University of Birmingham VR Lab, and industry-facing projects including ARME/JAMS and MyJAMS.
 
 His work has produced funded research programmes, open research resources, software, public datasets, industry collaborations, spin-out activity, and interdisciplinary infrastructure for XR, haptics, and multisensory perception.
 
