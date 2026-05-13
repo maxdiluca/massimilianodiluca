@@ -164,7 +164,7 @@ url = ""
 certificate_url = ""
 date_start = "2021-04-01"
 date_end = "2022-04-01"
-description = "Equipment donation, PI with Alan Wing"
+description = "Equipment donation. Role: PI."
 
 [[item]]
 running = false
@@ -176,7 +176,7 @@ url = ""
 certificate_url = ""
 date_start = "2021-03-01"
 date_end = "2022-02-14"
-description = "PI with Alan Wing"
+description = "Role: PI."
 
 
 
@@ -204,7 +204,7 @@ url = "https://aging-touch.netlify.app"
 certificate_url = "https://gtr.ukri.org/projects?ref=BB%2FR003971%2F1"
 date_start = "2018-01-01"
 date_end = "2021-08-31"
-description = "Co-PI with Alan Wing, Harriet Allen, and Roberta Roberts. In collaboration with P&G"
+description = "Role: Co-PI. In collaboration with P&G."
 
 
 
@@ -218,7 +218,7 @@ url = ""
 certificate_url = ""
 date_start = "2017-03-01"
 date_end = "2017-10-30"
-description = "SRA, co-PI with Alan Wing"
+description = "SRA. Role: co-PI."
 
 
 
@@ -232,7 +232,7 @@ url = ""
 certificate_url = ""
 date_start = "2015-03-01"
 date_end = "2016-02-28"
-description = "SRA, co-PI with Alan Wing"
+description = "SRA. Role: co-PI."
 
 
 
@@ -246,7 +246,7 @@ url = ""
 certificate_url = ""
 date_start = "2014-09-01"
 date_end = "2015-08-31"
-description = "SRA, co-PI with Alan Wing"
+description = "SRA. Role: co-PI."
 
 
 [[item]]
