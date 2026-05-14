@@ -19,9 +19,6 @@ main:
   - name: Publications
     url: '#tags'
     weight: 50
-  - name: Media
-    url: '#media'
-    weight: 55
   - name: Portfolio
     url: '#portfolio'
     weight: 60
