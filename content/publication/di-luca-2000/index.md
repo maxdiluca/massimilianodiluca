@@ -36,4 +36,5 @@ publication_types:
 - '7'
 abstract: ''
 publication: ''
+url_pdf: /publication/di-luca-2000/Di-Luca-2000.pdf
 ---

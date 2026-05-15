@@ -80,3 +80,4 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
+{{< paper_badges "10.3758/s13428-022-02051-8" >}}

@@ -45,7 +45,7 @@ description = """"""
 
 [[item]]
 
-running = true
+running = false
 organization = """The Alan Turing Institute"""
 organization_url = "https://www.turing.ac.uk"
 logo = "accomplishments-logos/TATI.png"
@@ -58,14 +58,14 @@ description = """"""
 
 [[item]]
 
-running = true
-organization = """UBIAS                               """
-organization_url = "http://www.ubias.net/about-the-institute"
+running = false
+organization = """UBIAS"""
+organization_url = "https://www.ubias.net/about-the-institute"
 logo = "accomplishments-logos/ICA.png"
-title = """Fellow of the InterContinental Academia                       """
-url = "http://intercontinental-academia.ubias.net"
+title = """Fellow of the InterContinental Academia"""
+url = "https://intercontinental-academia.ubias.net"
 date_start = "2021-09-01"
 date_end = "2023-08-31"
-description = """Intelligence and artificial intelligence                """
+description = """Intelligence and artificial intelligence"""
 
 +++

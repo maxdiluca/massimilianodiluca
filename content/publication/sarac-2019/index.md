@@ -50,5 +50,7 @@ abstract: As an alternative to thimble devices for the fingertips, we investigat
   performance or participant preferences with regard to stimulus on the dorsal, ventral,
   or both sides of the forearm.
 publication: '*arXiv*'
-url_project: http://arxiv.org/abs/1911.02104
+url_pdf: https://arxiv.org/pdf/1911.02104
+url_project: https://research.birmingham.ac.uk/en/publications/effects-of-haptic-feedback-on-the-wrist-during-virtual-manipulati/
+url_source: https://arxiv.org/abs/1911.02104
 ---

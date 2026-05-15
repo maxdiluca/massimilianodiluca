@@ -41,4 +41,6 @@ publication_types:
 - '2'
 abstract: This work addresses the problem of planning the reach-to-grasp trajectory for a robotic arm and hand, when there is uncertainty in the pose of the object being grasped. If the object is not in its expected location, then the robot may still gain additional information about the object pose by making tactile or haptic observations if a finger or other part of the hand collides with part of the object during the reach-to-grasp operation. Therefore, it is desirable to plan the reach-to-grasp trajectory in such a way that it takes into account and exploits knowledge about the size and shape of the pose distribution associated with the target pose uncertainty. Here we propose a reach-to-grasp trajectory planning algorithm which addresses this exploration-action problem by trading off a smoothness constraint against likelihood of making haptic observations.
 publication: '*Workshop on Beyond Robotic Grasping (IROS)*'
+url_pdf: /publication/zito-2012/Zito-2012.pdf
+url_project: https://research.birmingham.ac.uk/en/publications/exploratory-reach-to-grasp-trajectories-for-uncertain-object-pose
 ---

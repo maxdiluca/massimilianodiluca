@@ -7,6 +7,8 @@ superuser: true
 
 # Role/position/tagline
 role: Associate Professor in Psychology and Computer Science
+user_groups:
+- Principal Investigators
 
 # Organizations/Affiliations to show in About widget
 organizations:

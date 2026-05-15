@@ -38,4 +38,8 @@ publication_types:
 - '6'
 abstract: ''
 publication: '*Multisensory softness*'
+doi: 10.1007/978-1-4471-6533-0_5
+url_project: https://link.springer.com/chapter/10.1007/978-1-4471-6533-0_5
 ---
+
+{{< paper_badges "10.1007/978-1-4471-6533-0_5" >}}

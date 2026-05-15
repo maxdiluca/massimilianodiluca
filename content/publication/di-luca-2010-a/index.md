@@ -47,7 +47,7 @@ abstract: Internal consistency of local depth, slant, and curvature judgments wa
   predicted by the Intrinsic Constraint (IC) model according to which the perceptual
   metric local estimates are a monotonically increasing function of the Signal-to-Noise
   Ratio of the optimal combination of direct information of 3D shape (Domini, Caudek,
-  & Tassinari, 2006). ?? 2010 Elsevier Ltd.
+  & Tassinari, 2006). © 2010 Elsevier Ltd.
 publication: '*Vision Research*'
 
 doi: 10.1016/j.visres.2010.05.006
