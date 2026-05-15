@@ -13,3 +13,26 @@
 
 
 </center>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('[data-comparison-slider]').forEach(function (slider) {
+    var range = slider.querySelector('.comparison-slider__range');
+    var overlay = slider.querySelector('.comparison-slider__overlay');
+    var handle = slider.querySelector('.comparison-slider__handle');
+
+    if (!range || !overlay || !handle) {
+      return;
+    }
+
+    function updateSlider() {
+      var value = range.value;
+      overlay.style.clipPath = 'inset(0 ' + (100 - value) + '% 0 0)';
+      handle.style.left = value + '%';
+    }
+
+    range.addEventListener('input', updateSlider);
+    updateSlider();
+  });
+});
+</script>

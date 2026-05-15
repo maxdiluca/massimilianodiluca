@@ -7,6 +7,7 @@ draft: false
 featured: true
 authors: []
 tags:
+  - Flagship
   - Infrastructure
 external_link: https://www.birmingham.ac.uk/research/centres-institutes/bhamxr
 image:
