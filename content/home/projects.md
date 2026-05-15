@@ -85,9 +85,4 @@ The programme combines psychophysics, signal processing, computational modelling
 
 The aim is both scientific and translational: to explain how multisensory information is combined during action, and to turn those findings into measurement methods, XR interaction techniques, haptic systems, software, datasets, public resources, and industry-facing tools.
 
-<br>
-Find here a 60 second research pitch: <a href="https://www.youtube.com/watch?v=SZ5_4HnPUso">YouTube<a/>
-<br>
-<br>
-<br>
-<br>
+Watch a 60-second research pitch on [YouTube](https://www.youtube.com/watch?v=SZ5_4HnPUso).

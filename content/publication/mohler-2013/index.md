@@ -40,4 +40,8 @@ publication_types:
 - '6'
 abstract: 'This chapter discusses the sensory systems that have been shown to contribute to spatial perception – vestibular, body-based, audition, and vision. We then present how spatial information is typically multisensory and estimates are integrated within and between sensory systems. Specifically, we cover how integration is modeled in terms of probabilistic inference by analyzing several topics: fusion and segregation, strategies for sensory integration, the outcome of integration, the role of prior knowledge, and how integration leads to recalibration. Finally, we discuss two topics in high-level perception that have an intrinsic multisensory nature, selforientation perception and object recognition.'
 publication: '*Handbook of Spatial Cognition*'
+doi: 10.1037/13936-005
+url_project: https://research.birmingham.ac.uk/en/publications/multisensory-contributions-to-spatial-perception/
 ---
+
+{{< paper_badges "10.1037/13936-005" >}}

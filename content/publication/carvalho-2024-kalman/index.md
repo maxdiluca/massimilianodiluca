@@ -51,3 +51,4 @@ image:
 
 projects: []
 ---
+{{< paper_badges "10.5281/zenodo.14877411" >}}

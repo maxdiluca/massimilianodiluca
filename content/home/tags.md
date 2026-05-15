@@ -20,6 +20,3 @@ subtitle = "Keywords"
   font_size_min = 0.4
   font_size_max = 2.0
 +++
-
-
-[SEE ALL PUBLICATIONS >]({{< ref "/publication/_index.md" >}})

@@ -341,3 +341,19 @@ $light-grey: #E3E3E5;
     max-width: 25%;
   }
 }
+
+.people-badges {
+  margin-top: 0.35rem;
+}
+
+.people-badge {
+  display: inline-block;
+  padding: 0.18rem 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 999px;
+  background: #fff;
+  color: #111;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.2;
+}

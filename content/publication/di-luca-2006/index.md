@@ -43,6 +43,7 @@ abstract: 'The world appears three-dimensional (3D) even though the depth dimens
 I asked participants to make judgments about monocularly viewed computer-generated convex shapes. Participants compared two of these shapes in terms of the magnitude of one 3D property: depth, curvature, or orientation at a given point. One surface was kept constant while the shape of the other was either varied between trials or it was dynamically modified by the participants.
 Results indicated that even when shapes defined by either motion, texture, or shading were perceived as having the same curvature, they were not necessarily perceived as having the same depth or orientation at specified points. Three-Dimensional shapes reconstructed from the judgment of different shape properties were significantly different from one another. Since cues carry different information about these 3D properties, I conclude that they must be represented independently. Since properties estimated in single-cue stimuli are predictive of the same property in cue-combined stimuli, cue combination must be independent for each property. I propose a new approach to cue combination that accounts for all of the observed differences.'
 publication: ''
-url_project: http://gradworks.umi.com/32/27/3227820.html https://gradworks.umi.com/dxweb/results.html?QryTxt=3227820&By=&Title=&pubnum=3227820
+url_pdf: /publication/di-luca-2006/Di-Luca-2006.pdf
+url_project: http://gradworks.umi.com/32/27/3227820.html
 ---
 {{<video src="featured.mp4">}}

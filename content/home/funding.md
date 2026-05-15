@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 [[item]]
 
 running = true
-organization = "MSCA doctoral network funded by the HORIZON 2020 framework"
+organization = "MSCA Doctoral Network funded by Horizon Europe"
 organization_url = "https://marie-sklodowska-curie-actions.ec.europa.eu/"
 logo = "accomplishments-logos/explora.jpeg"
 title = "EXPLORA"
@@ -164,11 +164,11 @@ url = ""
 certificate_url = ""
 date_start = "2021-04-01"
 date_end = "2022-04-01"
-description = "Equipment donation, PI with Alan Wing"
+description = "Equipment donation. Role: PI."
 
 [[item]]
 running = false
-organization = "Experimental Psychology Society "
+organization = "Experimental Psychology Society"
 logo = "accomplishments-logos/lazysusan.jpg"
 organization_url = "https://eps.ac.uk"
 title = "Lazy Susan: shipping robotic stimuli for sensory research at a distance"
@@ -176,7 +176,7 @@ url = ""
 certificate_url = ""
 date_start = "2021-03-01"
 date_end = "2022-02-14"
-description = "PI with Alan Wing"
+description = "Role: PI."
 
 
 
@@ -204,7 +204,7 @@ url = "https://aging-touch.netlify.app"
 certificate_url = "https://gtr.ukri.org/projects?ref=BB%2FR003971%2F1"
 date_start = "2018-01-01"
 date_end = "2021-08-31"
-description = "Co-PI with Alan Wing, Harriet Allen, and Roberta Roberts. In collaboration with P&G"
+description = "Role: Co-PI. In collaboration with P&G."
 
 
 
@@ -218,7 +218,7 @@ url = ""
 certificate_url = ""
 date_start = "2017-03-01"
 date_end = "2017-10-30"
-description = "SRA, co-PI with Alan Wing"
+description = "Industry-supported research agreement. Role: co-PI."
 
 
 
@@ -232,7 +232,7 @@ url = ""
 certificate_url = ""
 date_start = "2015-03-01"
 date_end = "2016-02-28"
-description = "SRA, co-PI with Alan Wing"
+description = "Industry-supported research agreement. Role: co-PI."
 
 
 
@@ -246,7 +246,7 @@ url = ""
 certificate_url = ""
 date_start = "2014-09-01"
 date_end = "2015-08-31"
-description = "SRA, co-PI with Alan Wing"
+description = "Industry-supported research agreement. Role: co-PI."
 
 
 [[item]]
@@ -259,7 +259,7 @@ url = ""
 certificate_url = ""
 date_start = "2015-06-01"
 date_end = "2015-11-30"
-description = "SRA, PI"
+description = "Industry-supported research agreement. Role: PI."
 
 [[item]]
 running = false
@@ -271,7 +271,7 @@ url = ""
 certificate_url = ""
 date_start = "2014-03-01"
 date_end = "2014-07-31"
-description = "SRA, PI"
+description = "Industry-supported research agreement. Role: PI."
 
 
 [[item]]
@@ -290,7 +290,7 @@ description = "Career Integration Grant, PI"
 
 [[item]]
 running = false
-organization = "Royal society"
+organization = "Royal Society"
 organization_url = ""
 logo = "accomplishments-logos/delta.png"
 title = "Haptic perception of softness"

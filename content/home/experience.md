@@ -45,8 +45,9 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2017-07-01"
   date_end = "2019-09-01"
-  description = ""
-  #"Leading perception research and interdisciplinary teams."
+  description = """
+  Conducted perception research on haptics, interaction, and latency in virtual and augmented reality, working within interdisciplinary teams developing future XR technologies.
+  """
 
 
 
@@ -58,10 +59,9 @@ subtitle = ""
   location = "Redmond, WA"
   date_start = "2015-07-01"
   date_end = "2016-12-18"
-  description = ""
-#  Responsibilities included:
-#* Building pipeline for user research
-#* Performing perception research
+  description = """
+  Conducted perception and user research for Oculus, contributing experimental methods and evidence for haptic and XR interaction design.
+  """
 
 [[experience]]
   title = "Lecturer"
@@ -72,30 +72,20 @@ subtitle = ""
   date_start = "2011-08-01"
   date_end = "2017-06-30"
   description = """
- Responsibilities included:
-
-  * Built a research programme in human perception, haptics, multisensory timing, and virtual reality
-  * Mentored PhD, MSc, and BSc students in psychology
-  * Taught MSc modules including Mind, Brain and Models and CNCR foundations
-  * Led the Computational Neuroscience and Cognitive Robotics MSc course
-  * Developed business engagement, ethics review, and research communication activity
-"""
+  Built a research programme in human perception, haptics, multisensory timing, and virtual reality. Mentored PhD, MSc, and BSc students in psychology, taught MSc modules including Mind, Brain and Models and CNCR foundations, led the Computational Neuroscience and Cognitive Robotics MSc course, and developed business engagement, ethics review, and research communication activity.
+  """
 
 
 [[experience]]
-  title = " Scientist"
-  company = "Max Planck Institute for Biological Cybernetics "
+  title = "Research Scientist"
+  company = "Max Planck Institute for Biological Cybernetics"
   logo = "experience-logos/mpi.png"
   company_url = "https://pure.mpg.de/cone/persons/resource/persons83885"
   location = "Tübingen"
   date_start = "2006-08-01"
   date_end = "2011-07-31"
   description = """
- Responsibilities included:
-
-* Conducted research on haptics, AR/VR, multisensory perception, temporal perception, and computational modelling in the groups of Marc Ernst and Heinrich Bülthoff
-* Mentoring PhD, MSc, and BSc students in psychology
-* Coordinating the work on European grants
-"""
+  Conducted research on haptics, AR/VR, multisensory perception, temporal perception, and computational modelling in the groups of Marc Ernst and Heinrich Bülthoff. Mentored PhD, MSc, and BSc students in psychology and coordinated work on European grants.
+  """
 
 +++
