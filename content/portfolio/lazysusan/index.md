@@ -8,7 +8,12 @@ featured: false
 authors: []
 tags:
   - Archive
-external_link: https://youtu.be/Hrc2zLRdNaU
+external_link: https://github.com/maxdiluca/LazySusan
+links:
+  - name: GitHub
+    url: https://github.com/maxdiluca/LazySusan
+  - name: Video
+    url: https://youtu.be/Hrc2zLRdNaU
 image:
   filename:
   focal_point: Smart
