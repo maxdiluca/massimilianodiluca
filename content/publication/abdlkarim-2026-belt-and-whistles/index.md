@@ -44,9 +44,11 @@ url_video: ''
 links:
 - name: CHI 2026
   url: https://chi2026.acm.org/
+- name: VR Lab blog
+  url: https://virtualrealitylab.netlify.app/blog/belt-and-whistles/
 
 image:
-  caption: 'Concept thumbnail based on the paper topic: lower-body haptic collision awareness in mixed reality.'
+  caption: 'Belt and Whistles: lower-body haptic collision awareness in mixed reality.'
   focal_point: 'Center'
   preview_only: false
 

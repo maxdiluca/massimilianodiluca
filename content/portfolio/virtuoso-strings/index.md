@@ -6,7 +6,7 @@ summary: "Open string ensemble recordings, scores, and onset annotations for tim
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://github.com/arme-project/virtuoso-strings
 image:

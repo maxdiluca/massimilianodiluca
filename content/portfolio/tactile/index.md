@@ -6,7 +6,7 @@ summary: "Mobile tactile perception experiment translating multisensory texture 
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://apps.apple.com/au/app/tactile/id1506325116
 image:

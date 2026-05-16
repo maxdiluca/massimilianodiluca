@@ -6,7 +6,7 @@ summary: "University of Birmingham interdisciplinary network for extended realit
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Flagship
   - Infrastructure
 external_link: https://www.birmingham.ac.uk/research/centres-institutes/bhamxr

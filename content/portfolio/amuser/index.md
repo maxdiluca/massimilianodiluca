@@ -6,7 +6,7 @@ summary: "Augmented MUSic Ensemble Rehearsal translation work, developing app an
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Translation
 external_link: https://arme-project.co.uk
 image:

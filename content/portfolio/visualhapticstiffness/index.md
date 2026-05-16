@@ -6,7 +6,7 @@ summary: "Archived demonstration of virtual stiffness and visual-haptic interact
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://youtu.be/1es2a9LZDI4
 image:

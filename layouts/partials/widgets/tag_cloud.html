@@ -1,0 +1,64 @@
+{{/* Tag Cloud widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $st := .page }}
+{{ $taxonomy := $st.Params.content.taxonomy | default "tags" }}
+{{ $fontSmall := $st.Params.design.font_size_min | default 0.8 }}
+{{ $fontBig := $st.Params.design.font_size_max | default 2.5 }}
+
+{{ $items_count := $st.Params.content.count }}
+{{ if eq $items_count 0 }}
+  {{ $items_count = 65535 }}
+{{ else }}
+  {{ $items_count = $items_count | default 20 }}
+{{ end }}
+
+{{/* Query */}}
+{{ $tags := first $items_count (index site.Taxonomies $taxonomy).ByCount }}
+{{ $count := len $tags }}
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $st.Content }}{{ . }}{{ end }}
+
+    {{ if ne $count 0 }}
+
+      {{ $fontDelta := sub $fontBig $fontSmall }}
+      {{/* Hugo's Reverse function appears to operate in-place, hence the order of performing $max/$min matters. */}}
+      {{ $max := add (len (index $tags 0).Pages) 1 }}
+      {{ $min := len (index ($tags).Reverse 0).Pages }}
+      {{ $logMin := math.Log $min }}
+      {{ $logMax := math.Log $max }}
+      {{ $logDelta := sub $logMax $logMin }}
+
+      <div class="tag-cloud tag-cloud--designed" aria-label="{{ $taxonomy | humanize }} cloud">
+        {{ range $index, $term := (sort $tags ".Page.Title" "asc") }}
+          {{ $tagCount := len $term.Pages }}
+          {{ $weight := 0.5 }}
+          {{ if gt $logDelta 0 }}
+            {{ $weight = div (sub (math.Log $tagCount) $logMin) $logDelta }}
+          {{ end }}
+          {{ $fontSize := add $fontSmall (mul $fontDelta $weight) }}
+          {{ $palette := add (mod $index 6) 1 }}
+          {{ $tilt := add (mod $index 5) 1 }}
+          <a
+            class="tag-cloud__link tag-cloud__link--palette-{{ $palette }} tag-cloud__link--tilt-{{ $tilt }}"
+            href="{{ .Page.RelPermalink }}"
+            style="--tag-size: {{ printf "%.3f" $fontSize }}rem; --tag-weight: {{ printf "%.3f" $weight }}; --tag-delay: {{ mul $index 18 }}ms;"
+            title="{{ .Page.Title }} ({{ $tagCount }} {{ cond (eq $tagCount 1) "tagged page" "tagged pages" }})"
+            aria-label="{{ .Page.Title }}: {{ $tagCount }} {{ cond (eq $tagCount 1) "tagged page" "tagged pages" }}"
+          >
+            <span class="tag-cloud__word">{{ .Page.Title }}</span>
+            <span class="tag-cloud__count" aria-hidden="true">{{ $tagCount }}</span>
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  </div>
+</div>

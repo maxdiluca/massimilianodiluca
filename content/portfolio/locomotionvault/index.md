@@ -6,7 +6,7 @@ summary: "Public resource for analysing, comparing, and standardising VR locomot
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Flagship
 external_link: https://locomotionvault.github.io
 image:

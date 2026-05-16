@@ -6,7 +6,7 @@ summary: "Archived demo exploring perceived viscosity through combined ultrasoun
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://youtu.be/0X-KjAs8gqg
 image:

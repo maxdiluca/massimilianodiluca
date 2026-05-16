@@ -6,7 +6,7 @@ summary: "Augmented reality heritage experience bringing Kenilworth's history to
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Software
 links:
   - name: Kenilworth Revealed

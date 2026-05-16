@@ -6,7 +6,7 @@ summary: "Facilities, projects, people, and activities from the University of Bi
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Infrastructure
 external_link: https://virtualrealitylab.netlify.app
 image:

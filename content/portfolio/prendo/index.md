@@ -6,7 +6,7 @@ summary: "VR grasping demonstrator used to explore hand interaction, object tran
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://sidequestvr.com/app/1546/prendo
 image:

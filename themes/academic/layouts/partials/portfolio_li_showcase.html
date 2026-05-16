@@ -26,7 +26,8 @@
   {{ $order = "order-md-2" }}
 {{ end }}
 
-{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+{{ $portfolio_tags := $item.Params.portfolio_tags | default $item.Params.tags | default (slice) }}
+{{ $js_tag_classes := delimit (apply (apply $portfolio_tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
 
 <div class="col-lg-12 project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
   <div class="row align-items-center">

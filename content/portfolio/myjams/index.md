@@ -6,7 +6,7 @@ summary: "Spin-out pathway for [ARME](https://arme-project.co.uk/) outputs, tran
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Translation
 external_link: https://myjamsltd.netlify.app
 image:

@@ -47,8 +47,13 @@
 
     {{ $query := "" }}
     {{ $archive_page := site.GetPage "Section" $items_type }}
+    {{ $filter_param := "Params.tags" }}
+    {{ if eq $items_type "portfolio" }}
+      {{ $filter_param = "Params.portfolio_tags" }}
+    {{ end }}
+
     {{ if $st.Params.content.filters.tags }}
-      {{ $query = where site.Pages "Params.tags" "intersect" $st.Params.content.filters.tags }}
+      {{ $query = where site.Pages $filter_param "intersect" $st.Params.content.filters.tags }}
     {{ else }}
       {{ $query = where site.RegularPages "Type" $items_type }}
     {{ end }}

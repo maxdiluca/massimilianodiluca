@@ -6,7 +6,7 @@ summary: "Interactive haptic demonstration translating perceptual research into 
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://youtu.be/EcDVkhLAwC0
 image:

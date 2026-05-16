@@ -6,7 +6,7 @@ summary: "Research platform and public resources for augmented and virtual music
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Flagship
 external_link: https://arme-project.co.uk
 image:

@@ -6,7 +6,7 @@ summary: "Public research resource on tactile perception, ageing, and surface te
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Infrastructure
 external_link: https://aging-touch.netlify.app
 image:

@@ -6,7 +6,7 @@ summary: "Software supporting reproducible measurement of end-to-end latency in 
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Software
 external_link: https://massimilianodiluca.info/pages/code_delay/
 image:

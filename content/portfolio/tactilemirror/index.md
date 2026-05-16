@@ -6,7 +6,7 @@ summary: "Code for a wearable sensory substitution device, supporting reproducib
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Software
 external_link: https://github.com/WHC2021SIC/WHC2021SIC-TeamTactileMirror.git
 image:

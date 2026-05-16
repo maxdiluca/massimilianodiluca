@@ -6,7 +6,7 @@ summary: "Open catalogue and analysis of XR text entry techniques, connected to 
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Flagship
 external_link: https://xrtexttrove.github.io
 image:

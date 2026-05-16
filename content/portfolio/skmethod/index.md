@@ -6,7 +6,7 @@ summary: "Reproducible scripts for psychophysical threshold estimation and timin
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Software
 external_link: https://github.com/ArgiroVat/Timing-and-Time-Perception-Book/blob/06cb993783fdeca1381e448ae09351a74340c45e/Chapter3.zip
 image:

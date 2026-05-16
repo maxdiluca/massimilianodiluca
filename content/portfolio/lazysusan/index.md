@@ -6,7 +6,7 @@ summary: "Archived remote-research demonstrator for shipping robotic stimuli and
 draft: false
 featured: false
 authors: []
-tags:
+portfolio_tags:
   - Archive
 external_link: https://github.com/maxdiluca/LazySusan
 links:

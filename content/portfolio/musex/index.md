@@ -6,7 +6,7 @@ summary: "MUSic Ensemble eXhibition, translating [ARME](https://arme-project.co.
 draft: false
 featured: true
 authors: []
-tags:
+portfolio_tags:
   - Translation
 external_link: https://arme-project.co.uk
 image:
