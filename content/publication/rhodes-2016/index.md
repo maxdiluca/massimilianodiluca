@@ -15,6 +15,7 @@ tags:
 - 'adaptation'
 - 'bayesian model'
 - 'psychophysics'
+- computational modeling
 categories: []
 date: '2016-07-01'
 lastmod: 2021-04-16T20:49:54+02:00

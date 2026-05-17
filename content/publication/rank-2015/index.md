@@ -14,6 +14,8 @@ tags:
 - JND
 - reaction time
 - force feedback
+- temporal perception
+- computational modeling
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:49:00+02:00

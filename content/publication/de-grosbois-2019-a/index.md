@@ -16,6 +16,8 @@ tags:
 - 'cueing'
 - 'vibrotactile'
 - 'reaction time'
+- temporal perception
+- 'haptics'
 categories: []
 date: '2019-07-01'
 lastmod: 2021-04-16T20:49:32+02:00

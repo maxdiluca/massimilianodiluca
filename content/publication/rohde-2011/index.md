@@ -17,6 +17,11 @@ tags:
 - proprioception
 - touch perception
 - recalibration
+- computational modeling
+- 'virtual reality'
+- 'hand'
+- 'haptics'
+- 'multisensory perception'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:48:55+02:00

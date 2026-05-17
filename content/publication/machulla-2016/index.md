@@ -14,7 +14,8 @@ tags:
 - temporal order judgment
 - synchrony perception
 - temporal recalibration
-
+- 'temporal perception'
+- 'multisensory perception'
 categories: []
 date: '2016-03-01'
 lastmod: 2021-04-16T20:49:23+02:00

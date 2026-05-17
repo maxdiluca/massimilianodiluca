@@ -22,6 +22,7 @@ tags:
 - human-computer interaction
 - visual feedback
 - grasping
+- 'vision'
 categories: []
 date: '2019-03-01'
 lastmod: 2021-04-16T20:49:29+02:00

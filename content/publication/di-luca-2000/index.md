@@ -11,6 +11,7 @@ tags:
 - shape from shading
 - 3D shape
 - illumination
+- vision
 categories: []
 date: '2000-01-01'
 lastmod: 2021-04-16T20:49:11+02:00

@@ -13,6 +13,8 @@ tags:
 - 'deformable models'
 - 'haptic rendering'
 - 'virtual reality'
+- computational modeling
+- haptics
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:08+02:00

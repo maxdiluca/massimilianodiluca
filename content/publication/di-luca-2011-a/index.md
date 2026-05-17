@@ -16,6 +16,9 @@ tags:
 - virtual reality
 - bayesian model
 - force feedback
+- computational modeling
+- 'index finger'
+- 'thumb'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:49:14+02:00

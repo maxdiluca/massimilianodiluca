@@ -16,6 +16,8 @@ tags:
 - 'psychophysics'
 - 'signal processing'
 - 'force discrimination'
+- 'vision'
+- 'haptics'
 categories: []
 date: '2020-12-01'
 lastmod: 2021-04-16T20:49:50+02:00

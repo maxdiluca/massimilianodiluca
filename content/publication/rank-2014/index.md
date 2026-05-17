@@ -14,7 +14,6 @@ tags:
 - 'haptics'
 - 'reaction time'
 - 'temporal perception'
-
 - 'force feedback'
 categories: []
 date: '2014-01-01'

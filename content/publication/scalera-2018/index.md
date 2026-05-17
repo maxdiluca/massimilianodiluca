@@ -17,6 +17,9 @@ tags:
 - reaction time
 - vibrotactile
 - speed-accuracy tradeoff
+- temporal perception
+- 'joysticks'
+- 'attractive/repulsive prompt'
 categories: []
 date: '2018-07-01'
 lastmod: 2021-04-16T20:49:00+02:00

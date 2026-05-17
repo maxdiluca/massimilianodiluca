@@ -8,7 +8,8 @@ authors:
 - Ninja K. Horr
 - Massimiliano Di Luca
 tags:
-
+- 'duration distortions'
+- 'temporal perception'
 - 'perceived duration'
 - 'psychophysics'
 - 'rhythm'

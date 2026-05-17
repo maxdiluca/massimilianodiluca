@@ -18,6 +18,10 @@ tags:
 - visual perception
 - psychophysics
 - subjective simultaneity
+- temporal perception
+- 'multisensory perception'
+- 'photic stimulation'
+- 'vision'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:16+02:00

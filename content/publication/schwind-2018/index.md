@@ -19,6 +19,8 @@ tags:
 - virtual hands
 - virtual reality
 - visual-haptic integration
+- 'multisensory perception'
+- 'vision'
 categories: []
 date: '2018-08-01'
 lastmod: 2021-04-16T20:49:54+02:00

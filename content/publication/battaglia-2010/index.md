@@ -19,6 +19,7 @@ tags:
 - bayesian model
 - binocular cue
 - causality
+- computational modeling
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:06+02:00

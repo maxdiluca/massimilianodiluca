@@ -15,6 +15,7 @@ tags:
 - perceived timing
 - temporal sensitivity
 - tone frequency
+- 'temporal perception'
 categories: []
 date: '2018-02-01'
 lastmod: 2021-04-16T20:49:40+02:00

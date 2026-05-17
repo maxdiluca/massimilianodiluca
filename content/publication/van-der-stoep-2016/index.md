@@ -17,6 +17,8 @@ tags:
 - distance
 - peripersonal space
 - spatial
+- vision
+- 'crossmodal'
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-16T20:49:23+02:00

@@ -14,6 +14,8 @@ tags:
 - wearable
 - weight perception
 - force feedback
+- 'stiffness'
+- 'device'
 categories: []
 date: '2019-11-01'
 lastmod: 2021-04-16T20:49:27+02:00

@@ -18,6 +18,8 @@ tags:
 - roughness
 - material perception
 - fMRI
+- vision
+- 'haptics'
 categories: []
 date: '2016-03-01'
 lastmod: 2021-04-16T20:49:06+02:00

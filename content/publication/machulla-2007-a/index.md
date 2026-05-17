@@ -15,6 +15,7 @@ tags:
 - 'synchrony perception'
 - 'temporal recalibration'
 - 'temporal order judgment'
+- temporal perception
 categories: []
 date: '2007-01-01'
 lastmod: 2021-04-16T20:49:15+02:00

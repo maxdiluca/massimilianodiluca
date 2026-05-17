@@ -16,6 +16,8 @@ tags:
 - subjective simultaneity
 - temporal order judgment
 - temporal recalibration
+- temporal perception
+- 'multisensory perception'
 categories: []
 date: '2012-03-01'
 lastmod: 2021-04-16T20:49:23+02:00

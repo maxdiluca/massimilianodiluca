@@ -14,6 +14,13 @@ authors:
 tags:
 - 'haptic rendering'
 - 'wearable'
+- haptics
+- 'wrist'
+- 'task analysis'
+- 'skin'
+- 'actuators'
+- 'virtual reality'
+- 'force feedback'
 categories: []
 date: '2022-01-18'
 aliases:

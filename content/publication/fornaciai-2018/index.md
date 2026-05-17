@@ -13,6 +13,8 @@ tags:
 - psychophysics
 - multisensory perception
 - computational modeling
+- temporal perception
+- 'duration distortions'
 categories: []
 date: '2018-12-01'
 lastmod: 2021-04-16T20:49:35+02:00

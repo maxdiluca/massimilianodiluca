@@ -51,6 +51,7 @@ tags:
 - visual feedback
 
 # Display this page in a list of Featured pages?
+- 'vision'
 featured: true
 
 # Links

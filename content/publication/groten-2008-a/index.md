@@ -18,6 +18,7 @@ tags:
 - 'rhythm'
 - 'time shift'
 - 'trajectory'
+- 'temporal perception'
 categories: []
 date: '2008-01-01'
 lastmod: 2021-04-16T20:48:58+02:00

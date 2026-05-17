@@ -16,6 +16,7 @@ tags:
 - multisensory perception
 - user evaluation
 - force feedback
+- 'virtual reality'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-04-16T20:49:21+02:00

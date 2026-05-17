@@ -11,6 +11,7 @@ authors:
 tags:
 - computational modeling
 - tactile
+- 'haptics'
 categories: []
 date: '2022-12-18'
 lastmod: 2023-01-01T20:44:51+02:00

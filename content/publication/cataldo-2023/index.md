@@ -44,6 +44,7 @@ tags:
 - proprioception
 
 # Display this page in a list of Featured pages?
+- 'haptics'
 featured: false
 
 # Links

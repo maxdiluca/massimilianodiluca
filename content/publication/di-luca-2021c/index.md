@@ -14,6 +14,7 @@ tags:
 - 'virtual reality'
 - 'augmented reality'
 - 'wearable'
+- haptics
 categories: []
 date: '2021-09-10'
 lastmod: 2021-09-10T20:49:51+02:00

@@ -16,6 +16,8 @@ tags:
 - visual feedback
 - psychophysics
 - robotics
+- computational modeling
+- 'vision'
 categories: []
 date: '2012-01-01'
 lastmod: 2021-04-16T20:49:25+02:00

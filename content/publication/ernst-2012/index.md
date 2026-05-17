@@ -12,6 +12,9 @@ tags:
 - prior knowledge
 - sensory information
 - signal processing
+- 'multisensory perception'
+- 'nervous system'
+- 'redundant sensory estimates'
 categories: []
 date: '2012-01-01'
 lastmod: 2021-04-16T20:49:10+02:00

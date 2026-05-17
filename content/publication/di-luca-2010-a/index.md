@@ -16,6 +16,8 @@ tags:
 - perception
 - representation
 - slant
+- vision
+- 'multisensory perception'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:07+02:00

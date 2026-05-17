@@ -29,6 +29,7 @@ tags:
 - spatial acuity
 - computational modeling
 
+- 'haptics'
 featured: true
 
 url_pdf: 'https://research.birmingham.ac.uk/files/184061636/The_Journal_of_Physiology_2022_Deflorio_Skin_properties_and_afferent_density_in_the_deterioration_of_tactile_spatial.pdf'

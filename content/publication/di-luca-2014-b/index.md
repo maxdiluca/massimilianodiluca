@@ -13,6 +13,8 @@ tags:
 - haptics
 - multisensory perception
 - force feedback
+- computational modeling
+- 'stiffness'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:02+02:00

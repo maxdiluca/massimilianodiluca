@@ -1,0 +1,48 @@
+# Word Cloud Navigation Labels
+
+Labels selected from the publication tag matrix for the homepage word cloud. Main research areas are pinned first; specific keywords are recurring labels shown below them.
+
+| Role | Label | Publications |
+| --- | --- | --- |
+| Main research area | haptics | 37 |
+| Main research area | multisensory perception | 31 |
+| Main research area | virtual reality | 27 |
+| Main research area | temporal perception | 27 |
+| Main research area | vision | 26 |
+| Main research area | computational modeling | 23 |
+| Specific keyword | psychophysics | 22 |
+| Specific keyword | force feedback | 13 |
+| Specific keyword | vibrotactile | 12 |
+| Specific keyword | bayesian model | 12 |
+| Specific keyword | wearable | 10 |
+| Specific keyword | 3D shape | 10 |
+| Specific keyword | reaction time | 8 |
+| Specific keyword | perceived duration | 8 |
+| Specific keyword | augmented reality | 8 |
+| Specific keyword | isochrony | 7 |
+| Specific keyword | haptic perception | 7 |
+| Specific keyword | temporal order judgment | 6 |
+| Specific keyword | haptic rendering | 6 |
+| Specific keyword | visual feedback | 5 |
+| Specific keyword | structure from motion | 5 |
+| Specific keyword | human-computer interaction | 5 |
+| Specific keyword | depth perception | 5 |
+| Specific keyword | body ownership | 5 |
+| Specific keyword | weight perception | 4 |
+| Specific keyword | tactile sensitivity | 4 |
+| Specific keyword | stiffness | 4 |
+| Specific keyword | softness | 4 |
+| Specific keyword | proprioception | 4 |
+| Specific keyword | neuroimaging | 4 |
+| Specific keyword | multisensory time perception | 4 |
+| Specific keyword | multisensory integration | 4 |
+| Specific keyword | material perception | 4 |
+| Specific keyword | grasping | 4 |
+| Specific keyword | duration distortions | 4 |
+| Specific keyword | compliance perception | 4 |
+| Specific keyword | visual-haptic integration | 3 |
+| Specific keyword | vibrotactile guidance | 3 |
+| Specific keyword | time shift | 3 |
+| Specific keyword | temporal recalibration | 3 |
+| Specific keyword | synchrony perception | 3 |
+| Specific keyword | subjective simultaneity | 3 |

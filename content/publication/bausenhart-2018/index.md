@@ -14,6 +14,7 @@ tags:
 - 'psychophysics'
 - 'data analysis'
 - 'perceived duration'
+- temporal perception
 categories: []
 date: '2018-03-01'
 lastmod: 2021-04-16T20:49:45+02:00

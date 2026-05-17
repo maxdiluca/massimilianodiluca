@@ -18,6 +18,7 @@ tags:
 - tactile sensitivity
 - wearable
 - multisensory perception
+- 'virtual reality'
 
 categories: []
 date: '2021-05-01'

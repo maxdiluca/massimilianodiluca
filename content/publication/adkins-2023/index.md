@@ -48,6 +48,7 @@ tags:
 - human-computer interaction
 
 # Display this page in a list of Featured pages?
+- 'virtual reality'
 featured: false
 
 # Links

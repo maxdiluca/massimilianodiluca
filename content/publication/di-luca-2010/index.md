@@ -12,6 +12,8 @@ tags:
 - measurement method
 - latency
 - motion tracking
+- 'device'
+- 'tracking'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:22+02:00

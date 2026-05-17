@@ -14,6 +14,8 @@ tags:
 - psychophysics
 - material perception
 - force feedback
+- 'stiffness'
+- 'vision'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-16T20:49:12+02:00

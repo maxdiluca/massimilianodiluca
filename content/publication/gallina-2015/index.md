@@ -15,6 +15,8 @@ tags:
 - 'human-in-the-loop'
 - 'teleoperation'
 - 'usability'
+- 'vision'
+- 'virtual reality'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-04-16T20:49:25+02:00

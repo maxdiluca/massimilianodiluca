@@ -16,6 +16,9 @@ tags:
 - haptics
 - reaction time
 - vibrotactile
+- temporal perception
+- 'joysticks'
+- 'attractive/repulsive prompt'
 categories: []
 date: '2018-01-01'
 lastmod: 2021-04-16T20:49:42+02:00

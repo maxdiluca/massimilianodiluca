@@ -18,6 +18,8 @@ tags:
 - peripersonal space
 - causality
 - bayesian model
+- computational modeling
+- 'multisensory perception'
 categories: []
 date: '2018-12-01'
 lastmod: 2021-04-16T20:49:46+02:00
