@@ -7,6 +7,9 @@
 {{ else }}
 {{ $author = $page.Params.author }}
 {{end}}
+{{ if or (not $author) (eq $author "authors") }}
+{{ $author = "admin" }}
+{{ end }}
 
 {{ $person_page_path := (printf "/authors/%s" $author) }}
 {{ $person_page := site.GetPage $person_page_path }}

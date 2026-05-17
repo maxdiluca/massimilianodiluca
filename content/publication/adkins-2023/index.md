@@ -41,14 +41,13 @@ abstract: 'Detailed hand motions play an important role in face-to-face communic
 summary: 'A set of perceptual experiments testing how changes to virtual-character hand and finger motions affect comprehension, character perception, social presence, and comfort.'
 
 tags:
-- virtual character
-- gestures
-- communication
-- animation
-- human-computer interaction
-
-# Display this page in a list of Featured pages?
+- 'virtual character'
+- 'gestures'
+- 'communication'
+- 'animation'
+- 'human-computer interaction'
 - 'virtual reality'
+- 'extended reality / virtual reality'
 featured: false
 
 # Links

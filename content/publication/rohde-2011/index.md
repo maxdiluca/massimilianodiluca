@@ -10,18 +10,19 @@ authors:
 - Massimiliano Di Luca
 - Marc O. Ernst
 tags:
-- body ownership
-- bayesian model
-- psychophysics
-- illusions
-- proprioception
-- touch perception
-- recalibration
-- computational modeling
+- 'body ownership'
+- 'bayesian model'
+- 'psychophysics'
+- 'illusions'
+- 'proprioception'
+- 'touch perception'
+- 'recalibration'
+- 'computational modelling'
 - 'virtual reality'
 - 'hand'
 - 'haptics'
 - 'multisensory perception'
+- 'extended reality / virtual reality'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:48:55+02:00

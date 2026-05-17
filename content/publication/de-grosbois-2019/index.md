@@ -18,6 +18,7 @@ tags:
 - 'detection threshold'
 - 'adaptation'
 - 'haptics'
+- 'psychophysics'
 categories: []
 date: '2019-07-01'
 lastmod: 2021-04-16T20:49:30+02:00

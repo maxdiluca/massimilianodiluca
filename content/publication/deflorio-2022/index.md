@@ -9,8 +9,8 @@ authors:
 - Massimiliano Di Luca
 - Alan Wing
 tags:
-- computational modeling
-- tactile
+- 'computational modelling'
+- 'tactile'
 - 'haptics'
 categories: []
 date: '2022-12-18'

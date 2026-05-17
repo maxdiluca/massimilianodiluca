@@ -32,7 +32,3 @@ Selected public-facing coverage of research translation, open resources, and eng
 ### Perception science
 
 [University of Birmingham: how the brain predicts the future](https://www.birmingham.ac.uk/news-archive/2016/how-the-brain-predicts-the-future) · [Neuroscience News: time perception and expectation](https://neurosciencenews.com/time-perception-neuroscience-4675/)
-
-### Institutional profile
-
-[University of Birmingham Pure press/media profile](https://research.birmingham.ac.uk/en/persons/max-di-luca)

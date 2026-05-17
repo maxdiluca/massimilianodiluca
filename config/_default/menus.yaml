@@ -4,9 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Research
-    url: '#projects'
-    weight: 10
   - name: Experience
     url: '#experience'
     weight: 20
@@ -16,12 +13,9 @@ main:
   - name: Funding
     url: '#funding'
     weight: 40
-  - name: Publications
+  - name: Research
     url: '#tags'
     weight: 50
-  - name: Portfolio
-    url: '#portfolio'
-    weight: 60
   - name: Opportunities
     url: '#collaborate'
     weight: 75

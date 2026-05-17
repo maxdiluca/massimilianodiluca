@@ -7,18 +7,19 @@ summary: ''
 authors:
 - Massimiliano Di Luca
 tags:
-- compliance perception
-- haptic perception
-- integration
-- pinch grasp
-- softness
-- haptics
-- virtual reality
-- bayesian model
-- force feedback
-- computational modeling
+- 'compliance perception'
+- 'haptic perception'
+- 'integration'
+- 'pinch grasp'
+- 'softness'
+- 'haptics'
+- 'virtual reality'
+- 'bayesian model'
+- 'force feedback'
+- 'computational modelling'
 - 'index finger'
 - 'thumb'
+- 'extended reality / virtual reality'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-16T20:49:14+02:00

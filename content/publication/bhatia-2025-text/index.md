@@ -42,16 +42,15 @@ abstract: 'Text entry for extended reality (XR) is far from perfect, and a varie
 summary: ''
 
 tags:
-- database
-- text
-- text entry
-- keyboard
-- virtual reality
-- augmented reality
-- visual feedback
-
-# Display this page in a list of Featured pages?
+- 'database'
+- 'text'
+- 'text entry'
+- 'keyboard'
+- 'virtual reality'
+- 'augmented reality'
+- 'visual feedback'
 - 'vision'
+- 'extended reality / virtual reality'
 featured: true
 
 # Links

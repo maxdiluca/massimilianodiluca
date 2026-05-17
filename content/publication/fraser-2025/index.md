@@ -37,13 +37,11 @@ abstract: "The one-third power law, relating velocity to curvature, is among the
 summary: 'A review of how the velocity-curvature power law is calculated, identifying analytical pitfalls and proposing a vetted modular protocol for biological movement research.'
 
 tags:
-- biological motion
-- kinematics
-- motor control
-- movement analysis
-- computational modeling
-
-# Display this page in a list of Featured pages?
+- 'biological motion'
+- 'kinematics'
+- 'motor control'
+- 'movement analysis'
+- 'computational modelling'
 featured: false
 
 # Links

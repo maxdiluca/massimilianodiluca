@@ -9,12 +9,12 @@ authors:
 - Fulvio Domini
 - Corrado Caudek
 tags:
-- 3D shape
-- slant perception
-- spatial integration
-- structure from motion
-- vision
-- computational modeling
+- '3D shape'
+- 'slant perception'
+- 'spatial integration'
+- 'structure from motion'
+- 'vision'
+- 'computational modelling'
 categories: []
 date: '2004-12-01'
 lastmod: 2021-04-16T20:49:12+02:00

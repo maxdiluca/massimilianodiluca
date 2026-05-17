@@ -24,11 +24,10 @@ abstract: "The synchronization of motor responses to rhythmic auditory cues is a
 summary: 'A low-cost Kalman-filter feedback correction model for understanding how musicians synchronize timing in ensemble performance.'
 
 tags:
-- kalman filter
-- music
-- synchronisation
-- computational modeling
-
+- 'kalman filter'
+- 'music'
+- 'synchronisation'
+- 'computational modelling'
 featured: false
 
 url_pdf: 'https://research.birmingham.ac.uk/files/262249198/CarvalhoHT2024Kalman.pdf'

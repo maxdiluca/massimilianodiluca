@@ -1,0 +1,119 @@
+{{- define "main" -}}
+
+{{ $page := . }}
+{{ $topicTag := $page.Params.topic_tag | default $page.Title }}
+{{ $fundingTitles := $page.Params.funding | default (slice) }}
+{{ $portfolioSlugs := $page.Params.portfolio | default (slice) }}
+{{ $relatedLabels := $page.Params.related_labels | default (slice) }}
+{{ $publications := where site.RegularPages "Type" "publication" }}
+{{ $publications = where $publications "Params.tags" "intersect" (slice $topicTag) }}
+
+<article class="article research-topic-page">
+  <div class="article-container pt-3">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
+    {{ end }}
+  </div>
+
+  <div class="article-container">
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ with $page.Params.figure }}
+      {{ if .image }}
+        <figure class="research-topic-figure">
+          <img src="{{ .image | relURL }}" alt="{{ .alt | default $page.Title }}">
+          {{ with .caption }}
+            <figcaption>{{ . | markdownify }}</figcaption>
+          {{ end }}
+        </figure>
+      {{ end }}
+    {{ end }}
+
+    {{ with $relatedLabels }}
+      <section class="research-topic-block research-topic-block--compact">
+        <h2>Related Keywords</h2>
+        <div class="research-topic-keywords">
+          {{ range . }}
+            {{ $label := . }}
+            {{ with site.GetPage (printf "tags/%s" (urlize $label)) }}
+              <a class="research-topic-keyword" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ else }}
+              <span class="research-topic-keyword">{{ $label }}</span>
+            {{ end }}
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
+
+    {{ with $portfolioSlugs }}
+      <section class="research-topic-block">
+        <h2>Portfolio and Resources</h2>
+        <div class="research-topic-cards">
+          {{ range . }}
+            {{ with site.GetPage (printf "portfolio/%s" .) }}
+              {{ $link := .RelPermalink }}
+              {{ $target := "" }}
+              {{ with .Params.external_link }}
+                {{ $link = . }}
+                {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+              {{ end }}
+              <a class="research-topic-card" href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+                {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+                {{ with $resource }}
+                  {{ $image := .Fill "640x360 Center" }}
+                  <img class="research-topic-card__image" src="{{ $image.RelPermalink }}" alt="">
+                {{ end }}
+                <span class="research-topic-card__title">{{ .Title }}</span>
+                {{ with .Params.summary }}
+                  <span class="research-topic-card__summary">{{ . | markdownify | plainify }}</span>
+                {{ end }}
+              </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
+
+    {{ with $fundingTitles }}
+      {{ $fundingPage := site.GetPage "home/funding" }}
+      {{ with $fundingPage }}
+        <section class="research-topic-block">
+          <h2>Associated Funding</h2>
+          <ul class="research-topic-funding">
+            {{ range $fundingTitle := $fundingTitles }}
+              {{ range .Params.item }}
+                {{ if eq .title $fundingTitle }}
+                  {{ $funding := . }}
+                  <li>
+                    {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ else }}<strong>{{ .title }}</strong>{{ end }}
+                    {{ with .organization }}<span>, {{ . }}</span>{{ end }}
+                    {{ with .date_start }}<span> ({{ time.Format "2006" . }}{{ with $funding.date_end }}-{{ time.Format "2006" . }}{{ end }})</span>{{ end }}
+                    {{ with .description }}<div>{{ . | markdownify }}</div>{{ end }}
+                  </li>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    {{ end }}
+
+    <section class="research-topic-block">
+      <h2>Articles in {{ $page.Params.topic_label | default $page.Title }} <span class="research-topic-count">{{ len $publications }}</span></h2>
+      {{ if gt (len $publications) 0 }}
+        {{ range sort $publications "Date" "desc" }}
+          {{ partial "li_citation" . }}
+        {{ end }}
+      {{ else }}
+        <p>No publications are currently tagged with this topic.</p>
+      {{ end }}
+    </section>
+
+    {{ partial "page_footer" . }}
+  </div>
+</article>
+
+{{- end -}}

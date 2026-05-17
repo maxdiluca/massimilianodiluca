@@ -24,12 +24,12 @@ abstract: "Users of Virtual Reality (VR) primarily sense their environment throu
 summary: 'A haptic belt for mixed reality that renders collision and proximity cues around the lower body to improve spatial awareness and reduce unintended collisions.'
 
 tags:
-- human-computer interaction
-- haptics
-- mixed reality
-- virtual reality
-- collision awareness
-
+- 'human-computer interaction'
+- 'haptics'
+- 'mixed reality'
+- 'virtual reality'
+- 'collision awareness'
+- 'extended reality / virtual reality'
 featured: false
 
 url_pdf: 'https://research.birmingham.ac.uk/files/295068678/BeltAndWhistles_CHI26.pdf'

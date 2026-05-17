@@ -23,12 +23,11 @@ abstract: "Tactile sensitivity is affected by age, as shown by the deterioration
 summary: 'Psychophysics, skin-property measurements, and tactile-neuron simulations show how ageing-related changes in skin and afferent density contribute to reduced tactile spatial acuity.'
 
 tags:
-- touch
-- tactile
-- ageing
-- spatial acuity
-- computational modeling
-
+- 'touch'
+- 'tactile'
+- 'ageing'
+- 'spatial acuity'
+- 'computational modelling'
 - 'haptics'
 featured: true
 

@@ -12,15 +12,16 @@ authors:
 - Sophie Jörg
 - James Hillis
 tags:
-- avatars
-- haptic perception
-- haptics
-- body ownership
-- virtual hands
-- virtual reality
-- visual-haptic integration
+- 'avatars'
+- 'haptic perception'
+- 'haptics'
+- 'body ownership'
+- 'virtual hands'
+- 'virtual reality'
+- 'visual-haptic integration'
 - 'multisensory perception'
 - 'vision'
+- 'extended reality / virtual reality'
 categories: []
 date: '2018-08-01'
 lastmod: 2021-04-16T20:49:54+02:00

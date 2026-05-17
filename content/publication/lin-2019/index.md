@@ -14,15 +14,16 @@ authors:
 - Massimiliano Di Luca
 - Sophie Jorg
 tags:
-- gestural input
-- interaction design
-- perception
-- virtual reality
-- wearable
-- human-computer interaction
-- visual feedback
-- grasping
+- 'gestural input'
+- 'interaction design'
+- 'perception'
+- 'virtual reality'
+- 'wearable'
+- 'human-computer interaction'
+- 'visual feedback'
+- 'grasping'
 - 'vision'
+- 'extended reality / virtual reality'
 categories: []
 date: '2019-03-01'
 lastmod: 2021-04-16T20:49:29+02:00

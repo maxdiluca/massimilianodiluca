@@ -11,12 +11,12 @@ authors:
 - Massimiliano Di Luca
 - Jeremy L Wyatt
 tags:
-- bayesian model
-- grasping
-- visual feedback
-- psychophysics
-- robotics
-- computational modeling
+- 'bayesian model'
+- 'grasping'
+- 'visual feedback'
+- 'psychophysics'
+- 'robotics'
+- 'computational modelling'
 - 'vision'
 categories: []
 date: '2012-01-01'

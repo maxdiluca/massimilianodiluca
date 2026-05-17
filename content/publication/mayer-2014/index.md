@@ -13,8 +13,8 @@ tags:
 - 'linear regression model'
 - 'perceived duration'
 - 'sensory latency'
-- temporal perception
-- computational modeling
+- 'temporal perception'
+- 'computational modelling'
 - 'multisensory perception'
 categories: []
 date: '2014-01-01'

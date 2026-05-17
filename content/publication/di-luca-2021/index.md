@@ -9,17 +9,18 @@ authors:
 - Simon Egan
 - Mar Gonzalez-franco
 tags:
-- database
-- locomotion
-- virtual reality
-- navigation
-- data visualization
-- visual feedback
+- 'database'
+- 'locomotion'
+- 'virtual reality'
+- 'navigation'
+- 'data visualization'
+- 'visual feedback'
 - 'locomotion technique'
 - 'movement method'
 - 'travel'
 - 'visualization'
 - 'vision'
+- 'extended reality / virtual reality'
 categories: []
 date: '2021-01-01'
 lastmod: 2021-04-16T20:49:52+02:00

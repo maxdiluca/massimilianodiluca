@@ -8,12 +8,12 @@ authors:
 - Massimiliano Di Luca
 - Marc O Ernst
 tags:
-- softness
-- bayesian model
-- haptics
-- multisensory perception
-- force feedback
-- computational modeling
+- 'softness'
+- 'bayesian model'
+- 'haptics'
+- 'multisensory perception'
+- 'force feedback'
+- 'computational modelling'
 - 'stiffness'
 categories: []
 date: '2014-01-01'

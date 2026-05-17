@@ -14,8 +14,8 @@ tags:
 - 'bayesian model'
 - 'multisensory integration'
 - 'multisensory time perception'
-- temporal perception
-- computational modeling
+- 'temporal perception'
+- 'computational modelling'
 - 'duration distortions'
 - 'multisensory perception'
 categories: []

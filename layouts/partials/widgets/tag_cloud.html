@@ -6,7 +6,18 @@
 {{ $taxonomy := $st.Params.content.taxonomy | default "tags" }}
 {{ $fontSmall := $st.Params.design.font_size_min | default 0.8 }}
 {{ $fontBig := $st.Params.design.font_size_max | default 2.5 }}
-{{ $featuredLabels := $st.Params.content.featured | default (slice "haptics" "multisensory perception" "virtual reality" "temporal perception" "vision" "computational modeling") }}
+{{ $featuredLabels := $st.Params.content.featured | default (slice "haptics" "multisensory perception" "extended reality / virtual reality" "temporal perception" "psychophysics" "computational modelling") }}
+{{ $featuredDescriptions := dict }}
+{{ $featuredDisplayLabels := dict }}
+{{ $featuredPages := dict }}
+{{ range $topic := $st.Params.content.featured_topics }}
+  {{ with $topic.label }}
+    {{ $featuredDescriptions = merge $featuredDescriptions (dict (lower .) ($topic.description | default "")) }}
+    {{ $featuredDisplayLabels = merge $featuredDisplayLabels (dict (lower .) ($topic.display | default .)) }}
+    {{ $featuredPages = merge $featuredPages (dict (lower .) ($topic.page | default "")) }}
+  {{ end }}
+{{ end }}
+{{ $excludedLabels := $st.Params.content.exclude | default (slice "virtual reality") }}
 {{ $minCount := $st.Params.content.min_count | default 2 }}
 
 {{ $items_count := $st.Params.content.count }}
@@ -33,7 +44,7 @@
 {{ range $term := $allTags }}
   {{ $tagTitle := lower $term.Page.Title }}
   {{ $tagCount := len $term.Pages }}
-  {{ if and (not (in $featuredLabels $tagTitle)) (ge $tagCount $minCount) }}
+  {{ if and (not (in $featuredLabels $tagTitle)) (not (in $excludedLabels $tagTitle)) (ge $tagCount $minCount) }}
     {{ $cloudPool = $cloudPool | append $term }}
   {{ end }}
 {{ end }}
@@ -55,7 +66,7 @@
     {{ if ne $count 0 }}
       {{/* Hugo's Reverse function appears to operate in-place, hence the order of performing $max/$min matters. */}}
       {{ $max := add (len (index $tags 0).Pages) 1 }}
-      {{ $min := len (index ($tags).Reverse 0).Pages }}
+      {{ $min := len (index (last 1 $tags) 0).Pages }}
       {{ $logMin = math.Log $min }}
       {{ $logMax = math.Log $max }}
       {{ $logDelta = sub $logMax $logMin }}
@@ -74,13 +85,25 @@
           {{ range $index, $term := $featuredTags }}
             {{ $tagCount := len $term.Pages }}
             {{ $palette := add (mod $index 6) 1 }}
+            {{ $topicDescription := index $featuredDescriptions (lower $term.Page.Title) }}
+            {{ $topicDisplay := index $featuredDisplayLabels (lower $term.Page.Title) | default $term.Page.Title }}
+            {{ $topicPage := index $featuredPages (lower $term.Page.Title) }}
+            {{ $topicHref := $term.Page.RelPermalink }}
+            {{ with $topicPage }}
+              {{ $topicHref = . | relURL }}
+            {{ end }}
             <a
               class="tag-cloud-topic tag-cloud-topic--palette-{{ $palette }}"
-              href="{{ .Page.RelPermalink }}"
+              href="{{ $topicHref }}"
               title="{{ .Page.Title }} ({{ $tagCount }} {{ cond (eq $tagCount 1) "publication" "publications" }})"
               aria-label="{{ .Page.Title }}: {{ $tagCount }} {{ cond (eq $tagCount 1) "publication" "publications" }}"
             >
-              <span class="tag-cloud-topic__label">{{ .Page.Title }}</span>
+              <span class="tag-cloud-topic__body">
+                <span class="tag-cloud-topic__label">{{ $topicDisplay }}</span>
+                {{ with $topicDescription }}
+                  <span class="tag-cloud-topic__description">{{ . }}</span>
+                {{ end }}
+              </span>
               <span class="tag-cloud-topic__count" aria-hidden="true">{{ $tagCount }}</span>
             </a>
           {{ end }}

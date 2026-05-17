@@ -19,11 +19,12 @@ tags:
 - 'bayesian model'
 - 'psychophysics'
 - 'force feedback'
-- computational modeling
-- haptics
+- 'computational modelling'
+- 'haptics'
 - 'virtual reality'
 - 'multisensory perception'
 - 'vision'
+- 'extended reality / virtual reality'
 categories: []
 date: '2011-06-01'
 lastmod: 2021-04-16T20:49:20+02:00

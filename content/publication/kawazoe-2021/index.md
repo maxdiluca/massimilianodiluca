@@ -12,14 +12,14 @@ authors:
 - Yon Visell
 
 tags:
-- augmented reality
-- vibrotactile
-- haptics
-- tactile sensitivity
-- wearable
-- multisensory perception
+- 'augmented reality'
+- 'vibrotactile'
+- 'haptics'
+- 'tactile sensitivity'
+- 'wearable'
+- 'multisensory perception'
 - 'virtual reality'
-
+- 'extended reality / virtual reality'
 categories: []
 date: '2021-05-01'
 lastmod: 2021-05-14T12:49:30+02:00

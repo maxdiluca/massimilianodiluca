@@ -10,13 +10,13 @@ authors:
 - Darren Rhodes
 - Massimiliano Di Luca
 tags:
-- temporal perception
-- attention
-- isochrony
-- prior entry
-- temporal expectation
-- psychophysics
-- computational modeling
+- 'temporal perception'
+- 'attention'
+- 'isochrony'
+- 'prior entry'
+- 'temporal expectation'
+- 'psychophysics'
+- 'computational modelling'
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-16T20:49:15+02:00

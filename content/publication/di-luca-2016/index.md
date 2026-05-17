@@ -14,7 +14,7 @@ tags:
 - 'isochrony'
 - 'perceived timing'
 - 'psychophysics'
-- computational modeling
+- 'computational modelling'
 - 'temporal perception'
 - 'multisensory perception'
 categories: []

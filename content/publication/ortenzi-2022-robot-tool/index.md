@@ -44,13 +44,12 @@ abstract: 'A human handing over an object modulates their grasp and movements to
 summary: 'A VR study showing that handle visibility improves perceived holdability and immediate usability during robot-to-human tool handovers.'
 
 tags:
-- robotics
-- human-robot interaction
-- handover
-- grasping
-- virtual reality
-
-# Display this page in a list of Featured pages?
+- 'robotics'
+- 'human-robot interaction'
+- 'handover'
+- 'grasping'
+- 'virtual reality'
+- 'extended reality / virtual reality'
 featured: false
 
 # Links

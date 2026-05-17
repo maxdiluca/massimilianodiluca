@@ -12,14 +12,15 @@ authors:
 - Sean Keller
 - Massimiliano Di Luca
 tags:
-- body ownership
-- virtual reality
-- multisensory integration
-- peripersonal space
-- causality
-- bayesian model
-- computational modeling
+- 'body ownership'
+- 'virtual reality'
+- 'multisensory integration'
+- 'peripersonal space'
+- 'causality'
+- 'bayesian model'
+- 'computational modelling'
 - 'multisensory perception'
+- 'extended reality / virtual reality'
 categories: []
 date: '2018-12-01'
 lastmod: 2021-04-16T20:49:46+02:00

@@ -10,16 +10,17 @@ authors:
 - Martin Buss
 - Roberta L. Klatzky
 tags:
-- compliance perception
-- haptics
-- human-computer interaction
-- integration
-- optimal fusion
-- virtual reality
-- vision
-- bayesian model
-- force feedback
-- computational modeling
+- 'compliance perception'
+- 'haptics'
+- 'human-computer interaction'
+- 'integration'
+- 'optimal fusion'
+- 'virtual reality'
+- 'vision'
+- 'bayesian model'
+- 'force feedback'
+- 'computational modelling'
+- 'extended reality / virtual reality'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-16T20:49:40+02:00

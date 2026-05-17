@@ -31,7 +31,8 @@ module:
 
 enableGitInfo: true
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -60,6 +61,12 @@ imaging:
   quality: 75
   anchor: smart
 timeout: 600000
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^CI$
+      - ^WC_POST_CSS$
 taxonomies:
   tag: tags
   category: categories

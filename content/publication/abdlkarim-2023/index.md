@@ -42,13 +42,12 @@ abstract: 'Optical markerless hand-tracking systems incorporated into virtual re
 summary: 'A fixed-grid framework for measuring positional error, joint-angle accuracy, and temporal delay in VR markerless hand tracking, demonstrated with Meta Quest 2.'
 
 tags:
-- virtual reality
-- hand tracking
-- motion tracking
-- measurement method
-- human-computer interaction
-
-# Display this page in a list of Featured pages?
+- 'virtual reality'
+- 'hand tracking'
+- 'motion tracking'
+- 'measurement method'
+- 'human-computer interaction'
+- 'extended reality / virtual reality'
 featured: false
 
 # Links

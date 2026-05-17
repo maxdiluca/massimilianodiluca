@@ -9,11 +9,11 @@ authors:
 - Eleni Markouli
 - Massimiliano Di Luca
 tags:
-- perceived duration
-- psychophysics
-- multisensory perception
-- computational modeling
-- temporal perception
+- 'perceived duration'
+- 'psychophysics'
+- 'multisensory perception'
+- 'computational modelling'
+- 'temporal perception'
 - 'duration distortions'
 categories: []
 date: '2018-12-01'
