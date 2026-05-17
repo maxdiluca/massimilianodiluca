@@ -10,6 +10,17 @@
 
 <article class="article research-topic-page">
   <div class="article-container pt-3">
+    {{ with $page.Params.figure }}
+      {{ if .image }}
+        <figure class="research-topic-figure research-topic-figure--top">
+          <img src="{{ .image | relURL }}" alt="{{ .alt | default $page.Title }}">
+          {{ with .caption }}
+            <figcaption>{{ . | markdownify }}</figcaption>
+          {{ end }}
+        </figure>
+      {{ end }}
+    {{ end }}
+
     <h1>{{ .Title }}</h1>
     {{ with .Params.subtitle }}
       <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
@@ -20,17 +31,6 @@
     <div class="article-style">
       {{ .Content }}
     </div>
-
-    {{ with $page.Params.figure }}
-      {{ if .image }}
-        <figure class="research-topic-figure">
-          <img src="{{ .image | relURL }}" alt="{{ .alt | default $page.Title }}">
-          {{ with .caption }}
-            <figcaption>{{ . | markdownify }}</figcaption>
-          {{ end }}
-        </figure>
-      {{ end }}
-    {{ end }}
 
     {{ with $relatedLabels }}
       <section class="research-topic-block research-topic-block--compact">

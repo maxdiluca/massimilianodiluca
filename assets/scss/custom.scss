@@ -572,12 +572,18 @@ $light-grey: #E3E3E5;
   margin: 1.75rem 0 2rem;
 }
 
+.research-topic-figure--top {
+  margin: 0 auto 1.75rem;
+}
+
 .research-topic-figure img {
   display: block;
   width: 100%;
-  max-height: 26rem;
+  max-width: 34rem;
+  max-height: 24rem;
+  margin: 0 auto;
   border-radius: 8px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .research-topic-figure figcaption {
