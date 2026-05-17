@@ -28,7 +28,7 @@ portfolio:
   - codedelay
   - kenilworth-revealed
 figure:
-  image: /portfolio/bhamxr/featured.jpg
+  image: /media/research-topic/extended-reality.png
   alt: Extended reality research environment
   caption: XR research links immersive systems, perception, haptics, datasets, cultural experiences, and interaction design.
 related_labels:

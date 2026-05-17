@@ -19,7 +19,7 @@ portfolio:
   - codedelay
   - lazysusan
 figure:
-  image: /portfolio/psychometric/featured.png
+  image: /media/research-topic/psychophysics.png
   alt: Psychometric function analysis figure
   caption: Psychophysical methods turn perceptual reports and responses into quantitative evidence.
 related_labels:

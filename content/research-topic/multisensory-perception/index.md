@@ -18,7 +18,7 @@ portfolio:
   - agingtouch
   - glove
 figure:
-  image: /project/multisensory-perception/featured.png
+  image: /media/research-topic/multisensory-perception.png
   alt: Multisensory perception research figure
   caption: Multisensory perception studies how uncertain signals are combined across senses, context, and action.
 related_labels:

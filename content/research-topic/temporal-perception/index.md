@@ -18,7 +18,7 @@ portfolio:
   - amuser
   - musex
 figure:
-  image: /project/temporal/featured.jpg
+  image: /media/research-topic/temporal-perception.png
   alt: Temporal perception research figure
   caption: Temporal perception connects synchrony, duration, recalibration, rhythm, and delays in interactive systems.
 related_labels:

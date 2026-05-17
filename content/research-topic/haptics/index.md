@@ -20,7 +20,7 @@ portfolio:
   - visualhapticstiffness
   - viscosity
 figure:
-  image: /portfolio/glove/featured.jpg
+  image: /media/research-topic/haptics.png
   alt: Haptic demonstration in virtual reality
   caption: Haptic demonstrations connect tactile perception, wearable feedback, and immersive interaction design. Prototype presented at a keynote of Oculus Connect 5.
 related_labels:

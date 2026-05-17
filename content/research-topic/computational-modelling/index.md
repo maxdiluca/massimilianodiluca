@@ -20,7 +20,7 @@ portfolio:
   - agingtouch
   - skmethod
 figure:
-  image: /portfolio/prendosim/featured.png
+  image: /media/research-topic/computational-modelling.png
   alt: Computational modelling and simulation figure
   caption: Computational models connect perceptual theory with simulation, prediction, datasets, and interactive systems.
 related_labels:
