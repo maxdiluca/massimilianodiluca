@@ -3,6 +3,11 @@ title: Haptics
 subtitle: Touch, force feedback, and tactile interaction
 topic_label: haptics
 topic_tag: haptics
+key_questions:
+  - How do people perceive softness, stiffness, texture, weight, force, and contact through active touch?
+  - Which tactile cues can be rendered or augmented without breaking the feeling of a natural interaction?
+  - How do visual, proprioceptive, and haptic signals combine when they disagree or arrive late?
+  - How can psychophysics guide useful wearable, vibrotactile, and XR haptic feedback?
 funding:
   - EXPLORA
   - "Taking the rough with the smooth: aging effects on tactile surface texture perception"
@@ -36,6 +41,11 @@ related_labels:
   - compliance perception
   - skin stretch
   - touch
+related_topics:
+  - multisensory-perception
+  - extended-reality-virtual-reality
+  - psychophysics
+  - computational-modelling
 ---
 
 Haptics is the part of the research programme concerned with touch as an active, informative, and designable signal. The work asks how people perceive texture, softness, weight, force, vibration, and contact, and how those perceptual mechanisms can be used to build haptic systems that feel useful rather than merely mechanically accurate.

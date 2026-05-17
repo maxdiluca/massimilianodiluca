@@ -3,6 +3,11 @@ title: Multisensory Perception
 subtitle: How the brain combines uncertain signals during perception and action
 topic_label: multisensory perception
 topic_tag: multisensory perception
+key_questions:
+  - When does the brain treat signals from different senses as evidence about the same event?
+  - How are uncertain visual, tactile, auditory, and proprioceptive cues weighted during perception and action?
+  - How do synchrony, delay, context, and prior experience reshape multisensory integration?
+  - What can multisensory science tell us about body ownership, XR interaction, and haptic design?
 funding:
   - EXPLORA
   - Seeing how you feel
@@ -33,6 +38,11 @@ related_labels:
   - depth perception
   - sensory information
   - redundant sensory estimates
+related_topics:
+  - haptics
+  - temporal-perception
+  - extended-reality-virtual-reality
+  - psychophysics
 ---
 
 Multisensory perception studies how people infer the state of the world from signals that are useful but imperfect. Vision, touch, audition, and proprioception each carry partial information, and the brain must decide when signals belong together, how reliable they are, and how they should influence perception and action.

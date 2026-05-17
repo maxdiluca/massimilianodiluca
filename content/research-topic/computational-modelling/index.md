@@ -3,6 +3,11 @@ title: Computational Modelling
 subtitle: Formal models of perception, timing, movement, and interaction
 topic_label: computational modelling
 topic_tag: computational modelling
+key_questions:
+  - How can formal models explain perceptual decisions, cue integration, timing, and movement?
+  - Which assumptions about uncertainty, delay, priors, and evidence accumulation predict behaviour?
+  - How can simulation and data analysis support haptic rendering, XR datasets, and experimental design?
+  - How do models connect basic perceptual theory with usable interactive systems?
 funding:
   - EXPLORA
   - Input Vault
@@ -34,6 +39,11 @@ related_labels:
   - deformable models
   - movement analysis
   - kinematics
+related_topics:
+  - psychophysics
+  - multisensory-perception
+  - temporal-perception
+  - extended-reality-virtual-reality
 ---
 
 Computational modelling is used to explain perceptual decisions, predict behaviour, and guide the design of interactive systems. The work includes Bayesian cue integration, Kalman filtering, signal processing, simulation, data-driven haptic rendering, psychometric modelling, movement analysis, and machine learning.

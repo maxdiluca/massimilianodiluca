@@ -3,6 +3,11 @@ title: Extended Reality
 subtitle: Immersive systems grounded in perceptual science
 topic_label: extended reality
 topic_tag: extended reality / virtual reality
+key_questions:
+  - How can immersive systems support perception, action, ownership, and social interaction?
+  - Which interaction techniques make XR hand tracking, locomotion, and text entry usable in practice?
+  - How do delays, tracking errors, and mismatched feedback change the experience of virtual objects?
+  - How can XR research produce reusable datasets, tools, and cultural or industrial applications?
 funding:
   - XR Text Trove
   - Input Vault
@@ -45,6 +50,11 @@ related_labels:
   - avatars
   - text entry
   - human-computer interaction
+related_topics:
+  - haptics
+  - multisensory-perception
+  - temporal-perception
+  - computational-modelling
 ---
 
 Extended reality and virtual reality work in this programme focuses on immersive systems that are shaped by perception rather than only by hardware capability. The question is not simply whether an XR system can render an image, object, hand, or environment, but whether the result supports action, ownership, timing, social presence, and usable feedback.

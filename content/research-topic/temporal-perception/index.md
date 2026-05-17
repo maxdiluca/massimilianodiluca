@@ -3,6 +3,11 @@ title: Temporal Perception
 subtitle: Synchrony, duration, recalibration, and timing in interactive systems
 topic_label: temporal perception
 topic_tag: temporal perception
+key_questions:
+  - How do people judge synchrony, temporal order, rhythm, and duration without a dedicated sense of time?
+  - When do delays prevent multisensory integration, and when does perception recalibrate to them?
+  - How do attention, expectation, movement, and context distort perceived timing?
+  - How should timing be measured and controlled in XR, haptics, music, and psychophysical experiments?
 funding:
   - Temporal information in crossmodal stimuli (TICS)
   - "ARME: Augmented Reality Music Ensemble"
@@ -33,6 +38,11 @@ related_labels:
   - duration distortions
   - time shift
   - temporal expectation
+related_topics:
+  - multisensory-perception
+  - extended-reality-virtual-reality
+  - psychophysics
+  - computational-modelling
 ---
 
 Temporal perception asks how time is perceived when there is no dedicated sensory organ for time. The work studies synchrony, temporal order, duration, rhythm, reaction time, recalibration, and the way perceived timing changes with context, expectation, attention, and action.

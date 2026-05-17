@@ -5,8 +5,10 @@
 {{ $fundingTitles := $page.Params.funding | default (slice) }}
 {{ $portfolioSlugs := $page.Params.portfolio | default (slice) }}
 {{ $relatedLabels := $page.Params.related_labels | default (slice) }}
+{{ $relatedTopics := $page.Params.related_topics | default (slice) }}
 {{ $publications := where site.RegularPages "Type" "publication" }}
 {{ $publications = where $publications "Params.tags" "intersect" (slice $topicTag) }}
+{{ $featuredPublications := first 3 (sort $publications "Date" "desc") }}
 
 <article class="article research-topic-page">
   <div class="article-container pt-3">
@@ -31,6 +33,17 @@
     <div class="article-style">
       {{ .Content }}
     </div>
+
+    {{ with $page.Params.key_questions }}
+      <section class="research-topic-block research-topic-block--highlight">
+        <h2>Key Questions</h2>
+        <div class="research-topic-questions">
+          {{ range . }}
+            <div class="research-topic-question">{{ . | markdownify }}</div>
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
 
     {{ with $relatedLabels }}
       <section class="research-topic-block research-topic-block--compact">
@@ -81,24 +94,37 @@
       {{ $fundingPage := site.GetPage "home/funding" }}
       {{ with $fundingPage }}
         <section class="research-topic-block">
-          <h2>Associated Funding</h2>
-          <ul class="research-topic-funding">
+          <h2>Funding Timeline</h2>
+          <ol class="research-topic-timeline">
             {{ range $fundingTitle := $fundingTitles }}
               {{ range .Params.item }}
                 {{ if eq .title $fundingTitle }}
                   {{ $funding := . }}
                   <li>
-                    {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ else }}<strong>{{ .title }}</strong>{{ end }}
-                    {{ with .organization }}<span>, {{ . }}</span>{{ end }}
-                    {{ with .date_start }}<span> ({{ time.Format "2006" . }}{{ with $funding.date_end }}-{{ time.Format "2006" . }}{{ end }})</span>{{ end }}
+                    <div class="research-topic-timeline__date">
+                      {{ with .date_start }}{{ time.Format "2006" . }}{{ with $funding.date_end }}-{{ time.Format "2006" . }}{{ end }}{{ else }}Funding{{ end }}
+                    </div>
+                    <div class="research-topic-timeline__body">
+                      {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ else }}<strong>{{ .title }}</strong>{{ end }}
+                      {{ with .organization }}<span>, {{ . }}</span>{{ end }}
+                    </div>
                     {{ with .description }}<div>{{ . | markdownify }}</div>{{ end }}
                   </li>
                 {{ end }}
               {{ end }}
             {{ end }}
-          </ul>
+          </ol>
         </section>
       {{ end }}
+    {{ end }}
+
+    {{ if gt (len $featuredPublications) 0 }}
+      <section class="research-topic-block">
+        <h2>Featured Publications</h2>
+        {{ range $featuredPublications }}
+          {{ partial "li_citation" . }}
+        {{ end }}
+      </section>
     {{ end }}
 
     <section class="research-topic-block">
@@ -111,6 +137,22 @@
         <p>No publications are currently tagged with this topic.</p>
       {{ end }}
     </section>
+
+    {{ with $relatedTopics }}
+      <section class="research-topic-block">
+        <h2>Related Research Areas</h2>
+        <div class="research-topic-links">
+          {{ range . }}
+            {{ with site.GetPage (printf "research-topic/%s" .) }}
+              <a class="research-topic-link" href="{{ .RelPermalink }}">
+                <span class="research-topic-link__title">{{ .Title }}</span>
+                {{ with .Params.subtitle }}<span class="research-topic-link__summary">{{ . }}</span>{{ end }}
+              </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
 
     {{ partial "page_footer" . }}
   </div>

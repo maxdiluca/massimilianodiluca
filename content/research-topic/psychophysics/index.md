@@ -3,6 +3,11 @@ title: Psychophysics
 subtitle: Measuring perception, action, and user experience
 topic_label: psychophysics
 topic_tag: psychophysics
+key_questions:
+  - What can people detect, discriminate, judge, or act on under controlled sensory conditions?
+  - Which psychophysical methods best estimate thresholds, bias, uncertainty, and response reliability?
+  - How do apparatus, timing, task design, and user experience affect perceptual measurements?
+  - How can behavioural evidence guide haptic, XR, multisensory, and modelling research?
 funding:
   - "Lazy Susan: shipping robotic stimuli for sensory research at a distance"
   - "Taking the rough with the smooth: aging effects on tactile surface texture perception"
@@ -34,6 +39,11 @@ related_labels:
   - perceived duration
   - temporal order judgment
   - force discrimination
+related_topics:
+  - haptics
+  - temporal-perception
+  - multisensory-perception
+  - computational-modelling
 ---
 
 Psychophysics provides the measurement backbone of the research programme. It is used to quantify what people perceive, how reliably they can discriminate sensory signals, how their judgments change with context, and how experimental apparatus affects the signals that reach the observer.

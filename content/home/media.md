@@ -31,4 +31,4 @@ Selected public-facing coverage of research translation, open resources, and eng
 
 ### Perception science
 
-[University of Birmingham: how the brain predicts the future](https://www.birmingham.ac.uk/news-archive/2016/how-the-brain-predicts-the-future) · [Neuroscience News: time perception and expectation](https://neurosciencenews.com/time-perception-neuroscience-4675/)
+[University of Birmingham: humans perceive time somewhere in between reality and expectations](https://www.birmingham.ac.uk/news-archive/2016/humans-perceive-time-somewhere-in-between-reality-and-our-expectations) · [University of Birmingham: how the brain predicts the future](https://www.birmingham.ac.uk/news-archive/2016/how-the-brain-predicts-the-future) · [Neuroscience News: time perception and expectation](https://neurosciencenews.com/time-perception-neuroscience-4675/)
