@@ -47,5 +47,10 @@ abstract: When planning interactions with nearby objects, our brain uses visual 
 publication: '*NeuroImage*'
 url_project: http://www.sciencedirect.com/science/article/pii/S1053811916000021 https://linkinghub.elsevier.com/retrieve/pii/S1053811916000021
 doi: 10.1016/j.neuroimage.2015.12.054
+media_links:
+- name: How does the brain feel objects?
+  source: University of Birmingham
+  date: '2016'
+  url: 'https://www.birmingham.ac.uk/news-archive/2016/how-does-the-brain-feel-objects-1'
 ---
 {{< paper_badges "10.1016/j.neuroimage.2015.12.054" >}}

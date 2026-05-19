@@ -832,6 +832,41 @@ $light-grey: #E3E3E5;
   align-items: center;
 }
 
+.publication-media {
+  margin: 1.5rem 0 1.75rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid rgba(38, 50, 56, .12);
+  border-radius: 8px;
+  background: rgba(246, 249, 250, .82);
+}
+
+.publication-media h3 {
+  margin-top: 0;
+}
+
+.publication-media__list {
+  display: grid;
+  gap: .55rem;
+  margin-bottom: 0;
+  padding-left: 1.1rem;
+}
+
+.publication-media__source,
+.publication-media__date {
+  color: var(--tag-cloud-muted, #6d7881);
+  font-size: .9rem;
+}
+
+.publication-media__source::before,
+.publication-media__date::before {
+  content: " - ";
+}
+
+.dark .publication-media {
+  border-color: rgba(232, 242, 239, .13);
+  background: rgba(29, 36, 39, .82);
+}
+
 @-webkit-keyframes tag-cloud-reveal {
   from {
     opacity: 0;

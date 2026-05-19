@@ -44,6 +44,11 @@ abstract: "Distortions of perceived duration can give crucial insights into the 
 publication: '*NeuroImage*'
 url_pdf: 'https://research.birmingham.ac.uk/files/48798895/Horr_et_al_Perceived_time_temporal_structure_NeuroImage.pdf'
 doi: 10.1016/j.neuroimage.2016.02.011
+media_links:
+- name: How long is a second?
+  source: University of Birmingham
+  date: '2016'
+  url: 'https://www.birmingham.ac.uk/news-archive/2016/how-long-is-a-second-1'
 ---
 
 {{< paper_badges "10.1016/j.neuroimage.2016.02.011" >}}

@@ -50,6 +50,15 @@ url_pdf: 'https://research.birmingham.ac.uk/files/116774658/CHI_2021_Locomotion_
 url_project: http://locomotionvault.github.io
 doi: 10.1145/3411764.3445319
 url_code: https://github.com/locomotionvault/locomotionvault.github.io
+media_links:
+- name: Locomotion Vault will help guide innovations in virtual reality locomotion
+  source: University of Birmingham
+  date: '2021'
+  url: 'https://www.birmingham.ac.uk/news-archive/2021/locomotion-vault-will-help-guide-innovations-in-virtual-reality-locomotion'
+- name: Locomotion Vault will help guide innovations in VR locomotion
+  source: ScienceDaily
+  date: '2021'
+  url: 'https://www.sciencedaily.com/releases/2021/05/210512115533.htm'
 ---
 {{< paper_badges "10.1145/3411764.3445319">}}
 

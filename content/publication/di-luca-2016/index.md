@@ -44,6 +44,15 @@ abstract: The environment has a temporal structure, and knowing when a stimulus 
 publication: '*Scientific Reports*'
 url_project: http://www.nature.com/articles/srep28563
 doi: 10.1038/srep28563
+media_links:
+- name: How the brain predicts the future
+  source: University of Birmingham
+  date: '2016'
+  url: 'https://www.birmingham.ac.uk/news-archive/2016/how-the-brain-predicts-the-future'
+- name: Time perception and expectation
+  source: Neuroscience News
+  date: '2016'
+  url: 'https://neurosciencenews.com/time-perception-neuroscience-4675/'
 ---
 
 

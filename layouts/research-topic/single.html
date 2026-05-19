@@ -8,7 +8,7 @@
 {{ $relatedTopics := $page.Params.related_topics | default (slice) }}
 {{ $publications := where site.RegularPages "Type" "publication" }}
 {{ $publications = where $publications "Params.tags" "intersect" (slice $topicTag) }}
-{{ $featuredPublications := first 3 (sort $publications "Date" "desc") }}
+{{ $featuredPublications := where $publications "Params.featured" true }}
 
 <article class="article research-topic-page">
   <div class="article-container pt-3">
@@ -121,7 +121,7 @@
     {{ if gt (len $featuredPublications) 0 }}
       <section class="research-topic-block">
         <h2>Featured Publications</h2>
-        {{ range $featuredPublications }}
+        {{ range sort $featuredPublications "Date" "desc" }}
           {{ partial "li_citation" . }}
         {{ end }}
       </section>

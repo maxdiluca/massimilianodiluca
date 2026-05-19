@@ -67,6 +67,11 @@ url_video: 'https://dl.acm.org/doi/suppl/10.1145/3706598.3713382/suppl_file/pn72
 links:
 - name: Website
   url: https://xrtexttrove.github.io/
+media_links:
+- name: XR Text Trove catalogues text input techniques for VR and AR
+  source: Road to VR
+  date: '2025'
+  url: 'https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/'
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

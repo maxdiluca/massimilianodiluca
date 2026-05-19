@@ -53,6 +53,11 @@ url_pdf: 'https://research.birmingham.ac.uk/files/133155640/Kawazoe_2021.pdf'
 
 url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25349/D9BS5G'
 url_video: 'https://www.youtube.com/watch?v=HrR5WuPiMmU'
+media_links:
+- name: New AR system alters sight, sound, and touch
+  source: IEEE Spectrum
+  date: '2021'
+  url: 'https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/new-ar-system-alters-sight-sound-and-touch'
 
 ---
 
@@ -62,6 +67,3 @@ url_video: 'https://www.youtube.com/watch?v=HrR5WuPiMmU'
 
 
 {{< paper_badges "10.1109/TOH.2021.3084117" >}}
-
-
-https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/new-ar-system-alters-sight-sound-and-touch

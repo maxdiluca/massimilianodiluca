@@ -44,5 +44,10 @@ publication: '*PLOS ONE*'
 url_project: http://dx.plos.org/10.1371/journal.pone.0159842
 url_code: https://osf.io/zy6uc/
 doi: 10.1371/journal.pone.0159842
+media_links:
+- name: Humans perceive time somewhere in between reality and expectations
+  source: University of Birmingham
+  date: '2016'
+  url: 'https://www.birmingham.ac.uk/news-archive/2016/humans-perceive-time-somewhere-in-between-reality-and-our-expectations'
 ---
 {{< paper_badges "10.1371/journal.pone.0159842" >}}
