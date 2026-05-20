@@ -16,7 +16,7 @@ organizations:
   url: https://www.birmingham.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in Psychology and Computer Science at the University of Birmingham, leading interdisciplinary research in multisensory perception, extended reality, haptics, and computational cognitive science.
+bio: Associate Professor in Psychology and Computer Science at the University of Birmingham, studying human perception and interaction in dynamic, technology-mediated environments.
 
 # Research areas to show in About widget
 interests:
@@ -97,6 +97,6 @@ email: ""
 highlight_name: true
 ---
 
-Massimiliano Di Luca is Associate Professor in Psychology and Computer Science at the University of Birmingham. He is an interdisciplinary research leader in multisensory perception, extended reality, haptics, and computational cognitive science. His research programme combines multisensory perception, haptics, computational modelling, and XR technologies to understand human interaction with dynamic environments and to design perceptually grounded immersive systems. He leads interdisciplinary research, infrastructure, software, datasets, and translational activity across Psychology, Computer Science, [BhamXR](https://www.birmingham.ac.uk/research/centres-institutes/bhamxr), the [University of Birmingham VR Lab](https://virtualrealitylab.netlify.app/), and industry-facing projects including [ARME](https://arme-project.co.uk/) and [MyJAMS](https://myjamsltd.netlify.app/).
+Massimiliano Di Luca is Associate Professor in Psychology and Computer Science at the University of Birmingham. His research asks how people perceive, predict, and act in dynamic environments, and how that knowledge can be used to design technologies that feel responsive, intelligible, and grounded in human behaviour.
 
-His work has produced funded research programmes, open research resources, software, public datasets, industry collaborations, spin-out activity, and interdisciplinary infrastructure for XR, haptics, and multisensory perception.
+He leads interdisciplinary research, infrastructure, software, datasets, and translational activity across Psychology, Computer Science, [BhamXR](https://www.birmingham.ac.uk/research/centres-institutes/bhamxr), the [University of Birmingham VR Lab](https://virtualrealitylab.netlify.app/), and industry-facing projects including [ARME](https://arme-project.co.uk/) and [MyJAMS](https://myjamsltd.netlify.app/). His work has produced funded research programmes, open resources, public datasets, industry collaborations, spin-out activity, and tools used by research and creative communities.

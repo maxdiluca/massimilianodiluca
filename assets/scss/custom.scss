@@ -254,8 +254,14 @@ $light-grey: #E3E3E5;
   flex-direction: column;
 }
 .experience-image {
-  max-width: 60px;
+  flex: 0 0 60px;
+  width: 60px;
   margin-right: 10px;
+}
+.experience-image img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 /* tag cloud */
 .tag-cloud-nav {
