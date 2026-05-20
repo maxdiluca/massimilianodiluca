@@ -18,13 +18,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Associate Professor in Psychology and Computer Science at the University of Birmingham, leading interdisciplinary research in multisensory perception, extended reality, haptics, and computational cognitive science.
 
-# Interests to show in About widget
+# Research areas to show in About widget
 interests:
-- Virtual and mixed reality
-- Haptics
-- Multisensory perception
-- Computational modelling
-- Human movement and interaction
+- "[Haptics](/research-topic/haptics/)"
+- "[Multisensory Perception](/research-topic/multisensory-perception/)"
+- "[Extended Reality](/research-topic/extended-reality-virtual-reality/)"
+- "[Temporal Perception](/research-topic/temporal-perception/)"
+- "[Psychophysics](/research-topic/psychophysics/)"
+- "[Computational Modelling](/research-topic/computational-modelling/)"
 
 # Education to show in About widget
 education:
@@ -99,11 +100,3 @@ highlight_name: true
 Massimiliano Di Luca is Associate Professor in Psychology and Computer Science at the University of Birmingham. He is an interdisciplinary research leader in multisensory perception, extended reality, haptics, and computational cognitive science. His research programme combines multisensory perception, haptics, computational modelling, and XR technologies to understand human interaction with dynamic environments and to design perceptually grounded immersive systems. He leads interdisciplinary research, infrastructure, software, datasets, and translational activity across Psychology, Computer Science, [BhamXR](https://www.birmingham.ac.uk/research/centres-institutes/bhamxr), the [University of Birmingham VR Lab](https://virtualrealitylab.netlify.app/), and industry-facing projects including [ARME](https://arme-project.co.uk/) and [MyJAMS](https://myjamsltd.netlify.app/).
 
 His work has produced funded research programmes, open research resources, software, public datasets, industry collaborations, spin-out activity, and interdisciplinary infrastructure for XR, haptics, and multisensory perception.
-
-**Profile at a glance**
-
-**Research areas:** multisensory perception; XR; haptics; temporal perception; computational modelling; human-AI interaction  
-**Leadership:** [University of Birmingham VR Lab](https://virtualrealitylab.netlify.app/); [BhamXR](https://www.birmingham.ac.uk/research/centres-institutes/bhamxr); [ARME](https://arme-project.co.uk/)  
-**Funding:** Meta/Facebook Reality Labs, Google, Procter & Gamble, UKRI, EPSRC, BBSRC  
-**Outputs:** peer-reviewed articles, datasets, software, demos, patents, public resources, translational activity
- 
