@@ -39,7 +39,7 @@ description = """Role: PI / network role. Purpose and outcome: doctoral network 
 
 [[item]]
 
-running = false
+running = true
 organization = "Digital Catapult / CreaTech Frontiers"
 organization_url = "https://www.digicatapult.org.uk/programmes/programme/createch-frontiers/"
 logo = "accomplishments-logos/createch-frontiers.svg"

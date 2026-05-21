@@ -48,7 +48,7 @@ tags:
 - 'measurement method'
 - 'human-computer interaction'
 - 'extended reality / virtual reality'
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://research.birmingham.ac.uk/files/186972704/s13428_022_02051_8.pdf'
