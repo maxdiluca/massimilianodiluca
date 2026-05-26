@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-weight = 998
+weight = 50
 
 title = "Opportunities"
 subtitle = ""

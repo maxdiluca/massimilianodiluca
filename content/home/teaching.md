@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-weight = 45
+weight = 60
 
 title = "Teaching and Supervision"
 subtitle = ""

@@ -15,6 +15,21 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+[[headers]]
+  for = "/"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/*/"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
 [[plugins]]
   package = "netlify-plugin-image-optim"
 
