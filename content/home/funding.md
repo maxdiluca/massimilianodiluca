@@ -34,7 +34,7 @@ url = "https://explora-network.github.io/web/index.html"
 certificate_url = ""
 date_start = "2026-02-26"
 date_end = "2030-08-30"
-description = """Role: PI / network role. Purpose and outcome: doctoral network on active perception of materials, objects, and spaces."""
+description = """PI/network role in a Horizon Europe doctoral network on active perception of materials, objects, and spaces."""
 
 
 [[item]]
@@ -48,7 +48,7 @@ url = "https://iuk-business-connect.org.uk/opportunities/createch-frontiers-grow
 certificate_url = ""
 date_start = "2026-04-01"
 date_end = "2026-09-30"
-description = """Role: academic partner. Purpose and outcome: accelerator support for West Midlands creative technology businesses, helping participants progress from proof of concept toward growth goals through bespoke scaling support, access to finance, partnerships, and audiences in the creative industries."""
+description = """Academic partner supporting West Midlands creative technology businesses as they move from proof of concept toward growth, finance, partnerships, and audiences."""
 
 
 [[item]]
@@ -62,7 +62,7 @@ url = ""
 certificate_url = ""
 date_start = "2025-07-25"
 date_end = "2027-07-24"
-description = """Role: PI. Purpose and outcome: open resource and analysis of XR text entry techniques, connected to the CHI 2025 TEXT paper."""
+description = """PI for an open resource and analysis of XR text entry techniques, connected to the CHI 2025 TEXT paper."""
 
 
 [[item]]
@@ -76,7 +76,7 @@ url = ""
 certificate_url = ""
 date_start = "2025-04-10"
 date_end = "2025-06-11"
-description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for [ARME](https://arme-project.co.uk/) outputs."""
+description = """Commercialisation support for the spin-out pathway from [ARME](https://arme-project.co.uk/) research outputs."""
 
 
 
@@ -92,7 +92,7 @@ url = ""
 certificate_url = ""
 date_start = "2024-11-10"
 date_end = "2025-03-11"
-description = """Role: lead / spin-out. Purpose and outcome: commercialisation pathway for [ARME](https://arme-project.co.uk/) outputs."""
+description = """Early-stage commercial exploration for translating [ARME](https://arme-project.co.uk/) outputs into wider use."""
 
 
 
@@ -108,7 +108,7 @@ url = ""
 certificate_url = ""
 date_start = "2024-07-10"
 date_end = "2026-07-11"
-description = """Role: PI. Purpose and outcome: open resource and analysis of XR text entry and immersive interaction techniques."""
+description = """PI for an open resource analysing XR text entry and immersive interaction techniques."""
 
 
 [[item]]
@@ -122,7 +122,7 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2024-03-01"
 date_end = "2024-09-30"
-description = """Impact Acceleration Award. Role: PI. Purpose and outcome: app, exhibition, and impact translation from [ARME](https://arme-project.co.uk/)."""
+description = """Impact Acceleration Award supporting an app, exhibition, and public engagement pathway from [ARME](https://arme-project.co.uk/)."""
 
 
 [[item]]
@@ -136,7 +136,7 @@ url = "https://arme-project.co.uk"
 certificate_url = ""
 date_start = "2023-09-01"
 date_end = "2024-03-31"
-description = """Impact Acceleration Award. Role: PI. Purpose and outcome: app, exhibition, and impact translation from [ARME](https://arme-project.co.uk/)."""
+description = """Impact Acceleration Award developing app-based rehearsal and translation activity from [ARME](https://arme-project.co.uk/)."""
 
 
 [[item]]
@@ -150,7 +150,7 @@ url = "https://arme-project.co.uk"
 certificate_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1"
 date_start = "2021-09-01"
 date_end = "2025-08-31"
-description = """Role: PI / scientific lead. Purpose and outcome: AR/XR systems for distributed music rehearsal and performance."""
+description = """PI/scientific lead on AR/XR systems for distributed music rehearsal and performance."""
 
 
 
@@ -164,7 +164,7 @@ url = ""
 certificate_url = ""
 date_start = "2021-04-01"
 date_end = "2022-04-01"
-description = "Equipment donation. Role: PI."
+description = "Equipment donation supporting movement tracking and evaluation research."
 
 [[item]]
 running = false
@@ -176,7 +176,7 @@ url = ""
 certificate_url = ""
 date_start = "2021-03-01"
 date_end = "2022-02-14"
-description = "Role: PI."
+description = "PI on a remote-research project using shippable robotic stimuli for sensory experiments at a distance."
 
 
 
@@ -191,7 +191,7 @@ url = ""
 certificate_url = "https://gtr.ukri.org/projects?ref=ES%2FV007904%2F1"
 date_start = "2021-03-01"
 date_end = "2022-02-10"
-description = "UK/Ireland networking grant, co-I with Harriet Allen and Fiona Newell"
+description = "Co-I on a UK/Ireland networking grant with Harriet Allen and Fiona Newell."
 
 
 [[item]]
@@ -204,7 +204,7 @@ url = "https://aging-touch.netlify.app"
 certificate_url = "https://gtr.ukri.org/projects?ref=BB%2FR003971%2F1"
 date_start = "2018-01-01"
 date_end = "2021-08-31"
-description = "Role: Co-PI. In collaboration with P&G."
+description = "Co-PI on BBSRC-supported research into tactile surface texture perception and ageing, in collaboration with P&G."
 
 
 
@@ -218,7 +218,7 @@ url = ""
 certificate_url = ""
 date_start = "2017-03-01"
 date_end = "2017-10-30"
-description = "Industry-supported research agreement. Role: co-PI."
+description = "Co-PI on industry-supported research into perceived package quality."
 
 
 
@@ -232,7 +232,7 @@ url = ""
 certificate_url = ""
 date_start = "2015-03-01"
 date_end = "2016-02-28"
-description = "Industry-supported research agreement. Role: co-PI."
+description = "Co-PI on industry-supported user assessment of industrial glove function."
 
 
 
@@ -246,7 +246,7 @@ url = ""
 certificate_url = ""
 date_start = "2014-09-01"
 date_end = "2015-08-31"
-description = "Industry-supported research agreement. Role: co-PI."
+description = "Co-PI on industry-supported analysis of squeezing movements and product interaction."
 
 
 [[item]]
@@ -259,7 +259,7 @@ url = ""
 certificate_url = ""
 date_start = "2015-06-01"
 date_end = "2015-11-30"
-description = "Industry-supported research agreement. Role: PI."
+description = "PI on industry-supported research into softness perception during pinch grasp."
 
 [[item]]
 running = false
@@ -271,7 +271,7 @@ url = ""
 certificate_url = ""
 date_start = "2014-03-01"
 date_end = "2014-07-31"
-description = "Industry-supported research agreement. Role: PI."
+description = "PI on industry-supported research into roughness perception during simulated self-touch."
 
 
 [[item]]
@@ -284,7 +284,7 @@ url = ""
 certificate_url = "https://cordis.europa.eu/project/id/304235"
 date_start = "2012-06-01"
 date_end = "2016-05-31"
-description = "Career Integration Grant, PI"
+description = "PI on a Marie Curie Career Integration Grant studying temporal information in crossmodal stimuli."
 
 
 
@@ -298,5 +298,5 @@ url = ""
 certificate_url = ""
 date_start = "2012-05-01"
 date_end = "2013-04-30"
-description = "Research grant, PI"
+description = "PI on a Royal Society grant studying haptic perception of softness."
 +++

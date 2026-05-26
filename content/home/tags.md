@@ -66,4 +66,4 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-Di Luca's research asks how people perceive, predict, and act in dynamic environments, and how that knowledge can be used to design immersive systems that feel responsive, intelligible, and perceptually grounded.
+These themes connect basic perceptual science with usable systems: haptic devices, XR interaction techniques, timing methods, computational models, open datasets, and tools for research and creative practice.

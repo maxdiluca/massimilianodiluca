@@ -79,7 +79,7 @@ subtitle = ""
 
 
 
-Di Luca's work asks how people perceive, predict, and act in dynamic environments, and how that knowledge can be used to design immersive systems that feel responsive, intelligible, and perceptually grounded.
+This research programme connects perception science with immersive systems, asking how timing, uncertainty, action, and multisensory feedback shape experience and behaviour.
 
 The programme combines psychophysics, signal processing, computational modelling, machine learning, and immersive technologies to study the timing, reliability, and action-dependence of sensory information. It spans perception science, haptics, mixed reality, human movement, music performance, and human-AI interaction.
 
