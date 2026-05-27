@@ -21,7 +21,6 @@ header:
   <head>
     <title>https://massimilianodiluca.info</title>
     <link rel="canonical" href="https://massimilianodiluca.info"/>
-    <meta name="robots" content="noindex">
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="refresh" content="0; url=https://massimilianodiluca.info"/>
   </head>
