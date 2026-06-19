@@ -25,6 +25,9 @@ main:
   - name: Funding
     url: '#funding'
     weight: 70
+  - name: Talk map
+    url: '/talkmap/'
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80

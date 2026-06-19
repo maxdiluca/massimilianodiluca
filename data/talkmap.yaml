@@ -1,0 +1,16 @@
+# Talk map locations.
+#
+# Add one entry per talk or presentation. Coordinates should be decimal degrees.
+# Entries without latitude or longitude are ignored by the map.
+talks: []
+
+# Example entry:
+# talks:
+#   - title: "Perception, Haptics, and Extended Reality"
+#     event: "Example seminar"
+#     date: "2026"
+#     location: "Birmingham, United Kingdom"
+#     latitude: 52.4862
+#     longitude: -1.8904
+#     url: "/talk/example/"
+#     description: "Optional short note shown in the map popup."

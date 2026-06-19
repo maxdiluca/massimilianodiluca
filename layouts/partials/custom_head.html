@@ -1,0 +1,4 @@
+{{ if eq .Type "talkmap" }}
+  {{ $css := site.Data.assets.css }}
+  {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.leaflet.url $css.leaflet.version) $css.leaflet.sri | safeHTML }}
+{{ end }}

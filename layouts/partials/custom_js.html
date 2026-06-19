@@ -36,3 +36,90 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+
+{{ if eq .Type "talkmap" }}
+{{ $js := site.Data.assets.js }}
+{{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.leaflet.url $js.leaflet.version) $js.leaflet.sri | safeHTML }}
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var mapEl = document.getElementById('talkmap');
+  var dataEl = document.getElementById('talkmap-data');
+
+  if (!mapEl || !dataEl || typeof L === 'undefined') {
+    return;
+  }
+
+  var talks = [];
+  try {
+    talks = JSON.parse(dataEl.textContent || '[]');
+  } catch (error) {
+    talks = [];
+  }
+
+  function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"']/g, function (char) {
+      return {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+      }[char];
+    });
+  }
+
+  function popupHtml(talk) {
+    var title = escapeHtml(talk.title);
+    var titleHtml = talk.url
+      ? '<a href="' + encodeURI(talk.url) + '">' + title + '</a>'
+      : title;
+    var rows = [talk.date, talk.event, talk.location].filter(Boolean).map(escapeHtml);
+    var description = talk.description ? '<p>' + escapeHtml(talk.description) + '</p>' : '';
+
+    return '<div class="talkmap-popup"><strong>' + titleHtml + '</strong>' +
+      (rows.length ? '<div>' + rows.join('<br>') + '</div>' : '') +
+      description + '</div>';
+  }
+
+  var map = L.map(mapEl, {
+    scrollWheelZoom: false
+  });
+
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.openstreetmap.org/fixthemap">Report a map issue</a>'
+  }).addTo(map);
+
+  var bounds = [];
+  talks.forEach(function (talk, index) {
+    var latitude = parseFloat(talk.latitude);
+    var longitude = parseFloat(talk.longitude);
+
+    if (!Number.isFinite(latitude) || !Number.isFinite(longitude)) {
+      return;
+    }
+
+    var marker = L.marker([latitude, longitude]).addTo(map);
+    marker.bindPopup(popupHtml(talk));
+    bounds.push([latitude, longitude]);
+
+    var listItem = document.querySelector('[data-talk-index="' + index + '"]');
+    if (listItem) {
+      listItem.addEventListener('click', function () {
+        map.setView([latitude, longitude], Math.max(map.getZoom(), 6));
+        marker.openPopup();
+      });
+    }
+  });
+
+  if (bounds.length) {
+    map.fitBounds(bounds, {
+      padding: [36, 36],
+      maxZoom: 8
+    });
+  } else {
+    map.setView([20, 0], 2);
+  }
+});
+</script>
+{{ end }}

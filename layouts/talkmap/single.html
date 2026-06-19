@@ -1,0 +1,75 @@
+{{- define "main" -}}
+
+{{ $rawTalks := site.Data.talkmap.talks | default (slice) }}
+{{ $mappedTalks := slice }}
+{{ range $rawTalks }}
+  {{ if and .latitude .longitude }}
+    {{ $mappedTalks = $mappedTalks | append (dict
+      "title" (.title | default "Untitled talk")
+      "event" (.event | default "")
+      "date" (.date | default "")
+      "location" (.location | default "")
+      "latitude" .latitude
+      "longitude" .longitude
+      "url" (.url | default "")
+      "description" (.description | default "")
+    ) }}
+  {{ end }}
+{{ end }}
+
+<article class="article talkmap-page">
+
+  <div class="article-container pt-3">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+    <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
+    {{ end }}
+  </div>
+
+  <div class="article-container">
+    {{ with .Content }}
+    <div class="article-style talkmap-intro">{{ . }}</div>
+    {{ end }}
+
+    <div class="talkmap-shell">
+      <div
+        id="talkmap"
+        class="talkmap-canvas"
+        data-empty="{{ if eq (len $mappedTalks) 0 }}true{{ else }}false{{ end }}"
+        aria-label="Talk map"
+      ></div>
+      <script id="talkmap-data" type="application/json">{{ $mappedTalks | jsonify | safeJS }}</script>
+    </div>
+
+    {{ if gt (len $mappedTalks) 0 }}
+    <ol class="talkmap-list">
+      {{ range $index, $talk := $mappedTalks }}
+      <li class="talkmap-list__item" data-talk-index="{{ $index }}">
+        <div class="talkmap-list__marker" aria-hidden="true"></div>
+        <div class="talkmap-list__body">
+          <h2>
+            {{ with $talk.url }}<a href="{{ . }}">{{ end }}
+            {{ $talk.title }}
+            {{ with $talk.url }}</a>{{ end }}
+          </h2>
+          <div class="talkmap-list__meta">
+            {{ with $talk.date }}<span>{{ . }}</span>{{ end }}
+            {{ with $talk.event }}<span>{{ . }}</span>{{ end }}
+            {{ with $talk.location }}<span>{{ . }}</span>{{ end }}
+          </div>
+          {{ with $talk.description }}
+          <p>{{ . }}</p>
+          {{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ol>
+    {{ else }}
+    <p class="talkmap-empty">Talk locations will appear here soon.</p>
+    {{ end }}
+
+    {{ partial "page_footer" . }}
+  </div>
+</article>
+
+{{- end -}}
