@@ -4,10 +4,16 @@
 {{ $mappedTalks := slice }}
 {{ range $rawTalks }}
   {{ if and .latitude .longitude }}
+    {{ $sortDate := .sort_date | default .date | default "" }}
+    {{ $sortKey := replace $sortDate "-" "" }}
+    {{ if eq (len $sortKey) 4 }}
+      {{ $sortKey = printf "%s0000" $sortKey }}
+    {{ end }}
     {{ $mappedTalks = $mappedTalks | append (dict
       "title" (.title | default "Untitled talk")
       "event" (.event | default "")
       "date" (.date | default "")
+      "sort_key" (int ($sortKey | default "0"))
       "location" (.location | default "")
       "latitude" .latitude
       "longitude" .longitude
@@ -16,6 +22,7 @@
     ) }}
   {{ end }}
 {{ end }}
+{{ $mappedTalks = sort $mappedTalks "sort_key" "desc" }}
 
 <article class="article talkmap-page">
 

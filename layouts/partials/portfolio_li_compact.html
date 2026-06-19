@@ -1,0 +1,7 @@
+{{ $item := .item }}
+{{ $portfolio_tags := $item.Params.portfolio_tags | default $item.Params.tags | default (slice) }}
+{{ $js_tag_classes := delimit (apply (apply $portfolio_tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+<div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+  {{ partial "li_compact" $item }}
+</div>

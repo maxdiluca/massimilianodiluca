@@ -1,16 +1,355 @@
 # Talk map locations.
 #
-# Add one entry per talk or presentation. Coordinates should be decimal degrees.
-# Entries without latitude or longitude are ignored by the map.
-talks: []
+# Source: Di Luca CV, /Users/m.diluca@bham.ac.uk/GitHub/cv-test/cv-diluca-2025.pdf
+# Parsed primarily from Appendix D: Talks, plus explicit public/seminar talk
+# entries from the CV knowledge-exchange and widening-participation sections.
+#
+# Coordinates are city- or venue-level coordinates geocoded with OpenStreetMap
+# Nominatim on 2026-06-19. The following CV talk rows were not mapped because
+# the CV text did not give a defensible map location:
+# - 25/11/2019, Computational Modeling and Applications, BBSRC Bioscience for Health Strategy Advisory Panel
+# - 29/09/2020, State of haptic technology, Human-Robot Interaction Workshop, RAIN hub
 
-# Example entry:
-# talks:
-#   - title: "Perception, Haptics, and Extended Reality"
-#     event: "Example seminar"
-#     date: "2026"
-#     location: "Birmingham, United Kingdom"
-#     latitude: 52.4862
-#     longitude: -1.8904
-#     url: "/talk/example/"
-#     description: "Optional short note shown in the map popup."
+talks:
+  - title: "Scheduled invited talk on hands, VR, and interdisciplinary XR work"
+    event: "Birmingham Transformative Humanities Lab Interactions Lunch, University of Birmingham"
+    date: "2026-05-13"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4504333
+    longitude: -1.9320033
+    description: "Invited UK talk; invited by Aaron Cox."
+
+  - title: "ARME seminar and live demonstration"
+    event: "Museum of Music History seminar, Wolfson College"
+    date: "2025"
+    location: "Oxford, United Kingdom"
+    latitude: 51.7711141
+    longitude: -1.2543479
+    url: "https://momh.org.uk/event/seminar-augmented-reality-music-ensemble-arme/"
+    description: "Seminar and live demonstration listed in the CV knowledge-transfer record."
+
+  - title: "Haptics in VR"
+    event: "VR Society talk series, University of Birmingham / BhamXR student society"
+    date: "2024"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4504333
+    longitude: -1.9320033
+    description: "Invited UK talk."
+
+  - title: "Invited VR Lab talk / academic visit"
+    event: "University of Birmingham"
+    date: "2024-02-29"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4504333
+    longitude: -1.9320033
+    description: "Invited UK talk; invited by Hyunyoung Kim."
+
+  - title: "Touch in virtual reality"
+    event: "Touch Assessment Workshop, University of Birmingham"
+    date: "2023-03-15"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4504333
+    longitude: -1.9320033
+    description: "Invited UK talk."
+
+  - title: "Is Digital Poverty the New Global Crisis?"
+    event: "Dubai Future Forum"
+    date: "2022-10-11"
+    location: "Dubai, United Arab Emirates"
+    latitude: 25.0742823
+    longitude: 55.1885387
+    url: "https://www.dubaifuture.ae/dubaifutureforum/"
+    description: "Plenary talk."
+
+  - title: "Computational Modelling of Perception and Action"
+    event: "The present and the future of AI"
+    date: "2022-07-28"
+    location: "Konstanz, Germany"
+    latitude: 47.659216
+    longitude: 9.1750718
+    url: "https://sites.google.com/view/ai-konstanz"
+    description: "Invited non-UK talk."
+
+  - title: "Visual-haptic perception in VR"
+    event: "Dyvito summer school"
+    date: "2019-12-03"
+    location: "Giessen, Germany"
+    latitude: 50.5862066
+    longitude: 8.6742306
+    description: "Plenary talk."
+
+  - title: "Perception of multisensory impedance"
+    event: "World Haptics 2019"
+    date: "2019-09-07"
+    location: "Tokyo, Japan"
+    latitude: 35.6768601
+    longitude: 139.7638947
+    description: "Plenary talk."
+
+  - title: "Optimal temporal perception"
+    event: "Seminar, Scuola Internazionale Superiore di Studi Avanzati"
+    date: "2019-06-19"
+    location: "Trieste, Italy"
+    latitude: 45.6496485
+    longitude: 13.7772781
+    description: "Invited non-UK talk; invited by Michele Fornaciai and Domenica Bueti."
+
+  - title: "Hand-based VR interaction"
+    event: "Workshop on Haptic and Audio Interaction Design (HAID)"
+    date: "2019-03-13"
+    location: "Lille, France"
+    latitude: 50.6365654
+    longitude: 3.0635282
+    description: "Plenary talk."
+
+  - title: "Institute of Biomechanics invited talk"
+    event: "University of Washington"
+    date: "2019-02-28"
+    location: "Seattle, Washington, United States"
+    latitude: 47.6038321
+    longitude: -122.330062
+    description: "Invited non-UK talk."
+
+  - title: "Measures of Perception"
+    event: "Thought Experiments, Infinitybox"
+    date: "2018-10-04"
+    location: "Seattle, Washington, United States"
+    latitude: 47.6038321
+    longitude: -122.330062
+    url: "https://www.facebook.com/events/265280830985486/265280840985485/?active_tab=about"
+    description: "Theatrical play and panel about virtual reality."
+
+  - title: "Having or being a body in VR"
+    event: "Cog/Per seminar, University of Washington"
+    date: "2018-10-23"
+    location: "Seattle, Washington, United States"
+    latitude: 47.6038321
+    longitude: -122.330062
+    description: "Invited non-UK talk."
+
+  - title: "Multisensory research in VR"
+    event: "4th Psychonomic Society Leading Edge Workshop"
+    date: "2018-09-05"
+    location: "Amsterdam, Netherlands"
+    latitude: 52.3730796
+    longitude: 4.8924534
+    description: "Plenary talk."
+
+  - title: "Multisensory VR"
+    event: "Human-Computer Interaction seminar, University of Washington"
+    date: "2018-05-14"
+    location: "Seattle, Washington, United States"
+    latitude: 47.6038321
+    longitude: -122.330062
+    description: "Invited non-UK talk."
+
+  - title: "What makes sense for your senses?"
+    event: "Pint of Science, British Neuroscience Festival"
+    date: "2017-05-07"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4948994
+    longitude: -1.8518439
+    url: "https://pintofscience.co.uk/event/perspectives-on-perception"
+    description: "Public talk."
+
+  - title: "Softness perception"
+    event: "Seminar, Durham University"
+    date: "2016-07-08"
+    location: "Durham, United Kingdom"
+    latitude: 54.7672268
+    longitude: -1.5721956
+    description: "Invited UK talk."
+
+  - title: "Multisensory models of softness perception"
+    event: "Seminar, University of Sussex"
+    date: "2016-07-01"
+    location: "Brighton, United Kingdom"
+    latitude: 50.869439
+    longitude: -0.0888082
+    description: "Invited UK talk."
+
+  - title: "Influence of regular sequences on perceived time"
+    event: "University of Tubingen"
+    date: "2015-06-29"
+    location: "Tubingen, Germany"
+    latitude: 48.5203263
+    longitude: 9.053596
+    description: "Invited non-UK talk."
+
+  - title: "Looking beyond the horizon of audiovisual simultaneity"
+    event: "International Multisensory Research Forum (IMRF)"
+    date: "2015-06-15"
+    location: "Pisa, Italy"
+    latitude: 43.4714722
+    longitude: 10.6797912
+    description: "Plenary talk."
+
+  - title: "Too much information?"
+    event: "Pint of Science, Cherry Reds"
+    date: "2015-05-18"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4770189
+    longitude: -1.9011612
+    url: "https://www.birmingham.ac.uk/schools/psychology/news-events/2015/18-20May15-pintofscience.aspx"
+    description: "Public talk."
+
+  - title: "Probabilistic aspects of time perception"
+    event: "NTNU"
+    date: "2014-09-23"
+    location: "Trondheim, Norway"
+    latitude: 63.4304475
+    longitude: 10.3952118
+    description: "Invited non-UK talk; invited by Dawn Maria Behne."
+
+  - title: "Multisensory compliance"
+    event: "Vision leads to action workshop, University of Birmingham"
+    date: "2014-06-03"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4504333
+    longitude: -1.9320033
+    description: "Invited UK talk."
+
+  - title: "Perceived simultaneity with crossmodal pairs of stimuli"
+    event: "Workshop, International Conference on Timing and Time Perception (ICTTP)"
+    date: "2014-04-02"
+    location: "Corfu, Greece"
+    latitude: 39.591337
+    longitude: 19.8596189
+    description: "Plenary talk."
+
+  - title: "Finger placement choice on shapes with uncertain position"
+    event: "University of Hamburg"
+    date: "2013-12-19"
+    location: "Hamburg, Germany"
+    latitude: 53.5501721
+    longitude: 10.0013165
+    description: "Invited non-UK talk; invited by Rachel Foster and Volker Franz."
+
+  - title: "Temporal expectations in audiovisual stimuli"
+    event: "Medical Campus Magdeburg / University of Oldenburg"
+    date: "2013-11-15"
+    location: "Magdeburg, Germany"
+    latitude: 52.1314783
+    longitude: 11.6400789
+    description: "Invited non-UK talk; invited by Lars Boenke. The CV lists Medical Campus Magdeburg / University of Oldenburg."
+
+  - title: "Bayes in time"
+    event: "Seminar, Sheffield Hallam University"
+    date: "2013-02-20"
+    location: "Sheffield, United Kingdom"
+    latitude: 53.3817264
+    longitude: -1.4627951
+    description: "Invited UK talk."
+
+  - title: "Time perception"
+    event: "University of Barcelona and Universitat Pompeu Fabra"
+    date: "2013-01-18"
+    location: "Barcelona, Spain"
+    latitude: 41.3825802
+    longitude: 2.177073
+    description: "Invited non-UK talk; invited by Salvador Soto-Faraco."
+
+  - title: "Multisensory abstractions"
+    event: "Extra Special People, Eastside Projects art gallery"
+    date: "2012-11-27"
+    location: "Birmingham, United Kingdom"
+    latitude: 52.4766337
+    longitude: -1.8822726
+    url: "https://eastsideprojects.org/esp/events/speaking-of-abstraction-iii/"
+    description: "Public talk."
+
+  - title: "Softness perception"
+    event: "Seminar, University of Southampton"
+    date: "2012-11-28"
+    location: "Southampton, United Kingdom"
+    latitude: 50.9341805
+    longitude: -1.3974844
+    description: "Invited UK talk."
+
+  - title: "Visual-haptic perception of compliance"
+    event: "Seminar, UCL"
+    date: "2012-11-15"
+    location: "London, United Kingdom"
+    latitude: 51.524203
+    longitude: -0.1330007
+    description: "Invited UK talk."
+
+  - title: "Multisensory integration in limb ownership"
+    event: "MPI Tubingen"
+    date: "2012-02-06"
+    location: "Tubingen, Germany"
+    latitude: 48.5203263
+    longitude: 9.053596
+    description: "Invited non-UK talk; invited by Rolf Ulrich."
+
+  - title: "Munich Multisensory Perception Symposium"
+    event: "Munich Multisensory Perception Symposium"
+    date: "2011-06-24"
+    location: "Munich, Germany"
+    latitude: 48.1371079
+    longitude: 11.5753822
+    description: "Plenary talk."
+
+  - title: "Effects of exposure to audiovisual asynchrony on sensory processing"
+    event: "LMU Munich"
+    date: "2011-06-24"
+    location: "Munich, Germany"
+    latitude: 48.1371079
+    longitude: 11.5753822
+    description: "Invited non-UK talk; invited by Zhuanghua Shi and Hermann Mueller."
+
+  - title: "Multisensory perception"
+    event: "Universita di Sassari"
+    date: "2011-03-24"
+    location: "Sassari, Italy"
+    latitude: 40.7234746
+    longitude: 8.5612674
+    description: "Invited non-UK talk; invited by Baingio Pinna."
+
+  - title: "Recalibration of audiovisual simultaneity"
+    event: "Vrije Universiteit"
+    date: "2010-11-10"
+    location: "Amsterdam, Netherlands"
+    latitude: 52.3730796
+    longitude: 4.8924534
+    description: "Invited non-UK talk; invited by Astrid Kappers, Jeroen Smeets, and Devika Narain."
+
+  - title: "Temporal recalibration induced by exposure to asynchronous audiovisual stimuli"
+    event: "University of Tubingen"
+    date: "2010-11-04"
+    location: "Tubingen, Germany"
+    latitude: 48.5203263
+    longitude: 9.053596
+    description: "Invited non-UK talk; invited by Hannes Schroeter and Rolf Ulrich."
+
+  - title: "Visual-haptic perception of compliant objects"
+    event: "Giessen University"
+    date: "2010-06-03"
+    location: "Giessen, Germany"
+    latitude: 50.5862066
+    longitude: 8.6742306
+    description: "Invited non-UK talk; invited by Karl Gegenfurtner and Heiko Drewing."
+
+  - title: "Multimodal asynchrony: perceptual consequences and adaptation"
+    event: "SUNY Optometry"
+    date: "2009-11-18"
+    location: "New York, New York, United States"
+    latitude: 40.7127281
+    longitude: -74.0060152
+    description: "Invited non-UK talk; invited by Benjamin Backus."
+
+  - title: "Interaction in VR: Demonstrator systems and neuroscientific experiments"
+    event: "Technion"
+    date: "2008-11-03"
+    location: "Haifa, Israel"
+    latitude: 32.8191218
+    longitude: 34.9983856
+    description: "Invited non-UK talk; invited by Miriam Reiner."
+
+  - title: "Timing in the perception of reliability and signal changes"
+    event: "The University of Queensland"
+    date: "2007-11-07"
+    location: "Brisbane, Australia"
+    latitude: -27.4689623
+    longitude: 153.0235009
+    description: "Invited non-UK talk; invited by Guy Wallis."
