@@ -5,4 +5,4 @@ type: talkmap
 share: true
 ---
 
-Selected talks and presentations by location.
+Selected invited talks and presentations by location.

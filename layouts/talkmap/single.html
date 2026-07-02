@@ -18,11 +18,18 @@
       "latitude" .latitude
       "longitude" .longitude
       "url" (.url | default "")
+      "category" (.category | default "")
       "description" (.description | default "")
     ) }}
   {{ end }}
 {{ end }}
 {{ $mappedTalks = sort $mappedTalks "sort_key" "desc" }}
+{{ $listedTalks := slice }}
+{{ range $mappedTalks }}
+  {{ if or .url (eq .category "keynote") }}
+    {{ $listedTalks = $listedTalks | append . }}
+  {{ end }}
+{{ end }}
 
 <article class="article talkmap-page">
 
@@ -48,9 +55,10 @@
       <script id="talkmap-data" type="application/json">{{ $mappedTalks | jsonify | safeJS }}</script>
     </div>
 
-    {{ if gt (len $mappedTalks) 0 }}
+    {{ if gt (len $listedTalks) 0 }}
     <ol class="talkmap-list">
       {{ range $index, $talk := $mappedTalks }}
+      {{ if or $talk.url (eq $talk.category "keynote") }}
       <li class="talkmap-list__item" data-talk-index="{{ $index }}">
         <div class="talkmap-list__marker" aria-hidden="true"></div>
         <div class="talkmap-list__body">
@@ -70,9 +78,10 @@
         </div>
       </li>
       {{ end }}
+      {{ end }}
     </ol>
     {{ else }}
-    <p class="talkmap-empty">Talk locations will appear here soon.</p>
+    <p class="talkmap-empty">Talk links and keynote talks will appear here soon.</p>
     {{ end }}
 
     {{ partial "page_footer" . }}
