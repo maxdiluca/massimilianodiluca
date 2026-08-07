@@ -30,7 +30,7 @@ tags:
 - 'virtual reality'
 - 'collision awareness'
 - 'extended reality / virtual reality'
-featured: true
+featured: false
 
 url_pdf: 'https://research.birmingham.ac.uk/files/295068678/BeltAndWhistles_CHI26.pdf'
 url_code: ''

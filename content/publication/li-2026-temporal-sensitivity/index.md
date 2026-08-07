@@ -29,7 +29,7 @@ tags:
 - 'crossmodal perception'
 - 'multisensory perception'
 - 'psychophysics'
-featured: true
+featured: false
 
 url_pdf: 'https://link.springer.com/content/pdf/10.1007/s00221-026-07371-1.pdf'
 url_code: ''
