@@ -40,6 +40,20 @@ description = """PI/network role in a Horizon Europe doctoral network on active 
 [[item]]
 
 running = true
+organization = "CreaTech Frontiers (AHRC/UKRI)"
+organization_url = "https://createchfrontiers.com/"
+logo = "accomplishments-logos/createch-frontiers.svg"
+title = "Live & Immersive Innovation Fund"
+url = "https://createchfrontiers.com/programmes/"
+certificate_url = "https://createchfrontiers.com/programmes/"
+date_start = "2026-10-01"
+date_end = "2027-04-30"
+description = """Award supporting collaborative R&D in live performance and immersive experiences."""
+
+
+[[item]]
+
+running = true
 organization = "Digital Catapult / CreaTech Frontiers"
 organization_url = "https://www.digicatapult.org.uk/programmes/programme/createch-frontiers/"
 logo = "accomplishments-logos/createch-frontiers.svg"

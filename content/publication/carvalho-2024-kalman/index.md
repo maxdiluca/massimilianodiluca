@@ -3,7 +3,7 @@ title: 'A Kalman Filter Model for synchronisation in musical ensembles'
 
 authors:
 - H. Tremonte de Carvalho
-- M. Li
+- M. S. Li
 - M. Di Luca
 - A. M. Wing
 
