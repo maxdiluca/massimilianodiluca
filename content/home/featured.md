@@ -8,15 +8,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = ""
-subtitle = "Featured publications"
+title = "Selected publications"
+subtitle = "A curated selection of publications across XR, haptics, multisensory perception, timing, and computational modelling"
 columns = 1
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 6
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"

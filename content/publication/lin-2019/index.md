@@ -12,7 +12,7 @@ authors:
 - Andrew Robb
 - Yuting Ye
 - Massimiliano Di Luca
-- Sophie Jorg
+- Sophie Jörg
 tags:
 - 'gestural input'
 - 'interaction design'

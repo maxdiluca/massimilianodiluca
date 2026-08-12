@@ -1,5 +1,6 @@
 ---
-title: Posts
+title: Archive Pages
+summary: Legacy software, tutorial, and redirect pages retained for continuity.
 
 # View.
 #   1 = List

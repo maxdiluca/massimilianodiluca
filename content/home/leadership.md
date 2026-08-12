@@ -1,8 +1,8 @@
 +++
 widget = "blank"
 headless = true
-active = false
-weight = 12
+active = true
+weight = 10
 
 title = "Research Leadership and Infrastructure"
 subtitle = ""

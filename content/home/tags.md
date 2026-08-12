@@ -3,9 +3,9 @@
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
-title = "Research"
+title = "Research Topics"
 subtitle = ""
 
 [content]
@@ -66,4 +66,4 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-These themes connect basic perceptual science with usable systems: haptic devices, XR interaction techniques, timing methods, computational models, open datasets, and tools for research and creative practice.
+These topics connect basic perceptual science with usable systems: haptic devices, XR interaction techniques, timing methods, computational models, open datasets, and tools for research and creative practice.

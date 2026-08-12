@@ -5,7 +5,7 @@
 
 main:
   - name: Research
-    url: '#tags'
+    url: '#leadership'
     weight: 10
   - name: Projects
     url: '#portfolio'
