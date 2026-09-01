@@ -65,14 +65,14 @@ doi: 10.1109/WHC.2019.8816173
 
 url_video: 'https://youtu.be/e4eWdJMX3-Q'
 url_slides: 'Poster_visualhapticdelay.jpg'
+media_links:
+- name: 'Technical research story: Measuring the Perception of Latency with a Haptic Glove'
+  source: Forrest Smith / Facebook Reality Labs
+  date: '2019'
+  url: 'https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/'
 ---
 {{< paper_badges "10.1109/WHC.2019.8816173" >}}
 
 <img src="Poster_visualhapticdelay.jpg" alt="poster" class="img-responsive">
 
 {{<video src="WHC 2019 - 1147.mp4">}}
-
-Oculus tech blog: <a href="https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/">https://tech.fb.com/measuring-the-perception-of-latency-with-a-haptic-glove/</a>
-
-
-Forrest Smith blog: <a href="https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/">https://www.forrestthewoods.com/blog/measuring-the-perception-of-latency-with-a-haptic-glove/</a>
