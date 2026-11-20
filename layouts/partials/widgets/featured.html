@@ -6,6 +6,7 @@
 {{ $items_type := $st.Params.content.page_type | default "post" }}
 {{ $items_count := $st.Params.content.count | default 65535 }}
 {{ $items_sort := $st.Params.content.order| default "desc" }}
+{{ $columns := $st.Params.design.columns | default "2" }}
 
 {{/* Query */}}
 {{ $query := where (where site.RegularPages "Type" $items_type) "Params.featured" true }}
@@ -48,26 +49,21 @@
   {{ $i18n = "more_pages" }}
 {{ end }}
 
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
-    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-  </div>
-  <div class="col-12 col-lg-8">
+<div class="col-12{{ if eq $columns "2" }} col-lg-8{{ end }}">
 
-    {{ with $st.Content }}{{ . }}{{ end }}
+  {{ with $st.Content }}{{ . }}{{ end }}
 
-    {{ range $post := $query }}
-      {{ if eq $st.Params.design.view 1 }}
-        {{ partial "li_list" . }}
-      {{ else if eq $st.Params.design.view 3 }}
-        {{ partial "li_card" . }}
-      {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
-        {{ partial "li_citation" . }}
-      {{ else }}
-        {{ partial "li_compact" . }}
-      {{ end }}
-    {{end}}
+  {{ range $post := $query }}
+    {{ if eq $st.Params.design.view 1 }}
+      {{ partial "li_list" . }}
+    {{ else if eq $st.Params.design.view 3 }}
+      {{ partial "li_card" . }}
+    {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
+      {{ partial "li_citation" . }}
+    {{ else }}
+      {{ partial "li_compact" . }}
+    {{ end }}
+  {{ end }}
 
   {{ if $st.Params.content.link_to_archive }}
     <div class="see-all">
@@ -78,5 +74,4 @@
     </div>
   {{ end }}
 
-  </div>
 </div>

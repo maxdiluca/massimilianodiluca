@@ -55,7 +55,11 @@ links:
   url: https://github.com/arme-project/virtuoso-strings/tree/main/annotations
 
 image:
-  caption: 'Virtuoso Strings is an ARME dataset of string ensemble recordings and onset annotations for timing analysis.'
+  alt_text: 'Four members of the Coull Quartet play string instruments in a recording studio.'
+  caption: >-
+    The Coull Quartet in the Virtuoso Strings recording setup. Resized photograph from the
+    [ARME project](https://arme-project.co.uk/demos/virtuoso-strings),
+    [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
   focal_point: 'Center'
   preview_only: false
 

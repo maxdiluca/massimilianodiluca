@@ -15,7 +15,8 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+# Source gives May 2025; day 1 is used for month-level ordering.
+date: '2025-05-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-07-31T16:44:06.718400Z'
@@ -26,7 +27,7 @@ publication_types:
 - 2
 
 # Publication name and optional abbreviated publication name.
-publication: '*Experimental Brain Research*'
+publication: '*Experimental Brain Research*, 243(5), Article 107'
 publication_short: ''
 
 doi: 10.1007/s00221-025-07065-0
@@ -45,19 +46,25 @@ tags:
 featured: false
 
 # Links
-url_pdf: 'https://research.birmingham.ac.uk/files/263495289/s00221-025-07065-0.pdf'
-url_code: ''
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s00221-025-07065-0.pdf'
+url_code: 'https://github.com/dagmarfraser/velocity-curvature-power-law-protocol'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://link.springer.com/article/10.1007/s00221-025-07065-0'
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: VR Lab publication
+  url: https://virtualrealitylab.netlify.app/publication/fraser-2025-biological-kinematics/
+- name: Brain2Bee
+  url: https://cordis.europa.eu/project/id/757583/reporting
+- name: ARME
+  url: https://virtualrealitylab.netlify.app/projects/arme/
+- name: Article licence (CC BY 4.0)
+  url: https://creativecommons.org/licenses/by/4.0/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

@@ -20,7 +20,8 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+# Issue date. First published online on 13 February 2023.
+date: '2024-02-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-07-31T16:44:06.707443Z'
@@ -31,7 +32,7 @@ publication_types:
 - 2
 
 # Publication name and optional abbreviated publication name.
-publication: '*Behavior Research Methods*'
+publication: '*Behavior Research Methods*, 56(2), 1052–1063'
 publication_short: ''
 
 doi: 10.3758/s13428-022-02051-8
@@ -51,7 +52,7 @@ tags:
 featured: true
 
 # Links
-url_pdf: 'https://research.birmingham.ac.uk/files/186972704/s13428_022_02051_8.pdf'
+url_pdf: 'https://pure-oai.bham.ac.uk/ws/portalfiles/portal/186972704/s13428_022_02051_8.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

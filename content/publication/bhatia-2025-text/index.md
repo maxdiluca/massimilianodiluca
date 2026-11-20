@@ -1,6 +1,5 @@
 ---
-title: 'TEXT: Text Entry for XR Trove—Collecting and Analyzing Techniques for Text
-  Input in XR'
+title: 'Text Entry for XR Trove (TEXT): Collecting and Analyzing Techniques for Text Input in XR'
 
 # Authors
 # A YAML list of author names
@@ -19,7 +18,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2025-04-25'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-07-31T16:44:06.721814Z'
@@ -27,11 +26,11 @@ publishDate: '2025-07-31T16:44:06.721814Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 2
+- 1
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2025 CHI Conference on Human Factors in
-  Computing Systems*"
+  Computing Systems*, Article 1223"
 publication_short: ''
 
 doi: '10.1145/3706598.3713382'
@@ -54,19 +53,23 @@ tags:
 featured: true
 
 # Links
-url_pdf: 'https://pure.bham.ac.uk/admin/files/258678841/XRTextTrove_Camera_Ready.pdf'
+url_pdf: 'https://pure-oai.bham.ac.uk/ws/portalfiles/portal/264715910/3706598.3713382.pdf'
 url_code: ''
 url_dataset: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3706598.3713382&file=pn7274.json'
 url_poster: ''
-url_project: 'https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/'
+url_project: 'https://xrtexttrove.github.io/'
 url_slides: ''
 url_source: ''
 url_video: 'https://dl.acm.org/doi/suppl/10.1145/3706598.3713382/suppl_file/pn7274-talk-video.mp4'
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
-  url: https://xrtexttrove.github.io/
+- name: VR Lab publication
+  url: https://virtualrealitylab.netlify.app/publication/bhatia-2025-text/
+- name: ARME
+  url: https://virtualrealitylab.netlify.app/projects/arme/
+- name: Article licence (CC BY 4.0)
+  url: https://creativecommons.org/licenses/by/4.0/
 media_links:
 - name: XR Text Trove catalogues text input techniques for VR and AR
   source: Road to VR

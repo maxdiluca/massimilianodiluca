@@ -40,8 +40,22 @@ url_slides: ''
 url_source: 'https://link.springer.com/article/10.1007/s00221-026-07371-1'
 url_video: ''
 
+links:
+- name: VR Lab publication
+  url: https://virtualrealitylab.netlify.app/publication/li-2026-temporal-sensitivity/
+- name: TICS
+  url: https://virtualrealitylab.netlify.app/funding/#support-07
+- name: ARME
+  url: https://virtualrealitylab.netlify.app/projects/arme/
+- name: Article licence (CC BY 4.0)
+  url: https://creativecommons.org/licenses/by/4.0/
+
 image:
-  caption: ''
+  alt_text: 'Four sequences show five auditory or visual events spaced 700 ms apart and a sixth event that either matches or switches modality.'
+  caption: >-
+    The final event in each sequence either matches or switches sensory modality.
+    [Figure 1, Li and Di Luca (2026)](https://link.springer.com/article/10.1007/s00221-026-07371-1/figures/1),
+    [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
   focal_point: 'Center'
   preview_only: false
 
