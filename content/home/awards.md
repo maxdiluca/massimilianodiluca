@@ -60,7 +60,7 @@ description = """"""
 
 running = false
 organization = """UBIAS"""
-organization_url = "https://www.ubias.net/about-the-institute"
+organization_url = "https://www.ubias.net/"
 logo = "accomplishments-logos/ICA.png"
 title = """Fellow of the InterContinental Academia"""
 url = "https://intercontinental-academia.ubias.net"

@@ -1,10 +1,39 @@
 # Netlify redirects
 # Automatically generated
 # Documentation: http://bit.ly/netlify-deployment
-/pages/timely  /pages/Timely.html  200
-/pages/timely/  /pages/Timely.html  200
-/timely  /Timely.html  200
-/timely/  /Timely.html  200
+
+# Preserve the previous manifest URL.
+/manifest.webmanifest /index.webmanifest 301
+
+# Legacy TIMELY pages resolved relative asset references under their own paths.
+/pages/timely/Timely_files/* /pages/Timely_files/:splat 301
+/timely/Timely_files/* /pages/Timely_files/:splat 301
+
+# Legacy research, portfolio, and publication URLs.
+/pages/research/Entries/2014/12/5_Stimulus_timing.html /project/timing/ 301
+/pages/research/Entries/2014/12/7_Temporal_Perception.html /project/temporal/ 301
+/pages/research/Entries/2014/12/8_Multisensory_Softness.html /project/multisensory-softness/ 301
+/portfolio/missiontomars/index.md /portfolio/missiontomars/ 301
+/portfolio/tactile/index.md /portfolio/tactile/ 301
+/portfolio/tactilemirror/index.md /portfolio/tactilemirror/ 301
+/portfolio/viscosity/index.md /portfolio/viscosity/ 301
+/project/multisensory-perception/index.md /project/multisensory-perception/ 301
+/publication/Roberts-2020s.pdf /publication/roberts-2020/Roberts-2020s.pdf 301
+/publication/deflorio-2022/index.md /publication/deflorio-2022/ 301
+/publication/di-luca-2011-a/index.md /publication/di-luca-2011-a/ 301
+/publication/di-luca-2014-b/index.md /publication/di-luca-2014-b/ 301
+/publication/fraser-2025/index.md /publication/fraser-2025/ 301
+/publication/groten-2008-a/index.md /publication/groten-2008-a/ 301
+/publication/kawazoe-2021/index.md /publication/kawazoe-2021/ 301
+/publication/kuschel-2010/index.md /publication/kuschel-2010/ 301
+/publication/lin-2019/index.md /publication/lin-2019/ 301
+/publication/noel-2018/index.md /publication/noel-2018/ 301
+/publication/ortenzi-2022/index.md /publication/ortenzi-2022-robot-tool/ 301
+/publication/scalera-2017/index.md /publication/scalera-2017/ 301
+/publication/scalera-2018/index.md /publication/scalera-2018/ 301
+/publication/sun-2016-a/index.md /publication/sun-2016-a/ 301
+/publication/van-beek-2019/index.md /publication/van-beek-2019/ 301
+/publication/van-der-stoep-2016/index.md /publication/van-der-stoep-2016/ 301
 
 {{/* Note: code purposely un-indented to preserve required spacing in output. */}}
 {{ range $page := where site.AllPages ".Aliases" "!=" nil -}}

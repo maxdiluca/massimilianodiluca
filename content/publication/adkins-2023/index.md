@@ -55,10 +55,10 @@ url_pdf: 'https://research.birmingham.ac.uk/files/183996315/Importance_of_Hand_M
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://people.computing.clemson.edu/~sjoerg/communication.html'
+url_project: 'https://www.uni-bamberg.de/en/ai/cg/publications/tog2023/'
 url_slides: ''
 url_source: ''
-url_video: 'https://people.computing.clemson.edu/~sjoerg/communication/Adkins23_CommunicationVideo.mp4'
+url_video: 'https://www.uni-bamberg.de/fileadmin/cg/publications/Adkins23_HandMotionsInCommunication.mp4'
 
 # Custom links (uncomment lines below)
 # links:

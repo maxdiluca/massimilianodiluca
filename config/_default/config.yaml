@@ -43,6 +43,9 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: false
+outputFormats:
+  WebAppManifest:
+    baseName: index
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]

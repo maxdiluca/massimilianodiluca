@@ -1,3 +1,4 @@
+{{- $repository := site.Params.ghrepo -}}
 <table >
 	<thead>
 		<tr>
@@ -14,9 +15,15 @@
 				<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</td>
 			<td class="pv2 ph3">
-				<a href="{{.Site.Params.ghrepo}}/{{.Path}}">
-					{{ with .GitInfo }}{{ .Subject }}{{ else }}Source{{ end }}
-				</a>
+				{{ with .GitInfo }}
+					{{ if $repository }}
+						<a href="{{ $repository }}/commit/{{ .Hash }}">{{ .Subject }}</a>
+					{{ else }}
+						{{ .Subject }}
+					{{ end }}
+				{{ else }}
+					&mdash;
+				{{ end }}
 			</td>
 		</tr>
 		{{ end }}

@@ -23,6 +23,7 @@ portfolio:
   - tactile
   - tactilemirror
   - visualhapticstiffness
+  - codedelay
   - viscosity
 figure:
   image: /media/research-topic/haptics.png

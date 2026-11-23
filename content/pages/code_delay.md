@@ -1,6 +1,8 @@
 ---
-title: Code Delay
-summary: Archived MATLAB source code and example data for measuring end-to-end delay in virtual reality systems.
+title: How to measure end-to-end latency in VR
+summary: Measure the delay between physical motion and its display in virtual reality using two photodiodes, MATLAB scripts and example recordings.
+aliases:
+  - /pages/code_delay.html
 
 # View.
 #   1 = List
@@ -15,7 +17,7 @@ header:
   image: ""
 ---
 
-This archived page provides the MATLAB source code and example recordings described in Massimiliano Di Luca's article, ["New Method to Measure End-to-End Delay of Virtual Reality"](https://direct.mit.edu/pvar/article/19/6/569/18788/New-Method-to-Measure-End-to-End-Delay-of-Virtual), published in *Presence: Teleoperators & Virtual Environments*. The related publication page is [available here](/publication/di-luca-2010/).
+End-to-end latency is the time between a physical movement and the corresponding change on a virtual reality display. This method measures that delay using two photodiodes and a stereo audio input. The [MATLAB code and example recordings](#download) accompany the [2010 methods paper](/publication/di-luca-2010/), published in *Presence: Teleoperators & Virtual Environments*.
 
 The software implements a method based on two photodiodes and two gradients: one physical gradient shown on a flat-panel display and one virtual gradient rendered by the system under test. The photodiode signals are recorded through a stereo audio input, making it possible to compare physical and virtual trajectories without specialised recording hardware.
 
@@ -36,7 +38,9 @@ The analysis script estimates the movement frequency and delay for each recordin
 - `calculate_delay_gui.m`: loads a series of recordings and estimates relative delay and the largest frequency component.
 - `myfilteronefreq.m`, `finddelay.m`, `fsplot.m`, and `findfreq.m`: files required by `calculate_delay_gui.m`.
 
-## Terms
+## Download
+
+[Accept the licence terms below and download the MATLAB code and example recordings (ZIP)](delay_measurement_0_3.zip).
 
 Copyright (c) 2010, Massimiliano Di Luca.
 
@@ -46,4 +50,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[I accept the terms and download the archive](delay_measurement_0_3.zip)
+## Related research
+
+- [Stimulus timing](/project/timing/) covers timing measurement in psychophysical experiments.
+- [Perceptual Limits of Visual-Haptic Simultaneity in Virtual Reality Interactions](/publication/di-luca-2019/) examines when users detect a timing difference between visual and haptic feedback.
