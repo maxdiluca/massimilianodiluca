@@ -5,6 +5,12 @@
 # Preserve the previous manifest URL.
 /manifest.webmanifest /index.webmanifest 301
 
+# Redirect legacy entry URLs on the server to avoid shadowing the canonical pages.
+/pages/code_delay.html /pages/code_delay/ 301
+/pages/Timely.html /pages/timely/ 301
+/Timely.html /pages/timely/ 301
+/timely/ /pages/timely/ 301
+
 # Legacy TIMELY pages resolved relative asset references under their own paths.
 /pages/timely/Timely_files/* /pages/Timely_files/:splat 301
 /timely/Timely_files/* /pages/Timely_files/:splat 301

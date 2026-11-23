@@ -1,10 +1,6 @@
 ---
 title: "TIMELY tutorial: Measuring audiovisual simultaneity"
 summary: Compare Spearman–Kärber, probit and Psignifit methods for analysing audiovisual simultaneity judgements with MATLAB scripts and example data.
-aliases:
-  - /pages/Timely.html
-  - /Timely.html
-  - /timely/
 ---
 
 The TIMELY tutorial shows how to analyse judgements of audiovisual simultaneity when the timing difference between a flash and a sound varies. The examples compare the Spearman–Kärber method, probit analysis and Psignifit fitting without priors.

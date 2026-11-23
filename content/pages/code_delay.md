@@ -1,8 +1,6 @@
 ---
 title: How to measure end-to-end latency in VR
 summary: Measure the delay between physical motion and its display in virtual reality using two photodiodes, MATLAB scripts and example recordings.
-aliases:
-  - /pages/code_delay.html
 
 # View.
 #   1 = List
